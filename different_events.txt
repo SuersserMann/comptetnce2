@@ -1,0 +1,3600 @@
+Text ID: 340fa9c005189a7fd98c4fb977c9864b
+Events in file 1: [{'type': '债务违约', 'entity': '恒大'}]
+Events in file 2: [{'type': '产品违约/不足额兑付', 'entity': '恒大'}]
+
+Text ID: 433648c0aaa4f510afcab7c2433309ac
+Events in file 1: []
+Events in file 2: [{'type': '公司退市', 'entity': '阳光信用'}]
+
+Text ID: 82e2e60631ef03443abc920c0f198fe3
+Events in file 1: [{'type': '破产清算', 'entity': '力帆集团'}]
+Events in file 2: []
+
+Text ID: 70941fe28fd6d6d8090c64d8c090266f
+Events in file 1: [{'type': '股权冻结/强制转让', 'entity': '宁波中百'}]
+Events in file 2: [{'type': '实际控制人涉诉仲裁', 'entity': '宁波中百'}]
+
+Text ID: 03f0a7e28da744ce871de2b65a33850f
+Events in file 1: [{'type': '公司违规关联交易', 'entity': '申万宏源证券'}]
+Events in file 2: [{'type': '公司违规关联交易', 'entity': '申万宏源证券承销保荐有限责任公司'}, {'type': '公司违规关联交易', 'entity': '伊赛牛肉'}]
+
+Text ID: 329d16fbfb56f8b284088c122f1e5975
+Events in file 1: [{'type': '产品虚假宣传', 'entity': '盒马鲜生'}]
+Events in file 2: [{'type': '产品虚假宣传', 'entity': '——盒马鲜生'}]
+
+Text ID: a0942641f313cdb79a97a347ec657f43
+Events in file 1: [{'type': '盈利能力下降', 'entity': '立信中联会计师事务所(特殊普通合伙)'}, {'type': '盈利能力下降', 'entity': '阳光城'}, {'type': '债务违约', 'entity': '阳光城'}]
+Events in file 2: [{'type': '经营亏损', 'entity': '立信中联会计师事务所(特殊普通合伙)'}, {'type': '盈利能力下降', 'entity': '阳光城'}, {'type': '债务违约', 'entity': '阳光城'}]
+
+Text ID: 1dc71a5bea8b1a9a1cd1c0b925cdd0dd
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '招商港口'}]
+
+Text ID: b60c0d11c1040ac02263aeb64651c719
+Events in file 1: []
+Events in file 2: [{'type': '签订对赌协议', 'entity': '国家电投'}]
+
+Text ID: 11e49dbbf080d8a7bbc6b52e2c833c79
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': 'st光一'}]
+
+Text ID: 7036f59a2155a7182f5a3085d08093a7
+Events in file 1: [{'type': '禁入行业', 'entity': '康美药业'}]
+Events in file 2: [{'type': '终身禁入行业', 'entity': '康美药业'}, {'type': '禁入行业', 'entity': '康美药业'}]
+
+Text ID: 70d8b5a3effb53ac086bde44d9900b86
+Events in file 1: []
+Events in file 2: [{'type': '非法集资', 'entity': '河南新大新材'}]
+
+Text ID: da239b2c1201d204177b37f6a3f9c066
+Events in file 1: []
+Events in file 2: [{'type': '网站安全漏洞', 'entity': '山西联通'}]
+
+Text ID: 80366d1a8a4def0c6774099a846a6e04
+Events in file 1: [{'type': '高层变更', 'entity': '京沪高速铁路股份有限公司'}]
+Events in file 2: [{'type': '审计师辞任', 'entity': '京沪高速铁路股份有限公司'}]
+
+Text ID: 1ca9ca5486bede48216c91e4655ca8ac
+Events in file 1: []
+Events in file 2: [{'type': '澄清辟谣', 'entity': '哈尔滨顺鑫食品'}]
+
+Text ID: 325768c4d9ed256dfe9577072019ac77
+Events in file 1: []
+Events in file 2: [{'type': '资本充足不足', 'entity': '贵州乌当农商行'}]
+
+Text ID: 02fa3a236d9207767317a2e4ef2c8ab2
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': 'waterstones'}]
+
+Text ID: 94bbfb23aa0377563d166fecb5a1f8b5
+Events in file 1: []
+Events in file 2: [{'type': '资产质量下降', 'entity': '中美天元'}]
+
+Text ID: 69e3eeb8d57a53f285cb236b0ca7e355
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '中捷资源投资股份有限公司'}]
+
+Text ID: f9302c10f371341b83c60beb095a4645
+Events in file 1: [{'type': '窃取别人商业机密', 'entity': '湖南风顺鞋业制造有限公司'}]
+Events in file 2: [{'type': '责令改正', 'entity': '湖南风顺鞋业制造有限公司'}]
+
+Text ID: 99682dcf3fe99875517bec924d4e2b12
+Events in file 1: []
+Events in file 2: [{'type': '重大赔付', 'entity': 'st天润'}]
+
+Text ID: 7d64a4d55019590a7403eab9fc29fc3e
+Events in file 1: []
+Events in file 2: [{'type': '资产冻结', 'entity': '新城控股新城控股'}]
+
+Text ID: 18104bdc6d5779c1af4e161b90442c26
+Events in file 1: [{'type': '财务信息造假', 'entity': '康美药业'}]
+Events in file 2: [{'type': '禁入行业', 'entity': '康美药业'}]
+
+Text ID: fc247be19a16870337c67dd15a6f18e7
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '阳康后'}]
+
+Text ID: 42200f202e4f210be8a3d6f8a0e97674
+Events in file 1: [{'type': '业务/资产重组', 'entity': '杭州热电'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '日播时尚'}, {'type': '业务/资产重组', 'entity': '杭州热电'}]
+
+Text ID: fa8c3bb1fe329eb55644b3c0be6b6f75
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '淘宝京东'}]
+
+Text ID: a67d325f4d74bd4fcfecb4227f67aeca
+Events in file 1: []
+Events in file 2: [{'type': '被列为失信被执行人', 'entity': '许昌农商行'}]
+
+Text ID: ce2c84e6e7d2cff0d56a681f28660cab
+Events in file 1: [{'type': '非法集资', 'entity': 'e租宝'}]
+Events in file 2: []
+
+Text ID: 666aec6b5589d6c8785bb63bf6ad3688
+Events in file 1: []
+Events in file 2: [{'type': '行业排名下降', 'entity': '凯淳股份'}, {'type': '行业排名下降', 'entity': '国联股份'}, {'type': '行业排名下降', 'entity': 'ST易购'}, {'type': '行业排名下降', 'entity': '华鼎股份'}]
+
+Text ID: b2c2cd1e96b227e201df2e370a17a4e6
+Events in file 1: []
+Events in file 2: [{'type': '内幕交易', 'entity': '今创集团股份有限公司'}]
+
+Text ID: b60c0d11c1040ac02263aeb64651c719
+Events in file 1: []
+Events in file 2: [{'type': '签订对赌协议', 'entity': '国家电投'}]
+
+Text ID: 5d38e234ba3d42a5a93dcb4a5d10ebc1
+Events in file 1: [{'type': '业务/资产重组', 'entity': '中国中化控股有限公司'}, {'type': '业务/资产重组', 'entity': '中国化工集团'}]
+Events in file 2: []
+
+Text ID: c1d93948f0c84be22c6d196e12205a27
+Events in file 1: [{'type': '资产冻结', 'entity': '龙浩集团有限公司'}]
+Events in file 2: [{'type': '被列为失信被执行人', 'entity': '龙浩集团有限公司'}]
+
+Text ID: c427fadbb5a63bac94aedcd2d1ee8648
+Events in file 1: [{'type': '经营激进', 'entity': '卫龙'}]
+Events in file 2: [{'type': '经营激进', 'entity': '卫龙ipo'}]
+
+Text ID: d63b41952591c9399d08639e4d445419
+Events in file 1: [{'type': '实际控制人变更', 'entity': '九州证券'}]
+Events in file 2: [{'type': '第一大股东变化', 'entity': '同创九鼎投资管理集团股份有限公司'}, {'type': '实际控制人变更', 'entity': '九州证券'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 9d540cffd1714d94700d351c87aad36b
+Events in file 1: []
+Events in file 2: [{'type': '股票发行失败', 'entity': '联想集团'}]
+
+Text ID: cd827927fe2c1d6e81277179dffc4444
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人失联/死亡', 'entity': '鸿元石化'}]
+
+Text ID: 53b763118839f5b804d9ed287da2bdbf
+Events in file 1: [{'type': '实际控制人涉嫌违法', 'entity': '奥维通信'}]
+Events in file 2: [{'type': '实际控制人涉诉仲裁', 'entity': '奥维通信'}]
+
+Text ID: f7b9d5fb6a9aa54aff03d0134215719a
+Events in file 1: []
+Events in file 2: [{'type': '公司退市', 'entity': '山西军创文化科技发展有限公司'}]
+
+Text ID: 50ac402626f1a412aa82cc087abcb0e3
+Events in file 1: [{'type': '债务违约', 'entity': '獐子岛集团股份有限公司'}]
+Events in file 2: [{'type': '重大债务到期', 'entity': '獐子岛集团股份有限公司'}]
+
+Text ID: 6f7ad1a52bf0723c5210ee05a5c30ad1
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '庞大集团'}]
+
+Text ID: 98535d81551745772a5e46909cdb53fe
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '盒马'}]
+
+Text ID: 9f4937dd0e24c256954e2343a0630160
+Events in file 1: []
+Events in file 2: [{'type': '公司退市', 'entity': '河北绿科房地产开发有限公司'}]
+
+Text ID: 95607dcaeb488f17cde5cd7c9f15402b
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '大商集团'}]
+
+Text ID: fe6c8dafce9aabebdc04d4b1b46cffa8
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '铜陵有色'}]
+
+Text ID: 85749800c7b1ce6adcb63686ac9c48c0
+Events in file 1: [{'type': '责令改正', 'entity': '奈雪的茶'}]
+Events in file 2: [{'type': '责令改正', 'entity': '奈雪'}]
+
+Text ID: 2187d65c4d57a074278f1125c753f4e4
+Events in file 1: [{'type': '造假欺诈', 'entity': '永利八达通'}, {'type': '造假欺诈', 'entity': '京东'}]
+Events in file 2: [{'type': '造假欺诈', 'entity': '永利八达通'}]
+
+Text ID: 2aaab2683dfab341f4185a88f5cdbaa9
+Events in file 1: []
+Events in file 2: [{'type': '澄清辟谣', 'entity': '杭州芸和沐科技有限公司'}]
+
+Text ID: b6bb8e3c05b8252bfe4ce764eef41214
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '历峰集团'}]
+
+Text ID: e979b6d8df712bf889bc9ec33d624060
+Events in file 1: [{'type': '行业排名下降', 'entity': '怡亚通'}, {'type': '行业排名下降', 'entity': '来伊份'}, {'type': '行业排名下降', 'entity': '海南椰岛'}]
+Events in file 2: [{'type': '行业排名下降', 'entity': '山西汾酒'}, {'type': '行业排名下降', 'entity': '*ST皇台'}, {'type': '行业排名下降', 'entity': '怡亚通'}, {'type': '行业排名下降', 'entity': '来伊份'}, {'type': '行业排名下降', 'entity': '海南椰岛'}]
+
+Text ID: 8839cb66a002dc56d20e0a863ee43417
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '易见股份'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '*st易见'}, {'type': '企业被问询约谈审查', 'entity': '易见股份'}]
+
+Text ID: 0606e49e2ff73353cefe28fc35a84331
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '金螳螂'}]
+
+Text ID: e341a34ddeedf7cfa9800bd5ceb943b2
+Events in file 1: []
+Events in file 2: [{'type': '债务展期', 'entity': '花旗集团'}]
+
+Text ID: 2f6d96366f72b683bf4f6d6c8090524b
+Events in file 1: [{'type': '实际控制人变更', 'entity': '大连电瓷'}]
+Events in file 2: []
+
+Text ID: 2a968726b049f9d40363e9aeeedaa0dd
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '上海佰程建设项目管理有限公司'}]
+
+Text ID: 917a9227eac452a82abf394377bbeed5
+Events in file 1: []
+Events in file 2: [{'type': '债务展期', 'entity': '三星'}]
+
+Text ID: 360ad31c0e9393596ff8126ac13c52f5
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '陕西永鑫'}]
+
+Text ID: fab30ec10a1611823d140f2e2f66cddd
+Events in file 1: [{'type': '重大资产损失', 'entity': '浙江唐德影视股份有限公司'}]
+Events in file 2: [{'type': '投资亏损', 'entity': '浙江唐德影视股份有限公司'}]
+
+Text ID: c0f1d370b7fd016ef7752bcae6d660b7
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '迈良科技有限公司'}]
+
+Text ID: b01766f11044c1ab2473b6c0d405a746
+Events in file 1: [{'type': '股权冻结/强制转让', 'entity': '雏鹰农牧'}]
+Events in file 2: [{'type': '实际控制人涉诉仲裁', 'entity': '雏鹰农牧'}]
+
+Text ID: dba9127f42a9fc82e0708fe1708f4ce5
+Events in file 1: []
+Events in file 2: [{'type': '偷税漏税', 'entity': '湖北省崇阳县众鑫化工有限责任公司'}]
+
+Text ID: 9ce47b99c18bcfe0d9d719707382dca1
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '南京金龙客车制造有限公司'}]
+
+Text ID: 5bfefb2765c953772a95d4e0b5feec46
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': '江苏莫安迪科技股份有限公司'}]
+
+Text ID: cd99fe5d8e69db31fed0d2611e8b5f26
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '安徽豆福豆制品有限公司'}, {'type': '监管入驻', 'entity': '安徽京创食品有限公司'}]
+
+Text ID: cf1cb78eaee26c11b392498fed8ed2a1
+Events in file 1: [{'type': '连续下跌', 'entity': '金隅'}, {'type': '连续下跌', 'entity': '中建材'}, {'type': '连续下跌', 'entity': '馬鋼'}, {'type': '连续下跌', 'entity': '鞍鋼'}]
+Events in file 2: [{'type': '连续下跌', 'entity': '金隅'}, {'type': '连续下跌', 'entity': '馬鋼'}, {'type': '连续下跌', 'entity': '鞍鋼'}]
+
+Text ID: 1fe9987833f82888dce670432e4621a1
+Events in file 1: []
+Events in file 2: [{'type': '澄清辟谣', 'entity': '天邦股份'}]
+
+Text ID: 327dfbab6e8d4761fe5cdab4bd655c3a
+Events in file 1: [{'type': '裁员', 'entity': 'facebook'}, {'type': '裁员', 'entity': '字节'}]
+Events in file 2: [{'type': '裁员', 'entity': 'facebook'}]
+
+Text ID: 543e5ad296ff8b5e050c6683f3bd6350
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '海航基础设施投资集团股份有限公司'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '*st基础'}, {'type': '企业被问询约谈审查', 'entity': '海航基础设施投资集团股份有限公司'}]
+
+Text ID: d4a4528497a08ca2419ded7c9989eb99
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '太平洋证券'}]
+
+Text ID: 4d580a5e3924d46ab2a14f528b514fd2
+Events in file 1: [{'type': '经营亏损', 'entity': '台电'}, {'type': '经营亏损', 'entity': '绿能发电'}]
+Events in file 2: [{'type': '经营亏损', 'entity': '绿能发电'}]
+
+Text ID: 945845d23cb0bf359b790cb34864929f
+Events in file 1: [{'type': '停产停业', 'entity': '李氏麦香园餐饮管理有限公司'}, {'type': '停产停业', 'entity': '武汉浩林印刷包装材料有限公司'}]
+Events in file 2: [{'type': '停产停业', 'entity': '李氏麦香园餐饮管理有限公司'}]
+
+Text ID: efcd70f06f7612b1ba7c5e283e71c3ae
+Events in file 1: [{'type': '退出市场', 'entity': '阿尔特拉'}]
+Events in file 2: []
+
+Text ID: f39f249ec11f78ee7d1e55be6f17b019
+Events in file 1: [{'type': '信息泄露', 'entity': 'kalanick'}]
+Events in file 2: []
+
+Text ID: 2271e09ef1cca5a642b54d6a882ca6ad
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '珠江钢琴'}]
+
+Text ID: c8e0ac8583bcb28f26230aa5448f8e4f
+Events in file 1: [{'type': '产品虚假宣传', 'entity': '欧莱雅'}]
+Events in file 2: [{'type': '产品虚假宣传', 'entity': '巴黎欧莱雅'}]
+
+Text ID: bcee6e49bea94e7a53f5f20c3b488f28
+Events in file 1: []
+Events in file 2: [{'type': '警告', 'entity': '星宇'}]
+
+Text ID: 51035ca2d5016cce95fe7297722bd994
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '亚美体育'}]
+
+Text ID: 73754569e42cba720aa7640ee7763e70
+Events in file 1: [{'type': '裁员', 'entity': '新东方'}, {'type': '裁员', 'entity': '高途'}, {'type': '裁员', 'entity': '作业帮'}, {'type': '裁员', 'entity': '猿辅导'}]
+Events in file 2: [{'type': '裁员', 'entity': '新东方'}, {'type': '裁员', 'entity': '高途'}, {'type': '裁员', 'entity': '作业帮'}]
+
+Text ID: e197d36a1036ae337da76d66a0560b9a
+Events in file 1: [{'type': '资产冻结', 'entity': '吉林天首'}]
+Events in file 2: [{'type': '资产冻结', 'entity': '吉林天首'}, {'type': '股权冻结/强制转让', 'entity': '天池钼业'}]
+
+Text ID: 6124f9935e8a784bfc3f7dbd3b0c680e
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '新协航'}, {'type': '经营激进', 'entity': '泛亚物流'}, {'type': '经营激进', 'entity': '飞熊领鲜'}]
+
+Text ID: 191caab6b9646b4791742a8dfce9ed5f
+Events in file 1: [{'type': '债务违约', 'entity': '沈阳机床(集团)有限责任公司'}, {'type': '债务违约', 'entity': '深圳市大富配天投资有限公司'}]
+Events in file 2: [{'type': '债务违约', 'entity': '沈阳机床(集团)有限责任公司'}, {'type': '债务违约', 'entity': '安徽省外经建设(集团)有限公司'}, {'type': '债务违约', 'entity': '精功集团有限公司'}, {'type': '债务违约', 'entity': '深圳市大富配天投资有限公司'}]
+
+Text ID: d958831065e3878147defe6faf519162
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '麦当劳'}, {'type': '企业被问询约谈审查', 'entity': '老马拉面'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '老马拉面'}]
+
+Text ID: b001f5c60a86e6ae2e442a072f52aaaa
+Events in file 1: [{'type': '扰乱市场秩序', 'entity': '深房理'}]
+Events in file 2: [{'type': '责令改正', 'entity': '深房理'}]
+
+Text ID: a0942641f313cdb79a97a347ec657f43
+Events in file 1: [{'type': '盈利能力下降', 'entity': '立信中联会计师事务所(特殊普通合伙)'}, {'type': '盈利能力下降', 'entity': '阳光城'}, {'type': '债务违约', 'entity': '阳光城'}]
+Events in file 2: [{'type': '经营亏损', 'entity': '立信中联会计师事务所(特殊普通合伙)'}, {'type': '盈利能力下降', 'entity': '阳光城'}, {'type': '债务违约', 'entity': '阳光城'}]
+
+Text ID: 1dc71a5bea8b1a9a1cd1c0b925cdd0dd
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '招商港口'}]
+
+Text ID: 1c66001e95bf5a5560e500cd7b893132
+Events in file 1: []
+Events in file 2: [{'type': '窃取别人商业机密', 'entity': '东莞安晟半导体技术有限公司'}]
+
+Text ID: 821b2366e4e62cb6b279da1fac70db47
+Events in file 1: [{'type': '行业排名下降', 'entity': '移远通信'}]
+Events in file 2: []
+
+Text ID: 625c2d9e238b77a636d2e7d6d4aebaaf
+Events in file 1: []
+Events in file 2: [{'type': '审计师辞任', 'entity': '有方科技'}]
+
+Text ID: 6dfbdb7fc756d7989ac9e2534084ab1e
+Events in file 1: [{'type': '盈利能力下降', 'entity': '苏宁易购'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '苏宁易购'}, {'type': '盈利能力下降', 'entity': '河南苏宁易购'}]
+
+Text ID: 829ef7176f068727530c1bdc9384d00a
+Events in file 1: [{'type': '重大安全事故', 'entity': '中航工业'}]
+Events in file 2: []
+
+Text ID: 74fc301db2d5a37e4cbc817899a54b2c
+Events in file 1: []
+Events in file 2: [{'type': '资产冻结', 'entity': '蒙阴县龙泰果蔬保鲜有限公司'}]
+
+Text ID: 14a8146ce23181fc3b48f3ea726cbbdd
+Events in file 1: [{'type': '高层变更', 'entity': '网金社'}]
+Events in file 2: [{'type': '高层变更', 'entity': '三潭金融'}, {'type': '高层变更', 'entity': '网金社'}]
+
+Text ID: 1ebb77d44c0df2dc7370e922d924b390
+Events in file 1: [{'type': '业务/资产重组', 'entity': '深圳市花样年地产集团有限公司'}]
+Events in file 2: [{'type': '债务重组', 'entity': '花样年地产集团有限公司'}]
+
+Text ID: 83f0c0bb34c87de788d795d13f2ceeba
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '嘉应制药'}]
+
+Text ID: 600eb4722323be3d119eacf6aee72596
+Events in file 1: [{'type': '扰乱市场秩序', 'entity': '苹果'}]
+Events in file 2: []
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 591bc1a628a44724bf7ad94028205b37
+Events in file 1: [{'type': '停产停业', 'entity': '佳木斯证券'}]
+Events in file 2: [{'type': '停产停业', 'entity': '富友证券'}, {'type': '停产停业', 'entity': '佳木斯证券'}, {'type': '停产停业', 'entity': '新华证券'}]
+
+Text ID: 1c421104245c7a992e6a1e85d17add38
+Events in file 1: [{'type': '责令改正', 'entity': '长安银行'}]
+Events in file 2: []
+
+Text ID: 4ad7669503ab51b57ec15cb254f1762a
+Events in file 1: [{'type': '裁员', 'entity': '新东方'}]
+Events in file 2: [{'type': '裁员', 'entity': 'k-9'}, {'type': '裁员', 'entity': '新东方'}]
+
+Text ID: 62e86117685b12fed9ea547d7582d0b3
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '南宁颐然养老产业合伙企业'}]
+
+Text ID: 98535d81551745772a5e46909cdb53fe
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '盒马'}]
+
+Text ID: 8a86781745a02aaf24075b0e9afcd17d
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '管易云公司'}]
+
+Text ID: 3a52e130c6523426f1f5a2157a566a4b
+Events in file 1: [{'type': '实际控制人涉诉仲裁', 'entity': '腾信股份'}]
+Events in file 2: [{'type': '实际控制人涉嫌违法', 'entity': '腾信股份'}]
+
+Text ID: f4a46f2d46fac178c8310aee94a29b8d
+Events in file 1: [{'type': '评级机构中止评级', 'entity': '佳兆业'}]
+Events in file 2: []
+
+Text ID: 64272455eca1add59f26cb13b6d389d5
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '广州用能互联网有限公司'}]
+
+Text ID: dbbf972464fb9741111a7549448bbb79
+Events in file 1: [{'type': '债务展期', 'entity': '方正集团'}]
+Events in file 2: [{'type': '债务展期', 'entity': '方正集团'}, {'type': '债务展期', 'entity': '北大资源集团'}]
+
+Text ID: 29818f8f730f0cde40c9fd0f72622c4b
+Events in file 1: [{'type': '盈利能力下降', 'entity': '中国国际海运'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '中国国际海运集装箱'}]
+
+Text ID: 163cd1239e4b1544c5f80bc0d836e7a3
+Events in file 1: [{'type': '签订对赌协议', 'entity': '万达商管'}, {'type': '签订对赌协议', 'entity': '腾讯'}, {'type': '签订对赌协议', 'entity': '蚂蚁'}, {'type': '签订对赌协议', 'entity': '碧桂园'}]
+Events in file 2: [{'type': '签订对赌协议', 'entity': '蚂蚁'}, {'type': '签订对赌协议', 'entity': '碧桂园'}]
+
+Text ID: 53faebda67f9d7649bba90a9c8c495c2
+Events in file 1: [{'type': '债务展期', 'entity': '阳光城'}, {'type': '资金紧张', 'entity': '阳光城'}]
+Events in file 2: [{'type': '债务展期', 'entity': '阳光城'}]
+
+Text ID: e359196bd991b721960637ece160fb6e
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '恒丰银行'}]
+
+Text ID: bc9848d5452fc18b715574829e7b2c1b
+Events in file 1: [{'type': '连续下跌', 'entity': 'ST工智'}, {'type': '连续下跌', 'entity': 'ST华铁'}]
+Events in file 2: []
+
+Text ID: 028801875eadf0650ec6a04eccaa3f4d
+Events in file 1: [{'type': '高层涉嫌违法', 'entity': '浦江嘉银'}]
+Events in file 2: [{'type': '高层涉嫌违法', 'entity': '浦江嘉银村镇银行'}, {'type': '高层涉嫌违法', 'entity': '浦江嘉银'}]
+
+Text ID: 6492c38107d924aeee7a2df4a317aa95
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '企迈科技'}]
+
+Text ID: fd100a251d9b0901989b48427ec0aafa
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '阳光信用'}]
+Events in file 2: []
+
+Text ID: a3656d834c9bcdee4ac146a8a81b3757
+Events in file 1: [{'type': '第一大股东变化', 'entity': '安阳钢铁'}]
+Events in file 2: []
+
+Text ID: 7c445d2fdda10af4e700b7e73d95f5cf
+Events in file 1: [{'type': '连续下跌', 'entity': '五粮液'}]
+Events in file 2: []
+
+Text ID: e5df9fc53fa3767b171b37c4a441181e
+Events in file 1: [{'type': '资产冻结', 'entity': '奥马电器'}]
+Events in file 2: [{'type': '债务违约', 'entity': '奥马电器'}]
+
+Text ID: 3caf42f992eea4a499281309a1ff0346
+Events in file 1: []
+Events in file 2: [{'type': '自然灾害', 'entity': '南宁糖业'}]
+
+Text ID: 1b8c6b8e18dfee517f641971a0f93b6b
+Events in file 1: []
+Events in file 2: [{'type': '破产清算', 'entity': '重庆三峡水电设备制造有限公司内蒙古硕方水电设备有限公司聚能水电设备制造有限公司东芝水电设备（杭州）有限公司'}]
+
+Text ID: 6124f9935e8a784bfc3f7dbd3b0c680e
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '新协航'}, {'type': '经营激进', 'entity': '泛亚物流'}, {'type': '经营激进', 'entity': '飞熊领鲜'}]
+
+Text ID: 2a594f78f2bd7354f5d54223e92babf2
+Events in file 1: []
+Events in file 2: [{'type': '非法集资', 'entity': '中融民信'}]
+
+Text ID: 5ac553ff6f239c091fcbf34d0c94b6de
+Events in file 1: []
+Events in file 2: [{'type': '资本充足不足', 'entity': '无锡银行'}]
+
+Text ID: 07d3dbf296ed03539239ee213edb270c
+Events in file 1: []
+Events in file 2: [{'type': '警告', 'entity': '宁德时代'}]
+
+Text ID: 34e0edd4ceb5871ff2baa1c4024b2acd
+Events in file 1: [{'type': '债务重组', 'entity': '英利'}, {'type': '公司注销', 'entity': '东湖高新公司'}]
+Events in file 2: [{'type': '债务重组', 'entity': '英利'}]
+
+Text ID: 1a631530e3c475aee72dd9ec4605b542
+Events in file 1: [{'type': '连续下跌', 'entity': '杭州热电'}]
+Events in file 2: [{'type': '连续下跌', 'entity': '杭州热电'}, {'type': '连续下跌', 'entity': '陕西能源'}]
+
+Text ID: 3ee37064908c4db60db86604891aae15
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '奥赛康药业'}]
+
+Text ID: 42200f202e4f210be8a3d6f8a0e97674
+Events in file 1: [{'type': '业务/资产重组', 'entity': '杭州热电'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '日播时尚'}, {'type': '业务/资产重组', 'entity': '杭州热电'}]
+
+Text ID: 90fdc9e786e65b029a35786633faa84e
+Events in file 1: []
+Events in file 2: [{'type': '停产停业', 'entity': '国泰航空'}]
+
+Text ID: eb08ebafbfca4c5d81ed85a0556936be
+Events in file 1: [{'type': '高层变更', 'entity': '石家庄智联传媒有限公司'}]
+Events in file 2: [{'type': '高层变更', 'entity': '亿城房地产开发有限公司'}, {'type': '高层变更', 'entity': '石家庄市韩迪品牌策略顾问有限公司'}, {'type': '高层变更', 'entity': '石家庄智联传媒有限公司'}]
+
+Text ID: 7df37dd6f7d95cbbfd6ba0dbbd841838
+Events in file 1: [{'type': '经营期限到期', 'entity': '河南永信恒誉工程咨询有限公司'}]
+Events in file 2: []
+
+Text ID: 781910f0fb68590062010cfb8c0d2e67
+Events in file 1: []
+Events in file 2: [{'type': '造假欺诈', 'entity': '雪梨'}]
+
+Text ID: 070ca1183515503ba2b765f94c3df79b
+Events in file 1: []
+Events in file 2: [{'type': '造假欺诈', 'entity': '苏富比拍卖行'}]
+
+Text ID: f8e660bec4a7a87f58797f759fb4e4d7
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '安徽银行'}]
+
+Text ID: f0852d6066a0f019bd26083e488da7d8
+Events in file 1: [{'type': '破产清算', 'entity': '海航集团'}]
+Events in file 2: [{'type': '破产清算', 'entity': '海航集团'}, {'type': '破产清算', 'entity': '海航'}]
+
+Text ID: d640c26ef2d3badf44b31e0de6d4bcf7
+Events in file 1: []
+Events in file 2: [{'type': '澄清辟谣', 'entity': '阳光信用'}]
+
+Text ID: 67278f90f3fd2a396b4394238f465e7e
+Events in file 1: [{'type': '财务信息造假', 'entity': '康美药业'}]
+Events in file 2: [{'type': '禁入行业', 'entity': '康美药业'}]
+
+Text ID: 0f7423839e13f238712ed4f924867263
+Events in file 1: [{'type': '非法集资', 'entity': '浙江金盾风机股份有限公司'}]
+Events in file 2: [{'type': '高层涉嫌违法', 'entity': '浙江金盾风机股份有限公司'}]
+
+Text ID: 897f4141527fd03c2301dfaf266f1ea1
+Events in file 1: []
+Events in file 2: [{'type': '限制股东权利', 'entity': '神旺公司'}]
+
+Text ID: 5b3fce6e96aa0c6d58f073f35a0f36c7
+Events in file 1: [{'type': '延期信息披露', 'entity': '*st天龙'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '*st天龙'}]
+
+Text ID: fe6c8dafce9aabebdc04d4b1b46cffa8
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '铜陵有色'}]
+
+Text ID: e979b6d8df712bf889bc9ec33d624060
+Events in file 1: [{'type': '行业排名下降', 'entity': '山西汾酒'}, {'type': '行业排名下降', 'entity': '怡亚通'}, {'type': '行业排名下降', 'entity': '来伊份'}, {'type': '行业排名下降', 'entity': '海南椰岛'}]
+Events in file 2: [{'type': '行业排名下降', 'entity': '山西汾酒'}, {'type': '行业排名下降', 'entity': '*ST皇台'}, {'type': '行业排名下降', 'entity': '怡亚通'}, {'type': '行业排名下降', 'entity': '来伊份'}, {'type': '行业排名下降', 'entity': '海南椰岛'}]
+
+Text ID: 9308cd3b9015851053cd343e7a952f3d
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '北辰篮球'}]
+
+Text ID: 7a225578285b325cf8007ae5d8ea843c
+Events in file 1: [{'type': '业务/资产重组', 'entity': '中国国电集团公司'}, {'type': '业务/资产重组', 'entity': '神华集团有限责任公司'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '中国国电集团公司'}]
+
+Text ID: fd78fd1848ecc6beacd4499459bc408c
+Events in file 1: [{'type': '股票发行失败', 'entity': '联想集团'}]
+Events in file 2: []
+
+Text ID: 0a0a38ace1bc9a6d7c485f96b459a956
+Events in file 1: [{'type': '公司退市', 'entity': '康美'}]
+Events in file 2: [{'type': '网站安全漏洞', 'entity': 'ea'}, {'type': '公司退市', 'entity': '康美'}]
+
+Text ID: a7760f30f9310234013ca129de951de9
+Events in file 1: [{'type': '重大债务到期', 'entity': '金龙集团'}, {'type': '债务违约', 'entity': '金龙机电'}]
+Events in file 2: [{'type': '债务违约', 'entity': '金龙机电'}]
+
+Text ID: ec957bc003bcf8a81889dd00813dcccb
+Events in file 1: []
+Events in file 2: [{'type': '扰乱市场秩序', 'entity': '龙威互动科技'}]
+
+Text ID: 0606e49e2ff73353cefe28fc35a84331
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '金螳螂'}]
+
+Text ID: 98535d81551745772a5e46909cdb53fe
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '盒马'}]
+
+Text ID: 3a6edd3c65fbddbf25dca5caec748acc
+Events in file 1: [{'type': '盈利能力下降', 'entity': '贵州茅台'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '贵州茅台'}, {'type': '盈利能力下降', 'entity': '山西汾酒'}]
+
+Text ID: 2a220aa29eade9e59fb21369aff7ac6a
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '灵丘县经济建设投资有限责任公司'}, {'type': '监管入驻', 'entity': '国盛医药药材有限公司第一药店'}, {'type': '监管入驻', 'entity': '灵丘县首农乡村建设有限公司'}]
+
+Text ID: fe6c8dafce9aabebdc04d4b1b46cffa8
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '铜陵有色'}]
+
+Text ID: 42200f202e4f210be8a3d6f8a0e97674
+Events in file 1: [{'type': '业务/资产重组', 'entity': '杭州热电'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '日播时尚'}, {'type': '业务/资产重组', 'entity': '杭州热电'}]
+
+Text ID: fb3174fa2bd048cc0c191528e08a43fa
+Events in file 1: [{'type': '裁员', 'entity': '爱立信中国'}]
+Events in file 2: [{'type': '裁员', 'entity': '爱立信'}, {'type': '裁员', 'entity': '爱立信中国'}]
+
+Text ID: 210722fa59a98b1a22f4e54ebf39cfb5
+Events in file 1: [{'type': '停止接受新业务', 'entity': '司让胡路支公司'}]
+Events in file 2: [{'type': '停止接受新业务', 'entity': '中国人寿保险股份有限公司让胡路支公司'}]
+
+Text ID: 0c8edd26ed05ef96e2710a8c5ba2b5ae
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '联动云租车'}]
+
+Text ID: e62aef27a68e456c4ea68d8bc162aed4
+Events in file 1: [{'type': '造假欺诈', 'entity': '中信银行'}]
+Events in file 2: []
+
+Text ID: 3de4b410d4d95521bc83e7524cdb48d0
+Events in file 1: []
+Events in file 2: [{'type': '财务信息造假', 'entity': 'st天山'}]
+
+Text ID: fa8c3bb1fe329eb55644b3c0be6b6f75
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '淘宝京东'}]
+
+Text ID: 87a2ccdbd0a5cfd89491842db74bd7a4
+Events in file 1: []
+Events in file 2: [{'type': '资金紧张', 'entity': '永新股份'}]
+
+Text ID: 79920d64fff287c02637a078576a6ae6
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '天神娱乐'}]
+
+Text ID: 9015d430b87d8e252b07910ec9b3c82b
+Events in file 1: [{'type': '实际控制人涉嫌违法', 'entity': '华铁应急'}]
+Events in file 2: [{'type': '财务信息造假', 'entity': '华铁应急'}]
+
+Text ID: 6e6849b5757663f80503507ac0904b5c
+Events in file 1: [{'type': '资金紧张', 'entity': '谭木匠'}]
+Events in file 2: [{'type': '被银行停贷', 'entity': '谭木匠'}, {'type': '资金紧张', 'entity': '谭木匠'}]
+
+Text ID: fc5d2cacc575ac0a3bd3670189c057de
+Events in file 1: [{'type': '盗取隐私信息', 'entity': '周末酒店'}, {'type': '盗取隐私信息', 'entity': '趣淘生活'}]
+Events in file 2: [{'type': '盗取隐私信息', 'entity': '亚朵'}, {'type': '盗取隐私信息', 'entity': '周末酒店'}, {'type': '盗取隐私信息', 'entity': '趣淘生活'}]
+
+Text ID: a051504b5bda788e27b36f7bd75f712d
+Events in file 1: [{'type': '停产停业', 'entity': '上海一兆韦德'}]
+Events in file 2: [{'type': '关闭分支机构', 'entity': '上海一兆韦德'}]
+
+Text ID: d46774c659374d5ff701fabf129b2302
+Events in file 1: [{'type': '债务重组', 'entity': '金立'}]
+Events in file 2: [{'type': '债务违约', 'entity': '金立'}]
+
+Text ID: c27fb09dc21028d95426f4383a3fd0df
+Events in file 1: []
+Events in file 2: [{'type': '被银行停贷', 'entity': '惠学习'}]
+
+Text ID: 888681067837813c11a9af5a6024c487
+Events in file 1: [{'type': '盈利能力下降', 'entity': 'tpgq1'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '澳洲电信运营商tpgq1'}]
+
+Text ID: 29f67bb24c4ca1fe1161d9e5f401c6b1
+Events in file 1: [{'type': '造假欺诈', 'entity': '路特斯'}]
+Events in file 2: []
+
+Text ID: 36ff2f8c752de25bc15d460299e0977a
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '金川集团股份有限公司'}]
+
+Text ID: 9d05dd36ac399ef20bdc5443c9a97a32
+Events in file 1: [{'type': '业务/资产重组', 'entity': '海宁市水务投资集团有限公司'}, {'type': '业务/资产重组', 'entity': '浙江钱江生物化学股份有限公司'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '海宁市水务投资集团有限公司'}]
+
+Text ID: 025437a663b80ef8516c9996f9397975
+Events in file 1: []
+Events in file 2: [{'type': '内幕交易', 'entity': '淄博齐翔石油化工集团有限公司'}]
+
+Text ID: 4b1a6951ec2f0b6f9bf20e7f80ab0751
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '成都科瑞达科技有限公司'}, {'type': '企业被问询约谈审查', 'entity': '成都普思生物科技股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '中铁隆工程集团有限公司'}]
+
+Text ID: 500fc713176ddf1318a04521ee4b56c7
+Events in file 1: [{'type': '内幕交易', 'entity': '齐翔腾达'}]
+Events in file 2: [{'type': '实际控制人涉嫌违法', 'entity': '齐翔腾达'}]
+
+Text ID: a2e210f3b780ab95b28d19fe5db9e04a
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '天宇股份'}]
+
+Text ID: 32b289fd201abcf1614701904d390630
+Events in file 1: [{'type': '高层变更', 'entity': '爱达公司'}]
+Events in file 2: [{'type': '基层员工流失', 'entity': '爱达公司'}]
+
+Text ID: faeb339925a346b73d8ef475712a0539
+Events in file 1: [{'type': '重大赔付', 'entity': '重庆市莱美医药有限公司'}]
+Events in file 2: []
+
+Text ID: 1f07c53611b78dc9c7420f2d17514a02
+Events in file 1: []
+Events in file 2: [{'type': '外部信用评级下调', 'entity': '万达'}]
+
+Text ID: 8aa8423ed70ff253577fd477a1ea6e55
+Events in file 1: [{'type': '实际控制人变更', 'entity': '宏达新材'}]
+Events in file 2: [{'type': '第一大股东变化', 'entity': '宏达新材'}]
+
+Text ID: a85fcbea8167711c1cd1eb2ee8a26ac9
+Events in file 1: [{'type': '资产冻结', 'entity': '利源精制'}, {'type': '资产冻结', 'entity': '沈阳利源'}]
+Events in file 2: [{'type': '资产冻结', 'entity': '利源精制'}]
+
+Text ID: 1dc71a5bea8b1a9a1cd1c0b925cdd0dd
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '招商港口'}]
+
+Text ID: faae218d304885c30fd660aa45877612
+Events in file 1: [{'type': '第一大股东变化', 'entity': '美好建筑装配科技有限公司'}]
+Events in file 2: [{'type': '第一大股东变化', 'entity': '美好建筑装配科技有限公司'}, {'type': '第一大股东变化', 'entity': '美好装配'}]
+
+Text ID: 0116a2e05ec1c911a1e78ea5e5bae30a
+Events in file 1: [{'type': '产品虚假宣传', 'entity': '马上'}]
+Events in file 2: [{'type': '产品虚假宣传', 'entity': '马上消费金融'}]
+
+Text ID: 4654a9850725d9744297dca84ba2a27b
+Events in file 1: [{'type': '警告', 'entity': '华安基金'}]
+Events in file 2: []
+
+Text ID: abccc0f7fba1a21da2434380aceb3dec
+Events in file 1: [{'type': '欠薪', 'entity': '尚品网'}, {'type': '破产清算', 'entity': '尚品网'}]
+Events in file 2: [{'type': '破产清算', 'entity': '尚品网'}, {'type': '债务违约', 'entity': '尚品网'}]
+
+Text ID: 78792ee679f744815eb8b7ce19fe381f
+Events in file 1: [{'type': '重大安全事故', 'entity': '印尼狮航'}, {'type': '重大安全事故', 'entity': '埃塞俄比亚航空波音'}]
+Events in file 2: [{'type': '重大安全事故', 'entity': '印尼狮航'}, {'type': '重大安全事故', 'entity': '埃塞俄比亚航空'}]
+
+Text ID: 9308cd3b9015851053cd343e7a952f3d
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '北辰篮球'}]
+
+Text ID: 63fb001417abc6473a0cb60a233ce61c
+Events in file 1: [{'type': '责令改正', 'entity': '平安银行'}]
+Events in file 2: [{'type': '财务信息造假', 'entity': '平安银行'}]
+
+Text ID: 943d1e37a733a5337f75597084230eb6
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '山东天鹅棉业机械股份有限公司'}]
+
+Text ID: 08d8309488cf0c30f9dc9d973fe251f8
+Events in file 1: [{'type': '重大安全事故', 'entity': '徐州市工业设备安装有限公司'}]
+Events in file 2: [{'type': '重大安全事故', 'entity': '山西潞宝集团'}, {'type': '重大安全事故', 'entity': '徐州市工业设备安装有限公司'}]
+
+Text ID: 5ec3c7a351ef59d7e1623fc546896b6a
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人失联/死亡', 'entity': '钜宝盆'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 2187d65c4d57a074278f1125c753f4e4
+Events in file 1: [{'type': '造假欺诈', 'entity': '永利八达通'}, {'type': '造假欺诈', 'entity': '京东'}]
+Events in file 2: [{'type': '造假欺诈', 'entity': '永利八达通'}]
+
+Text ID: 64f0db7b945e6452648bd4bab7a623bd
+Events in file 1: [{'type': '停产停业', 'entity': '众泰汽车'}]
+Events in file 2: [{'type': '停产停业', 'entity': '众泰'}, {'type': '停产停业', 'entity': '众泰汽车'}]
+
+Text ID: 980bd5d5302882f37e8dc82044ff9c36
+Events in file 1: [{'type': '重大债务到期', 'entity': '建发地产'}]
+Events in file 2: [{'type': '债务展期', 'entity': '建发地产'}]
+
+Text ID: 4777cd844072ff7889cdf34fda526e59
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '博西威家用电器有限公司'}]
+
+Text ID: dbf97ca0ce3a9f74b10b1c737ee1ea60
+Events in file 1: []
+Events in file 2: [{'type': '债务违约', 'entity': '南宁慧泊公司'}]
+
+Text ID: aa1a4552722164fbac1ffb4869867088
+Events in file 1: [{'type': '窃取别人商业机密', 'entity': '徐州磊之达商贸有限公司'}]
+Events in file 2: [{'type': '责令改正', 'entity': '徐州磊之达商贸有限公司'}]
+
+Text ID: 9efff355e5f517adb7464e27df6ea712
+Events in file 1: [{'type': '重大资产损失', 'entity': '中国太平洋人寿保险股份有限公司'}]
+Events in file 2: [{'type': '重大资产损失', 'entity': '太平洋保险集团'}, {'type': '重大资产损失', 'entity': '中国太平洋人寿保险股份有限公司'}]
+
+Text ID: db06e9b1fbfbb1a66e5cc6039ca465b2
+Events in file 1: [{'type': '业务/资产重组', 'entity': '海南供销大集控股有限公司'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '海南供销大集控股有限公司'}, {'type': '业务/资产重组', 'entity': '海南供销大集'}]
+
+Text ID: f7fa24176e3c21deddc00a396716af9e
+Events in file 1: []
+Events in file 2: [{'type': '裁员', 'entity': '锤子科技'}]
+
+Text ID: cfe7c6e32881e03e33e274cc23be7773
+Events in file 1: []
+Events in file 2: [{'type': '重大赔付', 'entity': '炳恒财富'}]
+
+Text ID: c03b2f816ff5477f871437ed17161eea
+Events in file 1: [{'type': '资产冻结', 'entity': '格力电器'}]
+Events in file 2: [{'type': '股权冻结/强制转让', 'entity': '格力电器'}]
+
+Text ID: 769e19d2fb324abea1fd9909f4c2114a
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '德利国际'}, {'type': '实际控制人变更', 'entity': '中集天达空港'}]
+
+Text ID: 699c684647f73e03c93a33950a56f824
+Events in file 1: [{'type': '实际控制人变更', 'entity': '全国一网'}]
+Events in file 2: [{'type': '实际控制人变更', 'entity': '全国一网”公司'}]
+
+Text ID: 68ec4bcf6586fe4e873210a0309f7a62
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人涉嫌违法', 'entity': '江苏金色农业股份有限公司'}]
+
+Text ID: 1b8c6b8e18dfee517f641971a0f93b6b
+Events in file 1: []
+Events in file 2: [{'type': '破产清算', 'entity': '重庆三峡水电设备制造有限公司内蒙古硕方水电设备有限公司聚能水电设备制造有限公司东芝水电设备（杭州）有限公司'}]
+
+Text ID: b512cda25cab1610be7d6b0ca30cf639
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '顺丰同城'}]
+
+Text ID: bfb3783f15d9f6a09a1c52bd5f01372c
+Events in file 1: [{'type': '停产停业', 'entity': '福建省同利详纺织实业有限公司'}]
+Events in file 2: [{'type': '吊销业务许可或执照', 'entity': '福建省同利详纺织实业有限公司'}]
+
+Text ID: 079b7b763040da11b3fcd29421e8e018
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': '浙江磐安农村商业银行股份有限公司'}]
+
+Text ID: e31871c055e9a4023965d12a4c07cb2d
+Events in file 1: [{'type': '资金紧张', 'entity': '永泰运'}]
+Events in file 2: []
+
+Text ID: ab295bf81e68bd06e134811fd5b5af34
+Events in file 1: [{'type': '财务信息造假', 'entity': '康美药业'}]
+Events in file 2: [{'type': '公司违规关联交易', 'entity': '康美药业'}]
+
+Text ID: 3e021b6ef828617c34ac943869469101
+Events in file 1: []
+Events in file 2: [{'type': '重大安全事故', 'entity': '中國東方航空'}]
+
+Text ID: bc98db2a61843ec37af4f39bd4797154
+Events in file 1: [{'type': '内幕交易', 'entity': '花王股份'}]
+Events in file 2: [{'type': '实际控制人涉嫌违法', 'entity': '花王股份'}]
+
+Text ID: 4a1a9ea79588de6017c037233f0afe7e
+Events in file 1: [{'type': '业务/资产重组', 'entity': '中国船舶重工集团'}]
+Events in file 2: []
+
+Text ID: b134ac3a873db624a3d0018e9032e65f
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '祥鑫科技'}]
+
+Text ID: 95607dcaeb488f17cde5cd7c9f15402b
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '永辉超市'}, {'type': '经营亏损', 'entity': '大商集团'}]
+
+Text ID: 600eb4722323be3d119eacf6aee72596
+Events in file 1: [{'type': '扰乱市场秩序', 'entity': '苹果'}]
+Events in file 2: []
+
+Text ID: a24fa95319aec819a548c550fbaa4509
+Events in file 1: []
+Events in file 2: [{'type': '造假欺诈', 'entity': '杭州回客科技有限公司'}]
+
+Text ID: 96677170e3145f1060f4795a58108332
+Events in file 1: [{'type': '责令改正', 'entity': '上海锐战网络科技有限公司'}]
+Events in file 2: [{'type': '警告', 'entity': '上海锐战网络科技有限公司'}]
+
+Text ID: e55d28affe60cd1e7b2a2d6dabaaf2c2
+Events in file 1: [{'type': '破产清算', 'entity': '浙江金典建设有限公司'}]
+Events in file 2: [{'type': '破产清算', 'entity': '宁波市江北宏联钢管租赁站'}, {'type': '破产清算', 'entity': '浙江金典建设有限公司'}]
+
+Text ID: 5c5ea30f2ec171765df85ed67c6e6c2e
+Events in file 1: []
+Events in file 2: [{'type': '资产质量下降', 'entity': '天府银行'}]
+
+Text ID: 6ff44620309fc6d0b82164e17d4642b8
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '腾讯'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '腾讯爱奇艺'}]
+
+Text ID: c70767f6a40eff0e7c7912cc527d26bc
+Events in file 1: [{'type': '实际控制人变更', 'entity': '万家'}]
+Events in file 2: [{'type': '实际控制人变更', 'entity': '广发'}, {'type': '实际控制人变更', 'entity': '万家'}]
+
+Text ID: 6963a0a569dde40accabd8305e81cd7d
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '美团'}, {'type': '企业被问询约谈审查', 'entity': '滴滴'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '京东'}, {'type': '企业被问询约谈审查', 'entity': '美团'}, {'type': '企业被问询约谈审查', 'entity': '滴滴'}, {'type': '企业被问询约谈审查', 'entity': '苏宁易购'}]
+
+Text ID: 0606e49e2ff73353cefe28fc35a84331
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '金螳螂'}]
+
+Text ID: e38009d363cd4293b4b4cf90b4d62f96
+Events in file 1: [{'type': '实际控制人涉诉仲裁', 'entity': '百川能源股份有限公司'}]
+Events in file 2: [{'type': '履行连带担保责任', 'entity': '百川能源股份有限公司'}]
+
+Text ID: a4e2742dcdf93ce253061a2a7cd3bf7e
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '上汽通用五菱汽车股份有限公司重庆分公司'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '上汽通用五菱汽车股份有限公司重庆分公司'}, {'type': '企业被问询约谈审查', 'entity': '重庆长安汽车股份有限公司'}]
+
+Text ID: 62e722611f1ee360120339abaf113fd3
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '金山软件'}]
+
+Text ID: dc6a2de6256e46687b6d0c85c90441e9
+Events in file 1: [{'type': '重大安全事故', 'entity': '滴滴出行'}, {'type': '责令改正', 'entity': '滴滴出行'}]
+Events in file 2: [{'type': '责令改正', 'entity': '滴滴出行'}]
+
+Text ID: 33d3ac61955079f8b600bb92d0349724
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '航安型芯'}]
+
+Text ID: f929ba3a3b8eeb1782dcf82b7decce17
+Events in file 1: [{'type': '造假欺诈', 'entity': '赤度公司'}, {'type': '窃取别人商业机密', 'entity': '赤度公司'}]
+Events in file 2: [{'type': '信息泄露', 'entity': '赤度公司'}, {'type': '窃取别人商业机密', 'entity': '赤度公司'}]
+
+Text ID: 4e2b17c2ffd77a9a22456c016506ccf4
+Events in file 1: []
+Events in file 2: [{'type': '债务违约', 'entity': '招商银行'}]
+
+Text ID: 95607dcaeb488f17cde5cd7c9f15402b
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '永辉超市'}, {'type': '经营亏损', 'entity': '大商集团'}]
+
+Text ID: 3b762aa28659fe6f1b677e42dce3f19e
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '山西汾酒'}]
+
+Text ID: be4ec20879e3e8f030f7ab7f0fc8eeb7
+Events in file 1: [{'type': '产品虚假宣传', 'entity': '欧莱雅'}]
+Events in file 2: [{'type': '产品虚假宣传', 'entity': '巴黎欧莱雅'}]
+
+Text ID: 52aad55a7e72b87d7c1309f7627acf30
+Events in file 1: [{'type': '业务/资产重组', 'entity': '鞍钢'}]
+Events in file 2: []
+
+Text ID: 2187d65c4d57a074278f1125c753f4e4
+Events in file 1: [{'type': '造假欺诈', 'entity': '永利八达通'}, {'type': '造假欺诈', 'entity': '京东'}]
+Events in file 2: [{'type': '造假欺诈', 'entity': '永利八达通'}]
+
+Text ID: 81c3eea496ee759331d9e4eb20fa1d00
+Events in file 1: [{'type': '骗保', 'entity': '紫金财险'}]
+Events in file 2: [{'type': '出具虚假证明', 'entity': '紫金财险'}]
+
+Text ID: 5c7c2729a3e6dbe1535bf3acd796a50e
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '民太安保险公估有限公司宁夏分公司'}]
+
+Text ID: e4c601e46ee7769529a27e47f36b43e4
+Events in file 1: [{'type': '停产停业', 'entity': '北京阜康仁生物制药科技有限公司'}]
+Events in file 2: []
+
+Text ID: fabaee9b86f93f3f013fb52b6b7cc72e
+Events in file 1: []
+Events in file 2: [{'type': '公司退市', 'entity': '阳光信用'}]
+
+Text ID: f1d5218fc5c63de5d5fcc9eef98694b3
+Events in file 1: [{'type': '公司违规关联交易', 'entity': '宏达矿业'}]
+Events in file 2: [{'type': '公司违规关联交易', 'entity': '未来股份'}, {'type': '公司违规关联交易', 'entity': '宏达矿业'}]
+
+Text ID: e860a9c793dded4893394fac26c9d8f6
+Events in file 1: [{'type': '实际控制人变更', 'entity': '鸣石投资'}, {'type': '股东利益斗争', 'entity': '鸣石投资'}]
+Events in file 2: [{'type': '股东利益斗争', 'entity': '鸣石投资'}]
+
+Text ID: 97bbd5b28f021a45cebdcb7aa9fc40b9
+Events in file 1: [{'type': '公司注销', 'entity': '上海睿郡资产管理有限公司'}]
+Events in file 2: [{'type': '公司注销', 'entity': '上海睿郡投资管理合伙企业（有限合伙）'}, {'type': '公司注销', 'entity': '上海睿郡资产管理有限公司'}]
+
+Text ID: 345540b8070b5a99333dfe6ab45e5b8e
+Events in file 1: []
+Events in file 2: [{'type': '连续下跌', 'entity': '扬杰科技'}]
+
+Text ID: 781910f0fb68590062010cfb8c0d2e67
+Events in file 1: []
+Events in file 2: [{'type': '造假欺诈', 'entity': '雪梨'}]
+
+Text ID: 42200f202e4f210be8a3d6f8a0e97674
+Events in file 1: [{'type': '业务/资产重组', 'entity': '杭州热电'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '日播时尚'}, {'type': '业务/资产重组', 'entity': '杭州热电'}]
+
+Text ID: fe6c8dafce9aabebdc04d4b1b46cffa8
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '铜陵有色'}]
+
+Text ID: fe6c8dafce9aabebdc04d4b1b46cffa8
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '铜陵有色'}]
+
+Text ID: 17ddcdd97d550e5fd725a9be7af0d85d
+Events in file 1: [{'type': '盗取隐私信息', 'entity': '小米'}, {'type': '盗取隐私信息', 'entity': '亚马逊'}]
+Events in file 2: [{'type': '盗取隐私信息', 'entity': 'app'}]
+
+Text ID: 40ff3baa2a50bd5f6548c95bb42889e5
+Events in file 1: [{'type': '吊销资质牌照', 'entity': '北京大北农科技集团股份有限公司'}]
+Events in file 2: []
+
+Text ID: b10cbf41cf7c819c3cea1e0cc936f665
+Events in file 1: []
+Events in file 2: [{'type': '资产质量下降', 'entity': '华融湘江银行'}]
+
+Text ID: b48c02b4dd5366298ae4d0f44b458acb
+Events in file 1: [{'type': '股权冻结/强制转让', 'entity': '云南城投置业股份有限公司'}]
+Events in file 2: [{'type': '资产冻结', 'entity': '云南城投置业股份有限公司'}]
+
+Text ID: c029b40d50de26e23f7f3db6f2e031f5
+Events in file 1: [{'type': '公司退市', 'entity': '阳光城'}, {'type': '公司退市', 'entity': 'ST泰禾'}, {'type': '公司退市', 'entity': 'ST美置'}, {'type': '公司退市', 'entity': 'ST粤泰'}, {'type': '公司退市', 'entity': '*ST宋都'}, {'type': '公司退市', 'entity': '*ST海投'}]
+Events in file 2: [{'type': '公司退市', 'entity': '阳光城'}, {'type': '公司退市', 'entity': 'ST美置'}, {'type': '公司退市', 'entity': 'ST粤泰'}, {'type': '公司退市', 'entity': '*ST宋都'}, {'type': '公司退市', 'entity': '*ST海投'}]
+
+Text ID: ff5d81fbb39bf1b6eec7f36981a40aa1
+Events in file 1: [{'type': '公司违规关联交易', 'entity': '包商银行'}]
+Events in file 2: [{'type': '公司违规关联交易', 'entity': '包头大安投资公司'}, {'type': '公司违规关联交易', 'entity': '包商银行'}]
+
+Text ID: 95607dcaeb488f17cde5cd7c9f15402b
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '永辉超市'}, {'type': '经营亏损', 'entity': '大商集团'}]
+
+Text ID: 2493d388975c3304c7f947b42065bae6
+Events in file 1: [{'type': '重大资产损失', 'entity': '罗欣药业'}]
+Events in file 2: [{'type': '经营亏损', 'entity': '罗欣药业'}]
+
+Text ID: b6331a09cd754e249dab85ef4a7047cd
+Events in file 1: [{'type': '连续下跌', 'entity': '江特电机'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '江特电机'}]
+
+Text ID: a18869eb2f1fe050c42206f833bb7af0
+Events in file 1: [{'type': '被列为失信被执行人', 'entity': '重庆扬子岛餐饮有限责任公司'}]
+Events in file 2: [{'type': '被列为失信被执行人', 'entity': '扬子岛实业'}, {'type': '被列为失信被执行人', 'entity': '重庆扬子岛餐饮有限责任公司'}]
+
+Text ID: 64272455eca1add59f26cb13b6d389d5
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '广州用能互联网有限公司'}]
+
+Text ID: 0c301feafb0092a99aeee7f4a95a119c
+Events in file 1: []
+Events in file 2: [{'type': '破产清算', 'entity': '佛山华润顺安混凝土有限公司'}]
+
+Text ID: f0c4ddad66ed149129221ea658c1a415
+Events in file 1: []
+Events in file 2: [{'type': '监管入驻', 'entity': '重庆宗申动力机械股份有限公司'}]
+
+Text ID: a2eb53c76a4cb46e9541483bf0dc144e
+Events in file 1: [{'type': '造假欺诈', 'entity': '金花投资'}]
+Events in file 2: []
+
+Text ID: 545dfd19e0d21f8d8c447b940694428a
+Events in file 1: []
+Events in file 2: [{'type': '扰乱市场秩序', 'entity': '红七公'}]
+
+Text ID: b8535256ab72b3377c02dc0fd06e9142
+Events in file 1: [{'type': '非法集资', 'entity': '深圳同盈股权投资基金管理有限公司'}]
+Events in file 2: [{'type': '非法集资', 'entity': '同盈公司'}, {'type': '非法集资', 'entity': '深圳同盈股权投资基金管理有限公司'}]
+
+Text ID: 6e57a3e40b1b45173ddd888b86de0d85
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '朗坤环境'}]
+
+Text ID: 828a61cde8f16b2752bf210fbb7e0754
+Events in file 1: []
+Events in file 2: [{'type': '被接管', 'entity': '新时代证券'}]
+
+Text ID: 8c954ff743c898c2f3d02d4631328f10
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '卡诺普机器人技术股份有限公司'}]
+
+Text ID: 63874a7868bcfc90e6c42d55827fdb2e
+Events in file 1: [{'type': '经营激进', 'entity': '艾虎劳模'}]
+Events in file 2: [{'type': '经营激进', 'entity': '艾虎劳模创新工作室'}]
+
+Text ID: 1ec713ed9d6331b64fe6ac6ac9847179
+Events in file 1: [{'type': '债务展期', 'entity': '宏力'}]
+Events in file 2: [{'type': '债务违约', 'entity': '宏力'}]
+
+Text ID: a87f8090ea3a7f25904ef08633dd1185
+Events in file 1: [{'type': '偷税漏税', 'entity': '远见精密'}]
+Events in file 2: [{'type': '税务非正常户', 'entity': '远见精密'}, {'type': '偷税漏税', 'entity': '远见精密'}]
+
+Text ID: 3745a629fc2ce6e48edfcf7ac956ddba
+Events in file 1: [{'type': '经营激进', 'entity': '蜂花'}, {'type': '经营激进', 'entity': '李宁'}, {'type': '经营激进', 'entity': '汇源'}]
+Events in file 2: [{'type': '经营激进', 'entity': '蜂花'}, {'type': '经营激进', 'entity': '李宁'}, {'type': '经营激进', 'entity': '鸿星尔克'}, {'type': '经营激进', 'entity': '汇源'}, {'type': '经营激进', 'entity': '大白兔'}]
+
+Text ID: dd79cc3f5b79904244c372807ecc2981
+Events in file 1: [{'type': '限制业务范围', 'entity': '广发证券'}]
+Events in file 2: [{'type': '限制业务范围', 'entity': '广发证券'}, {'type': '责令改正', 'entity': '广发证券'}]
+
+Text ID: 666aec6b5589d6c8785bb63bf6ad3688
+Events in file 1: []
+Events in file 2: [{'type': '行业排名下降', 'entity': '国联股份'}, {'type': '行业排名下降', 'entity': 'ST易购'}]
+
+Text ID: 68d96e2e9cb636ea1531938e35a70a05
+Events in file 1: [{'type': '监管入驻', 'entity': '币行(okcoin'}, {'type': '监管入驻', 'entity': '火币网'}, {'type': '监管入驻', 'entity': '比特币中国'}]
+Events in file 2: [{'type': '监管入驻', 'entity': '币行(okcoin)'}, {'type': '监管入驻', 'entity': '火币网'}, {'type': '监管入驻', 'entity': '比特币中国'}]
+
+Text ID: 3745a629fc2ce6e48edfcf7ac956ddba
+Events in file 1: [{'type': '经营激进', 'entity': '蜂花'}, {'type': '经营激进', 'entity': '李宁'}, {'type': '经营激进', 'entity': '汇源'}]
+Events in file 2: [{'type': '经营激进', 'entity': '蜂花'}, {'type': '经营激进', 'entity': '李宁'}, {'type': '经营激进', 'entity': '鸿星尔克'}, {'type': '经营激进', 'entity': '汇源'}, {'type': '经营激进', 'entity': '大白兔'}]
+
+Text ID: 33d3ac61955079f8b600bb92d0349724
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '航安型芯'}]
+
+Text ID: a161c6a222df827cf350211d21443280
+Events in file 1: []
+Events in file 2: [{'type': '资产冻结', 'entity': 'torquinggroup'}]
+
+Text ID: fecf7d98ef0757574c239c0650db0a19
+Events in file 1: [{'type': '高层失联/死亡', 'entity': '华夏基金管理有限公司'}]
+Events in file 2: []
+
+Text ID: 244d6bdcee098a17d8f5dab6c6f0946d
+Events in file 1: []
+Events in file 2: [{'type': '股票发行失败', 'entity': '讯飞星火'}]
+
+Text ID: 8ff3bd4675cca7dd3d57bbe451af9cf4
+Events in file 1: []
+Events in file 2: [{'type': '高层涉嫌违法', 'entity': '暴风集团'}]
+
+Text ID: 8fcddbc8031994c769e3c1ad37d007d8
+Events in file 1: [{'type': '非法集资', 'entity': '厚本金融'}]
+Events in file 2: []
+
+Text ID: 64c92b63110eb31564feaa4fbd008747
+Events in file 1: []
+Events in file 2: [{'type': '违规催收', 'entity': '南宁慧泊停车场服务有限责任公司'}]
+
+Text ID: 77f71947b88390dbe4505d51a9aaca86
+Events in file 1: [{'type': '债务违约', 'entity': '河南高速路桥公司'}, {'type': '债务违约', 'entity': '高速路桥公司'}]
+Events in file 2: [{'type': '债务违约', 'entity': '河南高速路桥公司'}, {'type': '债务违约', 'entity': '河南高速发展路桥工程有限公司'}, {'type': '债务违约', 'entity': '高速路桥公司'}]
+
+Text ID: 6183a8812c902898d5076bbf79f5b9d9
+Events in file 1: [{'type': '停产停业', 'entity': '好好理财'}]
+Events in file 2: [{'type': '停产停业', 'entity': '国资控股'}, {'type': '停产停业', 'entity': '好好理财'}]
+
+Text ID: 97448333ac549bfcc54b89ab8ace7cb6
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人涉诉仲裁', 'entity': '广生堂'}]
+
+Text ID: 7e45c368d1435c86fcbc40fbcc466d32
+Events in file 1: []
+Events in file 2: [{'type': '窃取别人商业机密', 'entity': '天津市荧根商贸有限公司'}]
+
+Text ID: 3f09282b6a5d388067e47550a6487e4c
+Events in file 1: []
+Events in file 2: [{'type': '扰乱市场秩序', 'entity': '茅台'}]
+
+Text ID: 14529ba0065afcaeb7c6f2041827469b
+Events in file 1: [{'type': '造假欺诈', 'entity': '京东'}, {'type': '偷税漏税', 'entity': '京东'}]
+Events in file 2: [{'type': '造假欺诈', 'entity': '京东'}]
+
+Text ID: 8e99351f526ef8c39357afb723f3d421
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '河南苏宁易购'}]
+
+Text ID: af0ab11f9822da1acc2c519601d3a87c
+Events in file 1: []
+Events in file 2: [{'type': '澄清辟谣', 'entity': '福瑞达生物股份'}]
+
+Text ID: f659ca6cbbdc50a92cc428fcb9504453
+Events in file 1: [{'type': '责令改正', 'entity': '宿迁休息日食品有限公司'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '宿迁休息日食品有限公司'}]
+
+Text ID: 249b8ad149efca0cd87e4ac448c545a9
+Events in file 1: [{'type': '责令改正', 'entity': '京东'}, {'type': '责令改正', 'entity': '美团'}]
+Events in file 2: []
+
+Text ID: 4cbc6baf58549d8e3bbffb6fe79f7ed7
+Events in file 1: [{'type': '责令改正', 'entity': '中金公司'}]
+Events in file 2: [{'type': '责令改正', 'entity': '中金公司'}, {'type': '责令改正', 'entity': '中国国际金融股份有限公司'}]
+
+Text ID: 61b41a81d0798e31e2e34267748c2938
+Events in file 1: []
+Events in file 2: [{'type': '责令改正', 'entity': '辽宁省阜新市中公教育'}]
+
+Text ID: 8420f34690af1ae3fccc58c4c2f184d0
+Events in file 1: [{'type': '裁员', 'entity': '贝壳'}]
+Events in file 2: []
+
+Text ID: 6bb8c17bae60de6a6f13659a0b4fcdf9
+Events in file 1: [{'type': '经营激进', 'entity': '沃尔玛'}]
+Events in file 2: []
+
+Text ID: 5faad2d9b4b05a6edb71cd9e7cd6d9be
+Events in file 1: [{'type': '业务/资产重组', 'entity': '南京金龙'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '南京金龙'}, {'type': '业务/资产重组', 'entity': '开沃汽车'}]
+
+Text ID: c09326f882cac80a3661624124c620c6
+Events in file 1: []
+Events in file 2: [{'type': '债务违约', 'entity': '银盛支付'}]
+
+Text ID: 143d10242751268c67c9d06b020f47e2
+Events in file 1: [{'type': '内幕交易', 'entity': '齐翔腾达'}, {'type': '内幕交易', 'entity': '齐翔石油化工集团有限公司'}]
+Events in file 2: [{'type': '内幕交易', 'entity': '齐翔腾达'}, {'type': '内幕交易', 'entity': '淄博齐翔石油化工集团有限公司'}]
+
+Text ID: 4e4219964795e6b3e23b25465fb75c2e
+Events in file 1: []
+Events in file 2: [{'type': '资金紧张', 'entity': '非洲开发银行'}]
+
+Text ID: e431c750cf7222946abcd95187dcf253
+Events in file 1: [{'type': '造假欺诈', 'entity': '杭州回客'}, {'type': '造假欺诈', 'entity': '杭州回客科技公司'}]
+Events in file 2: [{'type': '造假欺诈', 'entity': '杭州回客科技公司'}, {'type': '企业被问询约谈审查', 'entity': '杭州回客科技公司'}]
+
+Text ID: bdd757946fbb6cd28a4836dc4a40b5fc
+Events in file 1: [{'type': '被列为失信被执行人', 'entity': '威马汽车科技（四川）有限公司'}]
+Events in file 2: [{'type': '被列为失信被执行人', 'entity': '威马汽车科技集团有限公司'}, {'type': '被列为失信被执行人', 'entity': '威马汽车科技（四川）有限公司'}]
+
+Text ID: b69bf85b468dd3122366c4e1956bb7bf
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '撺掇戴威'}]
+
+Text ID: e9a6bc61cc5ff25010727738aaffe9bc
+Events in file 1: [{'type': '业务/资产重组', 'entity': '中国国电集团公司'}, {'type': '业务/资产重组', 'entity': '神华集团有限责任公司'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '中国国电集团公司'}]
+
+Text ID: 0d91adf961f5af05243d13cd5d487753
+Events in file 1: [{'type': '外部信用评级下调', 'entity': '浦江国际集团'}]
+Events in file 2: [{'type': '外部信用评级下调', 'entity': '浦江国际集团'}, {'type': '外部信用评级下调', 'entity': '上海电气集团'}]
+
+Text ID: 5a3cb2dfe904011b14f717193f9b4332
+Events in file 1: []
+Events in file 2: [{'type': '资本充足不足', 'entity': '盘江股份'}]
+
+Text ID: de4d18962d7f6da9b94491008f38a462
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '大梦龙途'}]
+
+Text ID: 4b9e1d3c327bb919cc04a77a9cda4f03
+Events in file 1: []
+Events in file 2: [{'type': '高层涉嫌违法', 'entity': '湖中宝'}]
+
+Text ID: 6e574ad2f7e5cb90acfab2d7f41457f7
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '深圳方程豹汽车销售有限公司'}]
+
+Text ID: 400736942d0d8b6ace048a1a4bad5d94
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '吉宏股份'}]
+
+Text ID: 87603a5ccb0b346f832152ffd236c833
+Events in file 1: [{'type': '盈利能力下降', 'entity': '华夏基金'}]
+Events in file 2: []
+
+Text ID: f6b7d6fb05e8ee98065a25da39693516
+Events in file 1: []
+Events in file 2: [{'type': '扰乱市场秩序', 'entity': '广汽丰田'}]
+
+Text ID: 2713c61a813d51478035ccd8cb2f839d
+Events in file 1: [{'type': '高层涉嫌违法', 'entity': '安邦团体'}]
+Events in file 2: [{'type': '撤销任职资格', 'entity': '前海人寿保险股份有限公司'}, {'type': '高层涉嫌违法', 'entity': '安邦团体'}]
+
+Text ID: 0e971fa19c634e855ea28ade301eb31d
+Events in file 1: [{'type': '高层涉嫌违法', 'entity': '格力地产'}]
+Events in file 2: [{'type': '内幕交易', 'entity': '格力地产'}]
+
+Text ID: 821b2366e4e62cb6b279da1fac70db47
+Events in file 1: [{'type': '行业排名下降', 'entity': '移远通信'}]
+Events in file 2: []
+
+Text ID: 0606e49e2ff73353cefe28fc35a84331
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '金螳螂'}]
+
+Text ID: 33b22ecabecfac8629e5496b1e9a864f
+Events in file 1: []
+Events in file 2: [{'type': '重大赔付', 'entity': '中粮祈德丰'}]
+
+Text ID: 052690ca94a303fa3a0282071cc15888
+Events in file 1: [{'type': '业务/资产重组', 'entity': '东方集团'}]
+Events in file 2: [{'type': '公司停牌', 'entity': '东方集团'}]
+
+Text ID: 4f172494f96fc253b252a226178727df
+Events in file 1: [{'type': '外部信用评级下调', 'entity': '紫金矿业'}, {'type': '外部信用评级下调', 'entity': '富力地产'}, {'type': '外部信用评级下调', 'entity': '复星国际'}, {'type': '外部信用评级下调', 'entity': '广州金融控股'}]
+Events in file 2: [{'type': '外部信用评级下调', 'entity': '广州金融控股'}]
+
+Text ID: 100ad2aa7c3ea96925c0bd1c50a568a2
+Events in file 1: [{'type': '造假欺诈', 'entity': '哈尔滨科瀚科技有限公司'}, {'type': '偷税漏税', 'entity': '哈尔滨科瀚科技有限公司'}]
+Events in file 2: [{'type': '偷税漏税', 'entity': '哈尔滨科瀚科技有限公司'}]
+
+Text ID: 928e59ac2503a790fc4e3ad08fa5919c
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '万盛科技'}]
+
+Text ID: 64272455eca1add59f26cb13b6d389d5
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '广州用能互联网有限公司'}]
+
+Text ID: 0606e49e2ff73353cefe28fc35a84331
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '金螳螂'}]
+
+Text ID: 054f657ec0f55c8dee88b6ac5c961e40
+Events in file 1: [{'type': '外部信用评级下调', 'entity': '中骏集团'}]
+Events in file 2: [{'type': '重大债务到期', 'entity': '中骏集团'}]
+
+Text ID: a051504b5bda788e27b36f7bd75f712d
+Events in file 1: [{'type': '停产停业', 'entity': '上海一兆韦德'}]
+Events in file 2: [{'type': '关闭分支机构', 'entity': '上海一兆韦德'}]
+
+Text ID: 38cb0609ebebbc5e770644a27806f24e
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '老百姓'}]
+
+Text ID: 34ffc2e64dc175cb28ef5cd401ee217e
+Events in file 1: []
+Events in file 2: [{'type': '股票发行失败', 'entity': '阳光信用'}]
+
+Text ID: 6ae337ac9a9f5c24f3ae94bdb904df0f
+Events in file 1: [{'type': '重大债务到期', 'entity': '华业石化'}]
+Events in file 2: [{'type': '重大债务到期', 'entity': '华业石化'}, {'type': '债务违约', 'entity': '华业石化'}]
+
+Text ID: f743311786c77f2b5c3522b090058814
+Events in file 1: [{'type': '裁员', 'entity': '新东方'}, {'type': '裁员', 'entity': '高途'}, {'type': '裁员', 'entity': '作业帮'}, {'type': '裁员', 'entity': '猿辅导'}]
+Events in file 2: [{'type': '裁员', 'entity': '新东方'}, {'type': '裁员', 'entity': '高途'}, {'type': '裁员', 'entity': '作业帮'}]
+
+Text ID: 760d983b82eadb3c5dfc06aace9cd907
+Events in file 1: [{'type': '造假欺诈', 'entity': '最会保保险经纪有限公司'}]
+Events in file 2: [{'type': '造假欺诈', 'entity': '最会保保险经纪有限公司'}, {'type': '终身禁入行业', 'entity': '江西德宝源保险经纪有限公司'}]
+
+Text ID: 213526844c779ffa7b2debd0e6e4af46
+Events in file 1: [{'type': '业务/资产重组', 'entity': '威华股份'}]
+Events in file 2: []
+
+Text ID: b134c9160ae11301e8fe8f1ff9c0ad72
+Events in file 1: [{'type': '网站安全漏洞', 'entity': '微笑公司'}, {'type': '网站安全漏洞', 'entity': '微笑單車公司'}]
+Events in file 2: [{'type': '网站安全漏洞', 'entity': '微笑公司'}, {'type': '网站安全漏洞', 'entity': '微笑單車公司'}, {'type': '信息泄露', 'entity': '微笑單車公司'}]
+
+Text ID: b7eac767d6c371ede84d78d49f7c42f9
+Events in file 1: [{'type': '高层涉嫌违法', 'entity': '京东'}]
+Events in file 2: [{'type': '高层涉嫌违法', 'entity': '京东ceo'}]
+
+Text ID: 6148ebb660a949ded33e7cd72668d9b2
+Events in file 1: [{'type': '实际控制人涉诉仲裁', 'entity': '河北常山生化药业股份有限公司'}]
+Events in file 2: [{'type': '限制股东权利', 'entity': '河北常山生化药业股份有限公司'}]
+
+Text ID: 6c8048821751ec1e503098677efd04ee
+Events in file 1: []
+Events in file 2: [{'type': '监管入驻', 'entity': '南充三环电子有限公司'}]
+
+Text ID: efcd70f06f7612b1ba7c5e283e71c3ae
+Events in file 1: [{'type': '退出市场', 'entity': '阿尔特拉'}]
+Events in file 2: []
+
+Text ID: e9b305665ba48ae24fcab23a7af8d8d7
+Events in file 1: []
+Events in file 2: [{'type': '外部信用评级下调', 'entity': '广发银行'}]
+
+Text ID: c0f1d370b7fd016ef7752bcae6d660b7
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '迈良科技有限公司'}]
+
+Text ID: 95e83b9cfe1c56e3329c6d062901d0e6
+Events in file 1: []
+Events in file 2: [{'type': '被接管', 'entity': '中山火炬集团有限公司'}]
+
+Text ID: 78ef62730c6efa7cd06b2ac78df62e56
+Events in file 1: []
+Events in file 2: [{'type': '履行连带担保责任', 'entity': 'st中天'}]
+
+Text ID: 216abb57a324e8a62ec7b0abcb7bca0e
+Events in file 1: []
+Events in file 2: [{'type': '公司退市', 'entity': '吉恩镍业'}, {'type': '公司退市', 'entity': '昆明机床'}, {'type': '公司退市', 'entity': '银基烯碳'}, {'type': '公司退市', 'entity': '金亚科技'}, {'type': '公司退市', 'entity': '雅百特'}]
+
+Text ID: fa50df9d6c5b9192f91849f9fdcaf233
+Events in file 1: [{'type': '违规催收', 'entity': '用钱宝'}]
+Events in file 2: [{'type': '违规催收', 'entity': '用钱宝'}, {'type': '违规催收', 'entity': '北京智融时代信息技术有限公司'}]
+
+Text ID: 290238cf6014c575dec01945dbfa1d40
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人涉嫌违法', 'entity': '华人健康'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 06f0428f9b6ea7bf4565b26e84b2a6af
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '李子柒'}]
+
+Text ID: a97a6b73ffad6f315dcdd54202b85483
+Events in file 1: [{'type': '资产冻结', 'entity': 'ofo'}]
+Events in file 2: [{'type': '资产冻结', 'entity': ';ofo'}]
+
+Text ID: d74a86f67379ec0304c85aba83b73681
+Events in file 1: [{'type': '债务违约', 'entity': '烟台三重技术股份有限公司'}]
+Events in file 2: []
+
+Text ID: 95607dcaeb488f17cde5cd7c9f15402b
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '永辉超市'}, {'type': '经营亏损', 'entity': '大商集团'}]
+
+Text ID: bdd757946fbb6cd28a4836dc4a40b5fc
+Events in file 1: [{'type': '被列为失信被执行人', 'entity': '威马汽车科技（四川）有限公司'}]
+Events in file 2: [{'type': '被列为失信被执行人', 'entity': '威马汽车科技集团有限公司'}, {'type': '被列为失信被执行人', 'entity': '威马汽车科技（四川）有限公司'}]
+
+Text ID: 0fd645c8300a6fc874fbd1f5cbaf5181
+Events in file 1: []
+Events in file 2: [{'type': '财务信息造假', 'entity': '安然公司'}]
+
+Text ID: 0606e49e2ff73353cefe28fc35a84331
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '金螳螂'}]
+
+Text ID: b66f8a39e30d073d4ba99e165bdc9202
+Events in file 1: [{'type': '偿付能力不足', 'entity': '长安责任保险股份有限公司'}]
+Events in file 2: [{'type': '偿付能力不足', 'entity': '长安责任保险'}, {'type': '偿付能力不足', 'entity': '长安责任保险股份有限公司'}]
+
+Text ID: de4d18962d7f6da9b94491008f38a462
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '大梦龙途'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 193d87bbf645188ed78502426a93b4ff
+Events in file 1: []
+Events in file 2: [{'type': '连续下跌', 'entity': '美光'}]
+
+Text ID: 90fdc9e786e65b029a35786633faa84e
+Events in file 1: []
+Events in file 2: [{'type': '停产停业', 'entity': '国泰航空'}]
+
+Text ID: 86f8f3196fd46f1a2d05d2d37fb6c792
+Events in file 1: []
+Events in file 2: [{'type': '投资亏损', 'entity': '京东方A'}]
+
+Text ID: 3bc759caa98057584fce625493aa13af
+Events in file 1: []
+Events in file 2: [{'type': '公司退市', 'entity': '苏州市华扬电子有限公司'}]
+
+Text ID: 4d580a5e3924d46ab2a14f528b514fd2
+Events in file 1: [{'type': '经营亏损', 'entity': '台电'}, {'type': '经营亏损', 'entity': '绿能发电'}]
+Events in file 2: [{'type': '经营亏损', 'entity': '绿能发电'}]
+
+Text ID: 34238ee220b0dcae9472e4c681d7fadf
+Events in file 1: [{'type': '实际控制人变更', 'entity': '科邦锰业'}]
+Events in file 2: [{'type': '实际控制人变更', 'entity': '百源丰'}, {'type': '实际控制人变更', 'entity': '科邦锰业'}]
+
+Text ID: 2e054e40f915d1382a43a3e87a1bcacb
+Events in file 1: [{'type': '裁员', 'entity': '铃木汽车'}, {'type': '裁员', 'entity': '福特'}, {'type': '裁员', 'entity': '克莱斯勒汽车'}]
+Events in file 2: [{'type': '裁员', 'entity': '铃木汽车'}, {'type': '裁员', 'entity': '克莱斯勒汽车'}]
+
+Text ID: 5887b4ef9d4573afe3622f0b5d57ac19
+Events in file 1: [{'type': '盈利能力下降', 'entity': '特斯拉'}]
+Events in file 2: []
+
+Text ID: 46b18ed52ae33fce0538f9b6568a229b
+Events in file 1: [{'type': '第一大股东变化', 'entity': '海航控股'}]
+Events in file 2: [{'type': '实际控制人变更', 'entity': '海航控股'}]
+
+Text ID: 9f6bde8e61daf7b50da4182adf604ac1
+Events in file 1: []
+Events in file 2: [{'type': '造假欺诈', 'entity': '二驴夫妇'}]
+
+Text ID: 5809ea19445cd2231e73911ffc688d9d
+Events in file 1: [{'type': '重大债务到期', 'entity': '恒大集团'}, {'type': '重大债务到期', 'entity': '佳兆业集团'}, {'type': '重大债务到期', 'entity': '景程'}, {'type': '重大债务到期', 'entity': '绿地'}]
+Events in file 2: [{'type': '重大债务到期', 'entity': '景程'}]
+
+Text ID: e8509aa8da27f08d12779f01fc5496cb
+Events in file 1: [{'type': '内幕交易', 'entity': '昊志机电'}]
+Events in file 2: [{'type': '实际控制人涉嫌违法', 'entity': '昊志机电'}]
+
+Text ID: e6213b13c75a525151d3991727be5550
+Events in file 1: [{'type': '公司停牌', 'entity': '中国恒大'}, {'type': '公司停牌', 'entity': '恒大物业'}]
+Events in file 2: [{'type': '公司停牌', 'entity': '恒大物业'}]
+
+Text ID: 96d224230c5235175b3b03bf72238cf4
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '中信证券'}]
+Events in file 2: [{'type': '警告', 'entity': '思创医恵'}]
+
+Text ID: ef2647fdf1feb6292e922a4a436d6bca
+Events in file 1: [{'type': '重大资产损失', 'entity': '中国银行股份有限公司渭南分行'}]
+Events in file 2: [{'type': '重大资产损失', 'entity': '中国银行股份有限公司渭南分行'}, {'type': '重大赔付', 'entity': '安国际商业保理(天津)有限公司'}]
+
+Text ID: 6479756d124d6ecba5442391987c8171
+Events in file 1: [{'type': '扰乱市场秩序', 'entity': '老百姓大药房连锁（天津）有限公司'}]
+Events in file 2: [{'type': '扰乱市场秩序', 'entity': '老百姓大药房连锁（天津）有限公司河西店'}]
+
+Text ID: fe6c8dafce9aabebdc04d4b1b46cffa8
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '铜陵有色'}]
+
+Text ID: faa1020ea1b2933416fb42ed9c308186
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '华汇人寿'}]
+Events in file 2: [{'type': '股东利益斗争', 'entity': '华汇人寿'}, {'type': '企业被问询约谈审查', 'entity': '华汇人寿'}]
+
+Text ID: d847f9f8310e7060bea4621b4cdc4b71
+Events in file 1: [{'type': '业务/资产重组', 'entity': '中国中化控股有限公司'}]
+Events in file 2: []
+
+Text ID: 4e55c971456e430dcab7f8c340a445b5
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '永定区焉凡雨百货店'}]
+
+Text ID: 260c5c97f4e7d55eceec5df62dee93cd
+Events in file 1: [{'type': '自然灾害', 'entity': '国航'}]
+Events in file 2: []
+
+Text ID: 7f2830b420f66d7a7accebfe52a1c1c9
+Events in file 1: []
+Events in file 2: [{'type': '重大资产损失', 'entity': '湖南双峰荣诚鞋业有限公司'}]
+
+Text ID: 42200f202e4f210be8a3d6f8a0e97674
+Events in file 1: [{'type': '业务/资产重组', 'entity': '杭州热电'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '日播时尚'}, {'type': '业务/资产重组', 'entity': '杭州热电'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 786e6bbd7a9b94946a78e876bceef9ab
+Events in file 1: [{'type': '第一大股东变化', 'entity': '君康人寿'}]
+Events in file 2: [{'type': '第一大股东变化', 'entity': '君康人寿'}, {'type': '实际控制人变更', 'entity': '君康人寿'}]
+
+Text ID: 12e412f50f955edb2aaaa2faef0b3aef
+Events in file 1: [{'type': '警告', 'entity': '天津银行'}]
+Events in file 2: [{'type': '责令改正', 'entity': '天津银行'}]
+
+Text ID: 47b4b0fca3542e9f5f961ece08ed8aac
+Events in file 1: [{'type': '公司停牌', 'entity': '中弘股份'}]
+Events in file 2: [{'type': '公司退市', 'entity': '中弘股份'}]
+
+Text ID: 3e878e4556e25394162e596f70938574
+Events in file 1: [{'type': '挤兑', 'entity': '浦发银行'}]
+Events in file 2: [{'type': '挤兑', 'entity': '浦发银行上海分行'}]
+
+Text ID: d640c26ef2d3badf44b31e0de6d4bcf7
+Events in file 1: []
+Events in file 2: [{'type': '澄清辟谣', 'entity': '阳光信用'}]
+
+Text ID: 18c6dbde00a6895fe4773e3c38a418dc
+Events in file 1: [{'type': '经营亏损', 'entity': '搜狐'}]
+Events in file 2: [{'type': '经营亏损', 'entity': '搜狐'}, {'type': '经营亏损', 'entity': '搜狐公司'}]
+
+Text ID: 25dc33f09bcb78b27697457f2afca182
+Events in file 1: []
+Events in file 2: [{'type': '关闭分支机构', 'entity': '微博'}]
+
+Text ID: 3b762aa28659fe6f1b677e42dce3f19e
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '山西汾酒'}]
+
+Text ID: bb14bebd81b2b7d3505d6bac4adc2405
+Events in file 1: [{'type': '债务展期', 'entity': '东方日升'}]
+Events in file 2: [{'type': '债务融资失败', 'entity': '东方日升'}]
+
+Text ID: 0c8edd26ed05ef96e2710a8c5ba2b5ae
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '联动云租车'}]
+
+Text ID: c63bb6dff04d76e3f0eb696490005292
+Events in file 1: [{'type': '第一大股东变化', 'entity': '浩丰科技'}]
+Events in file 2: [{'type': '第一大股东变化', 'entity': '浩丰科技'}, {'type': '实际控制人变更', 'entity': '浩丰科技'}]
+
+Text ID: f863248c33f1125f46915f3318bda200
+Events in file 1: [{'type': '欠薪', 'entity': '寺库'}]
+Events in file 2: [{'type': '欠薪', 'entity': '寺库'}, {'type': '债务违约', 'entity': '寺库'}]
+
+Text ID: 0bcff7f4d7d8a796410cf904247dd504
+Events in file 1: [{'type': '资产冻结', 'entity': '鞍山爱尔资产'}]
+Events in file 2: [{'type': '资产冻结', 'entity': '鞍山爱尔'}]
+
+Text ID: 4a39110fea2262dd545b883e44e37835
+Events in file 1: [{'type': '债务展期', 'entity': '阳光城'}]
+Events in file 2: [{'type': '债务展期', 'entity': '阳光城'}, {'type': '债务展期', 'entity': '阳光'}]
+
+Text ID: 95607dcaeb488f17cde5cd7c9f15402b
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '永辉超市'}, {'type': '经营亏损', 'entity': '大商集团'}]
+
+Text ID: 295b627f2c87239e1be28abda535d1a4
+Events in file 1: [{'type': '禁入行业', 'entity': '康美药业'}]
+Events in file 2: [{'type': '终身禁入行业', 'entity': '康美药业'}, {'type': '禁入行业', 'entity': '康美药业'}]
+
+Text ID: f100f2b052141946637d6f394abc1603
+Events in file 1: [{'type': '连续下跌', 'entity': '迈为股份'}]
+Events in file 2: []
+
+Text ID: 58f76c2069aeaf432ecb3e40f7fe8b12
+Events in file 1: [{'type': '内幕交易', 'entity': '齐翔腾达'}, {'type': '内幕交易', 'entity': '齐翔集团'}]
+Events in file 2: []
+
+Text ID: 4b1a6951ec2f0b6f9bf20e7f80ab0751
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '成都科瑞达科技有限公司'}, {'type': '企业被问询约谈审查', 'entity': '成都普思生物科技股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '中铁隆工程集团有限公司'}]
+
+Text ID: 072679e97ca7cc4e314ad5d06471af58
+Events in file 1: []
+Events in file 2: [{'type': '退出市场', 'entity': '小象优品'}]
+
+Text ID: 6124f9935e8a784bfc3f7dbd3b0c680e
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '新协航'}, {'type': '经营激进', 'entity': '泛亚物流'}, {'type': '经营激进', 'entity': '飞熊领鲜'}]
+
+Text ID: 1ef3816ef04a189c1582f1b535608705
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '中青宝'}, {'type': '企业被问询约谈审查', 'entity': '平治信息'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '平治信息'}]
+
+Text ID: cbc0617b6cd784eabb3fb515e9cd03ee
+Events in file 1: []
+Events in file 2: [{'type': '资金紧张', 'entity': '苏州兆和公司'}]
+
+Text ID: aef3c4ac215d5c7fb293a6876d83fb21
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人涉诉仲裁', 'entity': '杰晖融资担保有限公司'}]
+
+Text ID: bf54b3895b724e4fc382b53fbc4de196
+Events in file 1: [{'type': '债务违约', 'entity': '河南高速路桥公司'}, {'type': '债务违约', 'entity': '高速路桥公司'}]
+Events in file 2: [{'type': '债务违约', 'entity': '河南高速路桥公司'}, {'type': '债务违约', 'entity': '河南高速发展路桥工程有限公司'}, {'type': '债务违约', 'entity': '高速路桥公司'}]
+
+Text ID: 2d555a871a74256947d12a534108931b
+Events in file 1: []
+Events in file 2: [{'type': '裁员', 'entity': '佳兆业集团'}]
+
+Text ID: d93492bfeebe68c6f6740d9270184a07
+Events in file 1: [{'type': '重大资产损失', 'entity': '广西宏华生物实业股份有限公司'}]
+Events in file 2: [{'type': '经营亏损', 'entity': '广西宏华生物实业股份有限公司'}]
+
+Text ID: f45bd87634dfd5404581e49268432b6f
+Events in file 1: [{'type': '高层失联/死亡', 'entity': '建华医院'}]
+Events in file 2: [{'type': '股东利益斗争', 'entity': '建华医院'}, {'type': '高层失联/死亡', 'entity': '建华医院'}]
+
+Text ID: 549289353169febb1e4ca2f26ad0ea30
+Events in file 1: [{'type': '高层变更', 'entity': '百度'}]
+Events in file 2: []
+
+Text ID: c74226e731ce10c8c70c93e7b6bcaf2c
+Events in file 1: [{'type': '产品违约/不足额兑付', 'entity': '民生信托'}, {'type': '债务违约', 'entity': '武汉金凰珠宝'}, {'type': '债务违约', 'entity': '新华联'}]
+Events in file 2: [{'type': '产品违约/不足额兑付', 'entity': '民生信托'}, {'type': '产品违约/不足额兑付', 'entity': '武汉金凰珠宝'}, {'type': '债务违约', 'entity': '新华联'}]
+
+Text ID: b1c5c6d1dc6483f40363051891025e29
+Events in file 1: [{'type': '澄清辟谣', 'entity': '嘉应制药'}]
+Events in file 2: [{'type': '总部被警方调查', 'entity': '嘉应制药'}]
+
+Text ID: c6e10bef0922295c111bd3188456a6fe
+Events in file 1: [{'type': '业务/资产重组', 'entity': '南岭民爆'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '南岭民爆'}, {'type': '实际控制人变更', 'entity': '南岭民爆'}]
+
+Text ID: 69a4e3a494a4b590d0735415cefd2511
+Events in file 1: [{'type': '公司退市', 'entity': '海马汽车'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '海马汽车'}]
+
+Text ID: 3c39e857fd6ad0fb61d75ccff463ebda
+Events in file 1: [{'type': '禁入行业', 'entity': '宜华生活科技股份有限公司'}]
+Events in file 2: [{'type': '终身禁入行业', 'entity': '宜华生活科技股份有限公司'}]
+
+Text ID: 0c697701f8d17cd7e01f20822c97a6a5
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '广东威尔泰克科技有限公司'}]
+
+Text ID: a9c34decad00a8caf7defbe761942adf
+Events in file 1: []
+Events in file 2: [{'type': '被接管', 'entity': '华夏人寿保险股份有限公司'}]
+
+Text ID: 535c0fd5588eb5a317909c3975148d9d
+Events in file 1: [{'type': '债务违约', 'entity': '山东龙力生物科技股份有限公司'}]
+Events in file 2: [{'type': '债务违约', 'entity': '国盛证券资产管理有限公司'}, {'type': '债务违约', 'entity': '山东龙力生物科技股份有限公司'}]
+
+Text ID: eb08ebafbfca4c5d81ed85a0556936be
+Events in file 1: [{'type': '高层变更', 'entity': '石家庄智联传媒有限公司'}]
+Events in file 2: [{'type': '高层变更', 'entity': '亿城房地产开发有限公司'}, {'type': '高层变更', 'entity': '石家庄市韩迪品牌策略顾问有限公司'}, {'type': '高层变更', 'entity': '石家庄智联传媒有限公司'}]
+
+Text ID: d8ebf8bc6a4d1caf0e5483d63adb94a8
+Events in file 1: [{'type': '业务/资产重组', 'entity': '英山'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '英山'}, {'type': '业务/资产重组', 'entity': '湖北先秾坛生态农业有限公司'}]
+
+Text ID: efcd70f06f7612b1ba7c5e283e71c3ae
+Events in file 1: [{'type': '退出市场', 'entity': '阿尔特拉'}]
+Events in file 2: []
+
+Text ID: 68a6b810d60e8f53b10440a51e427749
+Events in file 1: []
+Events in file 2: [{'type': '裁员', 'entity': '宝龙'}]
+
+Text ID: b7e61d63ccef0b97c9246f5f7b8dad93
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '烟台张裕葡萄酿酒股份有限公司'}]
+
+Text ID: 3745a629fc2ce6e48edfcf7ac956ddba
+Events in file 1: [{'type': '经营激进', 'entity': '蜂花'}, {'type': '经营激进', 'entity': '李宁'}, {'type': '经营激进', 'entity': '汇源'}]
+Events in file 2: [{'type': '经营激进', 'entity': '蜂花'}, {'type': '经营激进', 'entity': '李宁'}, {'type': '经营激进', 'entity': '鸿星尔克'}, {'type': '经营激进', 'entity': '汇源'}, {'type': '经营激进', 'entity': '大白兔'}]
+
+Text ID: e6b43ca5ff93694c6316ae2adb970a80
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': 'seanergy海事控股'}]
+
+Text ID: 43b9a4f032858ff036fdc8ccf56c67f6
+Events in file 1: [{'type': '总部被警方调查', 'entity': '新新贷'}, {'type': '违规催收', 'entity': '捷信金融'}]
+Events in file 2: [{'type': '总部被警方调查', 'entity': '新新贷'}]
+
+Text ID: ca298bba6ca14d0b76ed18e19c9fabed
+Events in file 1: [{'type': '破产清算', 'entity': '乐华娱乐'}]
+Events in file 2: [{'type': '破产清算', 'entity': '乐华娱乐'}, {'type': '澄清辟谣', 'entity': '乐华娱乐'}]
+
+Text ID: 52677cba8cd2160a8e505f63537e286c
+Events in file 1: [{'type': '业务/资产重组', 'entity': '天山生物'}, {'type': '业务/资产重组', 'entity': '大象广告'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '大象广告'}]
+
+Text ID: 03701facb19b8f0544f7abe4f1ee0001
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '酒鬼酒'}]
+Events in file 2: []
+
+Text ID: e3cc096900cc02bbc420ed851f5b0f33
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '渤海银行'}]
+
+Text ID: 58755f6ea81936bd5d2e9bf85b026c91
+Events in file 1: []
+Events in file 2: [{'type': '债务展期', 'entity': '中国兵器装备集团有限公司'}]
+
+Text ID: 2d70de39c75d9756948e5e6789b27215
+Events in file 1: [{'type': '责令改正', 'entity': '海通证券'}]
+Events in file 2: [{'type': '责令改正', 'entity': '海通证券'}, {'type': '责令改正', 'entity': '奥瑞德'}]
+
+Text ID: a0c00c5ccbf98638a6ea0c50f362cc19
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '鸿星尔克'}]
+
+Text ID: 6494278551bba1a22a5fe793ed8bf75c
+Events in file 1: [{'type': '公司停牌', 'entity': '新力金融'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '新力金融'}]
+
+Text ID: 21779166b14eb7d2089d9ef9c3e6e5d9
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '达志科技'}]
+
+Text ID: 3d937887042fe4fa347ea3f851813306
+Events in file 1: [{'type': '实际控制人涉诉仲裁', 'entity': '中捷资源投资股份有限公司'}]
+Events in file 2: [{'type': '实际控制人涉诉仲裁', 'entity': '中捷资源投资股份有限公司'}, {'type': '实际控制人涉诉仲裁', 'entity': '杭州执力'}]
+
+Text ID: 2d49c48bc9e48750b8f284fe1afedd7d
+Events in file 1: [{'type': '公司停牌', 'entity': '汇源果汁'}]
+Events in file 2: [{'type': '公司停牌', 'entity': '汇源果汁'}, {'type': '公司停牌', 'entity': '北京汇源公司'}]
+
+Text ID: 196558ac7bc3b58c09f2fe7273a29dd1
+Events in file 1: []
+Events in file 2: [{'type': '行业排名下降', 'entity': '高雄港'}]
+
+Text ID: 7a5537bd1e34b90c57111c4538c72bc2
+Events in file 1: []
+Events in file 2: [{'type': '责令改正', 'entity': '盐湖股份'}]
+
+Text ID: e8bd87c5bac8aa6c3386067a872612f0
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '晋商消金'}]
+
+Text ID: 7b78521d6ce935d5c4bc6c69d53224b8
+Events in file 1: [{'type': '造假欺诈', 'entity': '阿里巴巴'}]
+Events in file 2: []
+
+Text ID: f88ef06a956f5d559ca446efd0283899
+Events in file 1: []
+Events in file 2: [{'type': '裁员', 'entity': '360'}]
+
+Text ID: aae93f7f0104ffc996b3f877ef39d694
+Events in file 1: [{'type': '财务信息造假', 'entity': '康美药业'}]
+Events in file 2: [{'type': '财务信息造假', 'entity': '康美药业'}, {'type': '财务信息造假', 'entity': '正中珠江'}]
+
+Text ID: 3e8ca9055a8c89b2d84ce9ab193e607d
+Events in file 1: [{'type': '债务违约', 'entity': '河南高速路桥公司'}, {'type': '债务违约', 'entity': '高速路桥公司'}]
+Events in file 2: [{'type': '债务违约', 'entity': '河南高速路桥公司'}, {'type': '债务违约', 'entity': '河南高速发展路桥工程有限公司'}, {'type': '债务违约', 'entity': '高速路桥公司'}]
+
+Text ID: bf30301542736d3860947dc555ac0266
+Events in file 1: [{'type': '业务/资产重组', 'entity': '中国音乐集团'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '中国音乐集团'}, {'type': '业务/资产重组', 'entity': 'qq音乐'}]
+
+Text ID: cd99fe5d8e69db31fed0d2611e8b5f26
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '安徽豆福豆制品有限公司'}, {'type': '监管入驻', 'entity': '安徽京创食品有限公司'}]
+
+Text ID: 0866933f50cf37a3b6932803bd83fa18
+Events in file 1: [{'type': '盈利能力下降', 'entity': '虎扑体育'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '虎扑体育'}, {'type': '盈利能力下降', 'entity': '地球黑夜动'}]
+
+Text ID: 585153c62e2729db8215bfd70ec58330
+Events in file 1: [{'type': '重大资产损失', 'entity': '哈投股份'}, {'type': '重大资产损失', 'entity': '哈尔滨哈投投资股份有限公司'}]
+Events in file 2: [{'type': '重大资产损失', 'entity': '哈尔滨哈投投资股份有限公司'}]
+
+Text ID: b1da7ba2f5ecf3a5b7acb47ee4745dc9
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '亿邦科技'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '华铁应急'}, {'type': '企业被问询约谈审查', 'entity': '亿邦科技'}]
+
+Text ID: 49737a9c0b89594a712c28c52c7b920c
+Events in file 1: [{'type': '财务信息造假', 'entity': '金亚科技'}]
+Events in file 2: [{'type': '实际控制人涉嫌违法', 'entity': '金亚科技'}]
+
+Text ID: 924c176261948ad010210cdb9b43d508
+Events in file 1: [{'type': '债务违约', 'entity': '湖南华艳生物科技开发股份有限公司'}, {'type': '履行连带担保责任', 'entity': '湖南华艳生物科技开发股份有限公司'}]
+Events in file 2: [{'type': '履行连带担保责任', 'entity': '湖南华艳生物科技开发股份有限公司'}]
+
+Text ID: 43fd6a356d84988bc070341fba7b477c
+Events in file 1: [{'type': '造假欺诈', 'entity': '岳阳恒立'}, {'type': '造假欺诈', 'entity': '酒鬼酒'}]
+Events in file 2: [{'type': '财务信息造假', 'entity': '岳阳恒立'}, {'type': '造假欺诈', 'entity': '酒鬼酒'}]
+
+Text ID: 5f258191c275cbb32a8c1cdd7a9a58a4
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '阳光信用'}]
+
+Text ID: 98535d81551745772a5e46909cdb53fe
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '盒马'}]
+
+Text ID: 42eba198c84c0f856271ffb98166de0b
+Events in file 1: []
+Events in file 2: [{'type': '股权冻结/强制转让', 'entity': '哈尔滨誉衡药业股份有限公司'}]
+
+Text ID: 6500a8060c144ee0d4ac34e2656f04cf
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': 'st中天'}]
+
+Text ID: 8285b63bfaa08cb0beed95e03731c4e7
+Events in file 1: [{'type': '财务信息造假', 'entity': '宜华生活'}]
+Events in file 2: [{'type': '终身禁入行业', 'entity': '宜华生活'}]
+
+Text ID: 8ea0f7a09ceaff668e7f08098263ba5b
+Events in file 1: []
+Events in file 2: [{'type': '资本充足不足', 'entity': '潜山农商银行'}]
+
+Text ID: de75cb4ff9e4116fa166bd17d1965e1b
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '三元前驱体'}]
+
+Text ID: 3d54c12d9bd9c1cbc6b0d4c82740c2a3
+Events in file 1: [{'type': '债务违约', 'entity': '四方达'}, {'type': '债务违约', 'entity': '良卓资产'}]
+Events in file 2: [{'type': '债务违约', 'entity': '四方达'}]
+
+Text ID: eb0bf55b6af5d526dcb41bd2e3985df6
+Events in file 1: [{'type': '审计师辞任', 'entity': '鑫苑服务'}, {'type': '审计师辞任', 'entity': '卓尔智联'}, {'type': '审计师辞任', 'entity': '威高国际'}]
+Events in file 2: [{'type': '审计师辞任', 'entity': '鑫苑服务'}, {'type': '审计师辞任', 'entity': '大森控股'}, {'type': '审计师辞任', 'entity': '卓尔智联'}, {'type': '审计师辞任', 'entity': '威高国际'}]
+
+Text ID: baf239343850222ce910998f5988eb54
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '埃斯顿'}]
+
+Text ID: a1ff0f32400f9db6d4297360f6d6dab5
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '蒙牛集团'}]
+
+Text ID: 8950d753f191c4f4a9cba4bea69811b1
+Events in file 1: [{'type': '延期信息披露', 'entity': '广西广投正润发展集团有限公司'}]
+Events in file 2: [{'type': '延期信息披露', 'entity': '广西广投正润发展集团有限公司'}, {'type': '延期信息披露', 'entity': '广西广投能源集团有限公司'}]
+
+Text ID: 42f2c72992256045ba93c21941948ecc
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': '鸣石投资'}]
+
+Text ID: 7c003094ea41d0f0343e6e42deac8ae9
+Events in file 1: []
+Events in file 2: [{'type': '警告', 'entity': '同花顺'}]
+
+Text ID: d1b6787e342d5353dd2b91d9fb3b2739
+Events in file 1: []
+Events in file 2: [{'type': '股权冻结/强制转让', 'entity': '西安银行'}]
+
+Text ID: 092ed574cedbfc016875beafb560b045
+Events in file 1: [{'type': '偷税漏税', 'entity': '拼多多'}]
+Events in file 2: [{'type': '造假欺诈', 'entity': '拼多多'}]
+
+Text ID: 896ec2cc34b7b547c4095acaeaf225a7
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': '新天地药业股份有限公司'}]
+
+Text ID: 8e8314245a23de646aa732efa5bcf2d0
+Events in file 1: [{'type': '公司退市', 'entity': '*st盐湖'}]
+Events in file 2: [{'type': '公司退市', 'entity': '*st盐湖'}, {'type': '违规催收', 'entity': '捷信金融'}]
+
+Text ID: 8cbeb3741bba974e666aa7d2a5cf5f8b
+Events in file 1: [{'type': '违规催收', 'entity': '任性贷'}]
+Events in file 2: []
+
+Text ID: b8bbd51b397da105e972ff631cae1ef1
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '甘肃中政天合招标有限公司'}]
+
+Text ID: 18c6dbde00a6895fe4773e3c38a418dc
+Events in file 1: [{'type': '经营亏损', 'entity': '搜狐'}]
+Events in file 2: [{'type': '经营亏损', 'entity': '搜狐'}, {'type': '经营亏损', 'entity': '搜狐公司'}]
+
+Text ID: 98535d81551745772a5e46909cdb53fe
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '盒马'}]
+
+Text ID: 05acbc39655090c1d7610ee32262c78a
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': '成都康弘药业集团股份有限公司'}]
+
+Text ID: 3bffd5aa6fe502eae1742e9f753c2d3a
+Events in file 1: [{'type': '终身禁入行业', 'entity': '*st新亿'}]
+Events in file 2: [{'type': '终身禁入行业', 'entity': '*st新亿'}, {'type': '禁入行业', 'entity': '*st新亿'}]
+
+Text ID: 9f8aba746de8da77124d097ad4f7d078
+Events in file 1: [{'type': '网站安全漏洞', 'entity': '国泰君安'}]
+Events in file 2: []
+
+Text ID: 821b2366e4e62cb6b279da1fac70db47
+Events in file 1: [{'type': '行业排名下降', 'entity': '移远通信'}, {'type': '行业排名下降', 'entity': '长江通信'}]
+Events in file 2: []
+
+Text ID: 42200f202e4f210be8a3d6f8a0e97674
+Events in file 1: [{'type': '业务/资产重组', 'entity': '杭州热电'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '日播时尚'}, {'type': '业务/资产重组', 'entity': '杭州热电'}]
+
+Text ID: 0c1cf4c24892a6554bab9780cfc05b2e
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '宁德时代'}]
+
+Text ID: ff24ac86f6203b2029add9965c55ad1a
+Events in file 1: [{'type': '债务违约', 'entity': '亿阳集团'}]
+Events in file 2: [{'type': '债务违约', 'entity': '中山证券有限责任公司'}]
+
+Text ID: e431c750cf7222946abcd95187dcf253
+Events in file 1: [{'type': '造假欺诈', 'entity': '杭州回客'}, {'type': '造假欺诈', 'entity': '杭州回客科技公司'}]
+Events in file 2: [{'type': '造假欺诈', 'entity': '杭州回客科技公司'}, {'type': '企业被问询约谈审查', 'entity': '杭州回客科技公司'}]
+
+Text ID: 625e6afe7eab2973c754b1f84e9148bb
+Events in file 1: [{'type': '信息泄露', 'entity': 'facebook'}, {'type': '信息泄露', 'entity': '华住'}]
+Events in file 2: [{'type': '信息泄露', 'entity': 'facebook'}]
+
+Text ID: f621148f929bdfaff2302f5188b44433
+Events in file 1: [{'type': '债务违约', 'entity': '河南高速路桥公司'}, {'type': '债务违约', 'entity': '高速路桥公司'}]
+Events in file 2: [{'type': '债务违约', 'entity': '河南高速路桥公司'}, {'type': '债务违约', 'entity': '河南高速发展路桥工程有限公司'}, {'type': '债务违约', 'entity': '高速路桥公司'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 92058fc7bf718b62f470d0cd0780bd3d
+Events in file 1: [{'type': '资产质量下降', 'entity': '招商银行'}]
+Events in file 2: []
+
+Text ID: 17e954f638bb6568e5470d7751cd71b3
+Events in file 1: []
+Events in file 2: [{'type': '关闭分支机构', 'entity': '浦发银行'}]
+
+Text ID: bf84d595792a2e1adcf8bb8fab25d9c9
+Events in file 1: []
+Events in file 2: [{'type': '盗取隐私信息', 'entity': '木仓科技'}]
+
+Text ID: 5b90869bd685020f13c2d4b6ebe6803c
+Events in file 1: [{'type': '产品违约/不足额兑付', 'entity': '同富爱晚'}]
+Events in file 2: [{'type': '产品违约/不足额兑付', 'entity': '平安银行北京朝阳门支行'}, {'type': '产品违约/不足额兑付', 'entity': '同富爱晚'}]
+
+Text ID: 4e55c971456e430dcab7f8c340a445b5
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '永定区焉凡雨百货店'}]
+
+Text ID: 90fdc9e786e65b029a35786633faa84e
+Events in file 1: []
+Events in file 2: [{'type': '停产停业', 'entity': '国泰航空'}]
+
+Text ID: d87191c69e2d9d87e1fac1f87cb0e70a
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '恒泰证券'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '庆汇租赁'}]
+
+Text ID: 5a77ccd1673fc2461f0e2aef4dc26820
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '常熟福朋喜来登'}]
+
+Text ID: e9c177065607b2347a605709a11fe6c5
+Events in file 1: []
+Events in file 2: [{'type': '责令改正', 'entity': '美团'}]
+
+Text ID: 3a6edd3c65fbddbf25dca5caec748acc
+Events in file 1: [{'type': '盈利能力下降', 'entity': '贵州茅台'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '贵州茅台'}, {'type': '盈利能力下降', 'entity': '山西汾酒'}]
+
+Text ID: 31693e97b30294f9caa7833adc2f7746
+Events in file 1: []
+Events in file 2: [{'type': '被接管', 'entity': '南宁公交集团'}]
+
+Text ID: 9ad581b3050ac6a6f3ddd7628e98fa68
+Events in file 1: [{'type': '被列为失信被执行人', 'entity': '山东嘉誉信用'}]
+Events in file 2: [{'type': '实际控制人涉诉仲裁', 'entity': '山东嘉誉信用'}]
+
+Text ID: 7253e267b692878d196321b457b3fb07
+Events in file 1: [{'type': '股权冻结/强制转让', 'entity': '华融湘江银行股份有限公司'}]
+Events in file 2: []
+
+Text ID: eb55d6d51f5896ebf6fdaa807f8f24dc
+Events in file 1: [{'type': '产品虚假宣传', 'entity': '欧莱雅'}]
+Events in file 2: [{'type': '产品虚假宣传', 'entity': '欧莱雅'}, {'type': '产品虚假宣传', 'entity': '蜂花'}]
+
+Text ID: 439fa1dac988475b293121a21ca48a2b
+Events in file 1: [{'type': '信息泄露', 'entity': '建行'}, {'type': '信息泄露', 'entity': '北京银行'}]
+Events in file 2: [{'type': '信息泄露', 'entity': '建行支行'}, {'type': '信息泄露', 'entity': '北京银行'}]
+
+Text ID: 71fdb67871af558c3a88732a1b441ac5
+Events in file 1: [{'type': '资产冻结', 'entity': '鸿达兴业'}]
+Events in file 2: []
+
+Text ID: 78f14b383e8e7d1ad7d063e69fbe41bc
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '腾讯'}]
+
+Text ID: d2e5427b92f96fc5be2e177bf41c83d6
+Events in file 1: [{'type': '第一大股东变化', 'entity': '360'}]
+Events in file 2: [{'type': '第一大股东变化', 'entity': '360'}, {'type': '第一大股东变化', 'entity': '合众新能源汽车有限公司'}]
+
+Text ID: e6b751f5aa81e593161d081c3df31ada
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '协鑫泊电智运运输服务（苏州）有限公司'}]
+
+Text ID: 6e2423fe8176546f9c34a51135b42657
+Events in file 1: []
+Events in file 2: [{'type': '债务违约', 'entity': '分享通信'}]
+
+Text ID: b0ccc7d6d2ac062bbba823167ab004e2
+Events in file 1: [{'type': '高层变更', 'entity': '奥飞娱乐股份有限公司'}]
+Events in file 2: [{'type': '高层变更', 'entity': 'a站'}, {'type': '高层变更', 'entity': '奥飞娱乐股份有限公司'}]
+
+Text ID: 666aec6b5589d6c8785bb63bf6ad3688
+Events in file 1: []
+Events in file 2: [{'type': '行业排名下降', 'entity': '国联股份'}, {'type': '行业排名下降', 'entity': 'ST易购'}]
+
+Text ID: df6006e76d0f88fb11b0486e56633ab0
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '申万'}]
+
+Text ID: 2517f12f6660e0f894d37f5028dcd3cf
+Events in file 1: []
+Events in file 2: [{'type': '责令改正', 'entity': '中银消费金融'}]
+
+Text ID: 9c105a5d1502645543dc69c0a94a4ddb
+Events in file 1: [{'type': '债务违约', 'entity': '荣盛发展'}, {'type': '债务违约', 'entity': '中信建投'}, {'type': '债务违约', 'entity': '蓝光发展'}]
+Events in file 2: [{'type': '债务违约', 'entity': '蓝光发展'}]
+
+Text ID: 0a1f75fcb1d06616ed6466e313123c7b
+Events in file 1: []
+Events in file 2: [{'type': '重大资产损失', 'entity': 'jamescordier'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 81f55697bef0636fc9f86f574f2f8432
+Events in file 1: []
+Events in file 2: [{'type': '股东利益斗争', 'entity': '中芯国际'}]
+
+Text ID: b632a9511521389967a6bb6d7fa52bfd
+Events in file 1: [{'type': '业务/资产重组', 'entity': '极兔速递'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '极兔速递'}, {'type': '业务/资产重组', 'entity': '丰网'}]
+
+Text ID: 03a24cc7c5d63c6278e62188e6ea2a3e
+Events in file 1: []
+Events in file 2: [{'type': '签订对赌协议', 'entity': '爱尔眼科'}]
+
+Text ID: 0b06b25245b0b2ebc13a9b149723660f
+Events in file 1: []
+Events in file 2: [{'type': '股票发行失败', 'entity': '顺丰控股'}]
+
+Text ID: eb8f26d2b3ba3d2c46ea20d283005ada
+Events in file 1: []
+Events in file 2: [{'type': '扰乱市场秩序', 'entity': '巨力'}]
+
+Text ID: 079b9209c7801cdf36ef3ae1266e462a
+Events in file 1: [{'type': '经营亏损', 'entity': '云鼎科技'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '云鼎科技'}]
+
+Text ID: d54bdd0b90d2769e009e3fc371456743
+Events in file 1: [{'type': '责令改正', 'entity': '美光'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '美光'}]
+
+Text ID: 4c0a63406b51225dff2e40ec2a11aca4
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '伊利股份'}]
+
+Text ID: 1553655a696ebf6e177b3fa6fc2293c5
+Events in file 1: [{'type': '行业排名下降', 'entity': '川网传媒'}]
+Events in file 2: []
+
+Text ID: 58407882603df8945f66ce67bd54bbdd
+Events in file 1: [{'type': '公司退市', 'entity': '小天鹅'}]
+Events in file 2: []
+
+Text ID: 0a1096c4c4099439fb7790bc2c101f99
+Events in file 1: []
+Events in file 2: [{'type': '更换基金经理', 'entity': '浦银安盛基金管理有限公司'}]
+
+Text ID: c2ea9191cefa2938349260b1a47d0c3a
+Events in file 1: []
+Events in file 2: [{'type': '公司违规关联交易', 'entity': '海宁联逸'}, {'type': '公司违规关联交易', 'entity': '柏威弗'}]
+
+Text ID: 5f30e7c8ee5f79170154ae4503b89631
+Events in file 1: [{'type': '盗取隐私信息', 'entity': '小米'}, {'type': '盗取隐私信息', 'entity': '亚马逊'}]
+Events in file 2: [{'type': '盗取隐私信息', 'entity': 'app'}]
+
+Text ID: 1bed370cbacff82c5dc711564060e8f1
+Events in file 1: [{'type': '更换基金经理', 'entity': '方正富邦基金管理有限公司'}]
+Events in file 2: [{'type': '更换基金经理', 'entity': '方正富邦基金'}, {'type': '更换基金经理', 'entity': '方正富邦基金管理有限公司'}]
+
+Text ID: 98e868b9b9942e40b7a3c676de3fcbca
+Events in file 1: []
+Events in file 2: [{'type': '关闭分支机构', 'entity': '马士基'}]
+
+Text ID: 5e845043fd3915119a1f9dce0998d4f8
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '武汉力诺太阳能集团股份有限公司'}]
+
+Text ID: ec957bc003bcf8a81889dd00813dcccb
+Events in file 1: []
+Events in file 2: [{'type': '扰乱市场秩序', 'entity': '龙威互动科技'}]
+
+Text ID: 1b0eec55df9141efeae0d42e602ae93a
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '国泰航空'}]
+
+Text ID: 602cc0197dd04ebda694a6551d979b37
+Events in file 1: [{'type': '外部信用评级下调', 'entity': '佳兆业集团'}, {'type': '评级机构中止评级', 'entity': '佳兆业集团'}]
+Events in file 2: [{'type': '评级机构中止评级', 'entity': '佳兆业集团'}]
+
+Text ID: 6fc8455c5d06238b6c0d89b711b6f917
+Events in file 1: [{'type': '高层变更', 'entity': '京沪高速铁路股份有限公司'}]
+Events in file 2: [{'type': '审计师辞任', 'entity': '京沪高速铁路股份有限公司'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 01ececf6b1cff6658f75ac5b660de60e
+Events in file 1: [{'type': '信息泄露', 'entity': '苹果公司'}]
+Events in file 2: [{'type': '网站安全漏洞', 'entity': '苹果公司'}]
+
+Text ID: cb2a41d7f756a1f234bc2c92cf1fb87c
+Events in file 1: [{'type': '公司停牌', 'entity': '北矿科技'}]
+Events in file 2: [{'type': '公司停牌', 'entity': '北矿科技'}, {'type': '公司停牌', 'entity': '株洲火炬工业炉有限责任公司'}]
+
+Text ID: cee8976f22c5cedeab6b2b271baab6d8
+Events in file 1: []
+Events in file 2: [{'type': '连续下跌', 'entity': '中海油服'}]
+
+Text ID: 3745a629fc2ce6e48edfcf7ac956ddba
+Events in file 1: [{'type': '经营激进', 'entity': '蜂花'}, {'type': '经营激进', 'entity': '李宁'}, {'type': '经营激进', 'entity': '汇源'}]
+Events in file 2: [{'type': '经营激进', 'entity': '蜂花'}, {'type': '经营激进', 'entity': '李宁'}, {'type': '经营激进', 'entity': '鸿星尔克'}, {'type': '经营激进', 'entity': '汇源'}, {'type': '经营激进', 'entity': '大白兔'}]
+
+Text ID: b777bbc4fcc4f65f129cf870ded44a0c
+Events in file 1: []
+Events in file 2: [{'type': '连续下跌', 'entity': '朗坤环境'}]
+
+Text ID: bb1f99b1f221bf31648a27e866b782c9
+Events in file 1: [{'type': '业务/资产重组', 'entity': '浙江省交通集团'}, {'type': '业务/资产重组', 'entity': '浙江省铁路集团'}]
+Events in file 2: []
+
+Text ID: a4e2742dcdf93ce253061a2a7cd3bf7e
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '上汽通用五菱汽车股份有限公司重庆分公司'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '上汽通用五菱汽车股份有限公司重庆分公司'}, {'type': '企业被问询约谈审查', 'entity': '重庆长安汽车股份有限公司'}]
+
+Text ID: 0606e49e2ff73353cefe28fc35a84331
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '金螳螂'}]
+
+Text ID: 834527bb866d28fc539f716be4631c69
+Events in file 1: []
+Events in file 2: [{'type': '造假欺诈', 'entity': '康美药业股份有限公司'}]
+
+Text ID: a25842ea4a3cc3a769b57782c3ba2ccf
+Events in file 1: [{'type': '破产清算', 'entity': '珠海冠豪'}]
+Events in file 2: []
+
+Text ID: 715966727860e6015069eef5e552e03a
+Events in file 1: [{'type': '非法集资', 'entity': '上海联璧电子科技公司'}, {'type': '非法集资', 'entity': '上海斐讯数据通信技术有限公司'}]
+Events in file 2: [{'type': '非法集资', 'entity': '上海联璧电子科技公司'}]
+
+Text ID: dea0252e6180b1b6292514c8c4675e41
+Events in file 1: []
+Events in file 2: [{'type': '债务展期', 'entity': '碧桂园'}]
+
+Text ID: c09326f882cac80a3661624124c620c6
+Events in file 1: []
+Events in file 2: [{'type': '债务违约', 'entity': '银盛支付'}]
+
+Text ID: b8ca11282a0eaab51f9c852895d149cc
+Events in file 1: []
+Events in file 2: [{'type': '警告', 'entity': '同花顺'}]
+
+Text ID: ff09cdd033d5b3829627f4a071a09a89
+Events in file 1: [{'type': '重大资产损失', 'entity': '湖北广济药业股份有限公司'}]
+Events in file 2: [{'type': '自然灾害', 'entity': '湖北广济药业股份有限公司'}]
+
+Text ID: 782c45c553e6d266077e8213d1400303
+Events in file 1: []
+Events in file 2: [{'type': '产品违约/不足额兑付', 'entity': '安徽新华传媒股份有限公司'}]
+
+Text ID: cce3fb33883f653a1f7a0af63475476e
+Events in file 1: [{'type': '债务违约', 'entity': '江阴市建筑装璜制品厂'}]
+Events in file 2: [{'type': '破产清算', 'entity': '*st澄星'}, {'type': '债务违约', 'entity': '江阴市建筑装璜制品厂'}]
+
+Text ID: 3787cedefe086349ca15ba0fde3c2954
+Events in file 1: [{'type': '被列为失信被执行人', 'entity': '康美健康小镇投资有限公司'}]
+Events in file 2: [{'type': '被列为失信被执行人', 'entity': '康美健康小镇投资有限公司'}, {'type': '被列为失信被执行人', 'entity': '康美小镇(昆明)公司'}]
+
+Text ID: cc33eb78dea7728b4789e6e7161f8007
+Events in file 1: [{'type': '公司停牌', 'entity': '恒大物业'}, {'type': '公司停牌', 'entity': '合生创展'}]
+Events in file 2: [{'type': '公司停牌', 'entity': '合生创展'}]
+
+Text ID: be3bade53c875c01d3708f92a91cd54c
+Events in file 1: [{'type': '股东利益斗争', 'entity': '万科'}]
+Events in file 2: [{'type': '股东利益斗争', 'entity': '安邦保险'}]
+
+Text ID: 835a7ddc43e5036781efd0bc0f23ddd7
+Events in file 1: [{'type': '经营亏损', 'entity': '阳光城'}, {'type': '债务违约', 'entity': '阳光城'}]
+Events in file 2: [{'type': '经营亏损', 'entity': '立信中联会计师事务所(特殊普通合伙)'}, {'type': '经营亏损', 'entity': '阳光城'}, {'type': '债务违约', 'entity': '阳光城'}, {'type': '保留意见', 'entity': '阳光城'}]
+
+Text ID: 027c5445b1a0fbdcdac603b79f6a22f7
+Events in file 1: [{'type': '产品虚假宣传', 'entity': '欧莱雅'}]
+Events in file 2: [{'type': '产品虚假宣传', 'entity': '巴黎欧莱雅'}]
+
+Text ID: e1fe462a602b63fe7c8da3c1e2e76e77
+Events in file 1: [{'type': '债务违约', 'entity': '永泰能源股份有限公司'}]
+Events in file 2: [{'type': '债务展期', 'entity': '永泰能源股份有限公司'}]
+
+Text ID: 543c6a06e869c8a8a4aa3552a5472198
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '平陆运河集团'}]
+
+Text ID: b8d4d10cd71c1b46fb7b9c12aba9c393
+Events in file 1: [{'type': '实际控制人涉诉仲裁', 'entity': '南京中央商场(集团)股份有限公司'}]
+Events in file 2: [{'type': '实际控制人涉诉仲裁', 'entity': '雨润集团'}, {'type': '实际控制人涉诉仲裁', 'entity': '南京中央商场(集团)股份有限公司'}]
+
+Text ID: a3656d834c9bcdee4ac146a8a81b3757
+Events in file 1: [{'type': '第一大股东变化', 'entity': '安阳钢铁'}]
+Events in file 2: []
+
+Text ID: 8b7541357dd8f1a79fd44e7b381cf794
+Events in file 1: [{'type': '重大资产损失', 'entity': '海伦哲'}, {'type': '财务信息造假', 'entity': '连硕科技'}]
+Events in file 2: [{'type': '实际控制人涉嫌违法', 'entity': '海伦哲'}, {'type': '财务信息造假', 'entity': '连硕科技'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: adad35c57eaa8b9d011dee721ff773a6
+Events in file 1: []
+Events in file 2: [{'type': '债务违约', 'entity': '伊森'}]
+
+Text ID: 94059c0995aabbf4fd82daa6e538749e
+Events in file 1: [{'type': '保留意见', 'entity': '康美药业'}]
+Events in file 2: [{'type': '保留意见', 'entity': '康美药业'}, {'type': '出具虚假证明', 'entity': '正中珠江'}]
+
+Text ID: 12c7c88dffe1899df925cc98680b13d7
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人涉嫌违法', 'entity': '湖南万建'}]
+
+Text ID: 06a1759def9918622cff6e989ad7846c
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '华盛昌'}]
+
+Text ID: 4605fdb8fe5e9b7d0a02a38b83db45fe
+Events in file 1: []
+Events in file 2: [{'type': '外部信用评级下调', 'entity': '中资航空公司'}]
+
+Text ID: 9d57c2f5f325dfffb17d321a8067fb4e
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '科远智慧'}]
+
+Text ID: e501f6a73a2381924da51a81da44ee93
+Events in file 1: [{'type': '自然灾害', 'entity': '中信证券'}]
+Events in file 2: [{'type': '重大资产损失', 'entity': '中信证券'}]
+
+Text ID: 2a220aa29eade9e59fb21369aff7ac6a
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '灵丘县经济建设投资有限责任公司'}, {'type': '监管入驻', 'entity': '国盛医药药材有限公司第一药店'}, {'type': '监管入驻', 'entity': '灵丘县首农乡村建设有限公司'}]
+
+Text ID: 51775700ec9a85dfd841e29b637cb3ba
+Events in file 1: [{'type': '高层变更', 'entity': '富民银行'}]
+Events in file 2: [{'type': '资产质量下降', 'entity': '富民银行'}]
+
+Text ID: efcd70f06f7612b1ba7c5e283e71c3ae
+Events in file 1: [{'type': '退出市场', 'entity': '阿尔特拉'}]
+Events in file 2: []
+
+Text ID: 95f24631a628e0fa0db85de9b918b62f
+Events in file 1: [{'type': '经营亏损', 'entity': '杭州热电'}]
+Events in file 2: []
+
+Text ID: 933bf7abbfa5fdd498e778e57a903d62
+Events in file 1: [{'type': '业务/资产重组', 'entity': '徐工机械'}]
+Events in file 2: []
+
+Text ID: e45151120bf66c546840991bd3b93ac0
+Events in file 1: []
+Events in file 2: [{'type': '延期信息披露', 'entity': '伊森'}]
+
+Text ID: e979b6d8df712bf889bc9ec33d624060
+Events in file 1: [{'type': '行业排名下降', 'entity': '山西汾酒'}, {'type': '行业排名下降', 'entity': '怡亚通'}, {'type': '行业排名下降', 'entity': '来伊份'}, {'type': '行业排名下降', 'entity': '海南椰岛'}]
+Events in file 2: [{'type': '行业排名下降', 'entity': '山西汾酒'}, {'type': '行业排名下降', 'entity': '*ST皇台'}, {'type': '行业排名下降', 'entity': '怡亚通'}, {'type': '行业排名下降', 'entity': '来伊份'}, {'type': '行业排名下降', 'entity': '海南椰岛'}]
+
+Text ID: 554961047b286089e6ff34f44895d84a
+Events in file 1: [{'type': '实际控制人涉诉仲裁', 'entity': '宝塔实业股份有限公司'}]
+Events in file 2: [{'type': '资产冻结', 'entity': '宝塔实业股份有限公司'}, {'type': '实际控制人涉诉仲裁', 'entity': '宝塔实业股份有限公司'}, {'type': '股权冻结/强制转让', 'entity': '宝塔石化'}]
+
+Text ID: 6003c8355df27d9584c35a5d6520a729
+Events in file 1: []
+Events in file 2: [{'type': '债务融资失败', 'entity': '盛屯集团'}]
+
+Text ID: 9d5ec73042c6cc4b242bb134c832c265
+Events in file 1: [{'type': '产品违约/不足额兑付', 'entity': '诺亚财富'}]
+Events in file 2: [{'type': '投资亏损', 'entity': '诺亚财富'}]
+
+Text ID: 5ac5b5aedfab52cd2408ccc0d66fe18c
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '萨摩耶云科技集团'}]
+
+Text ID: 358fc3002a370b56f9c5c37544def57a
+Events in file 1: [{'type': '非法集资', 'entity': '道和云科'}, {'type': '公司退市', 'entity': '*st华信'}]
+Events in file 2: [{'type': '非法集资', 'entity': '道和云科'}, {'type': '公司退市', 'entity': '新ceo;*st华信'}]
+
+Text ID: 865f9fb6a7203bf8584e90d3d8179e19
+Events in file 1: [{'type': '关闭分支机构', 'entity': '中泰证券股份有限公司'}]
+Events in file 2: [{'type': '关闭分支机构', 'entity': '中泰证券股份有限公司'}, {'type': '关闭分支机构', 'entity': '肇东正阳大街证券营业部'}]
+
+Text ID: f5d29b2e24c75ed5b4f33d62a340261c
+Events in file 1: [{'type': '造假欺诈', 'entity': '数码科技'}]
+Events in file 2: []
+
+Text ID: 9391ab856f48c7e93a250c48328979c3
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '卓朗科技'}]
+
+Text ID: 57c3d9e60e51c83f8ce28ad93fc26ab2
+Events in file 1: [{'type': '债务违约', 'entity': '有融网'}]
+Events in file 2: [{'type': '债务展期', 'entity': '有融网'}]
+
+Text ID: 40ff3baa2a50bd5f6548c95bb42889e5
+Events in file 1: [{'type': '吊销资质牌照', 'entity': '北京大北农科技集团股份有限公司'}]
+Events in file 2: []
+
+Text ID: 2a220aa29eade9e59fb21369aff7ac6a
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '灵丘县经济建设投资有限责任公司'}, {'type': '监管入驻', 'entity': '国盛医药药材有限公司第一药店'}, {'type': '监管入驻', 'entity': '灵丘县首农乡村建设有限公司'}]
+
+Text ID: 4e55c971456e430dcab7f8c340a445b5
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '永定区焉凡雨百货店'}]
+
+Text ID: 760a9e4f8d5ed27bfc8dd3664182ba34
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '嘉里物流'}]
+
+Text ID: 6124f9935e8a784bfc3f7dbd3b0c680e
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '新协航'}, {'type': '经营激进', 'entity': '泛亚物流'}, {'type': '经营激进', 'entity': '飞熊领鲜'}]
+
+Text ID: 918c857ffca26cad1d17cd53fe0b4d56
+Events in file 1: [{'type': '造假欺诈', 'entity': '搜狐'}]
+Events in file 2: []
+
+Text ID: 2946cb92ceec75b1271c41197b604674
+Events in file 1: [{'type': '重大安全事故', 'entity': '天津港股份有限公司'}]
+Events in file 2: [{'type': '重大安全事故', 'entity': '天津港股份有限公司'}, {'type': '重大安全事故', 'entity': '瑞海公司'}]
+
+Text ID: 669aea4133dc02ec41f98a4605b835df
+Events in file 1: []
+Events in file 2: [{'type': '税务非正常户', 'entity': '雪梨'}]
+
+Text ID: 9d09b39403a312fed108b3c0e2e2e7cb
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '百源丰'}, {'type': '实际控制人变更', 'entity': '科邦锰业'}]
+
+Text ID: dcddf8512fb2c28288872679e21070a0
+Events in file 1: [{'type': '业务/资产重组', 'entity': '中国铝业集团有限公司'}, {'type': '业务/资产重组', 'entity': '中国五矿集团有限公司'}]
+Events in file 2: []
+
+Text ID: 224c01fc4b8021e2842899e597c39db8
+Events in file 1: []
+Events in file 2: [{'type': '连续下跌', 'entity': '台海核电'}]
+
+Text ID: a1af1fc372114b42cf5513e5a68397bc
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': 'ST新城'}, {'type': '企业被问询约谈审查', 'entity': '泰达股份'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '泰达股份'}]
+
+Text ID: f2f5063953154bc41c76ba45d73f2019
+Events in file 1: [{'type': '资金紧张', 'entity': '阳光城'}]
+Events in file 2: [{'type': '挤兑', 'entity': '阳光城'}]
+
+Text ID: e5367ee382aad37733c259afc14214e8
+Events in file 1: []
+Events in file 2: [{'type': '被接管', 'entity': '东江公司'}]
+
+Text ID: 01191584b02fce22f211c9e33f1b78c7
+Events in file 1: [{'type': '高层变更', 'entity': '招商局集团'}]
+Events in file 2: [{'type': '高层变更', 'entity': '招商银行股份有限公司'}, {'type': '高层变更', 'entity': '招商局集团'}]
+
+Text ID: 94acf87765cba85ab957efe03fcb13af
+Events in file 1: [{'type': '业务/资产重组', 'entity': '明家联合'}, {'type': '业务/资产重组', 'entity': '勤上光电'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '明家联合'}, {'type': '业务/资产重组', 'entity': '勤上光电'}, {'type': '业务/资产重组', 'entity': '和晶科技'}]
+
+Text ID: f72257ee3c573528083a6838f729019e
+Events in file 1: [{'type': '破产清算', 'entity': '广东奇化化工交易中心股份有限公司'}, {'type': '破产清算', 'entity': '广州奇化有限公司'}]
+Events in file 2: []
+
+Text ID: 3bcc4f6b9153bff7f93805f42fa01bcc
+Events in file 1: [{'type': '内幕交易', 'entity': '北八道集团'}]
+Events in file 2: [{'type': '内幕交易', 'entity': '北八道集团'}, {'type': '内幕交易', 'entity': '北八道'}]
+
+Text ID: c75ecc3b50e5f5fb4be661655dbf3148
+Events in file 1: []
+Events in file 2: [{'type': '欠薪', 'entity': '维纳公司'}, {'type': '欠薪', 'entity': '北海协联花边制品有限公司'}]
+
+Text ID: 4c77f5b5337aca470c0d75f2e279a376
+Events in file 1: [{'type': '业务/资产重组', 'entity': '中船集团'}, {'type': '业务/资产重组', 'entity': '中船重工'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '中船集团'}]
+
+Text ID: e6dbdf6d54a85a22e45869bd60fdcd1c
+Events in file 1: [{'type': '股东利益斗争', 'entity': '昆仑万维'}]
+Events in file 2: [{'type': '股东利益斗争', 'entity': '中国香港新鸿基'}, {'type': '股东利益斗争', 'entity': '昆仑万维'}]
+
+Text ID: afdee47841e6abc878f67d6f65a69884
+Events in file 1: [{'type': '实际控制人变更', 'entity': '太钢集团'}]
+Events in file 2: [{'type': '实际控制人变更', 'entity': '太钢不锈'}, {'type': '实际控制人变更', 'entity': '太钢集团'}]
+
+Text ID: 1b8c6b8e18dfee517f641971a0f93b6b
+Events in file 1: []
+Events in file 2: [{'type': '破产清算', 'entity': '重庆三峡水电设备制造有限公司内蒙古硕方水电设备有限公司聚能水电设备制造有限公司东芝水电设备（杭州）有限公司'}]
+
+Text ID: fcabcf6be210ad934b965bed706c96fa
+Events in file 1: [{'type': '责令改正', 'entity': '邮储银行'}]
+Events in file 2: [{'type': '警告', 'entity': '邮储银行'}, {'type': '责令改正', 'entity': '邮储银行'}]
+
+Text ID: 95607dcaeb488f17cde5cd7c9f15402b
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '永辉超市'}, {'type': '经营亏损', 'entity': '大商集团'}]
+
+Text ID: 93f8778b92541eb3491ac32065d52ae5
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '中煤科工集团杭州研究有限公司'}]
+
+Text ID: 86f8f3196fd46f1a2d05d2d37fb6c792
+Events in file 1: []
+Events in file 2: [{'type': '投资亏损', 'entity': '京东方A'}, {'type': '投资亏损', 'entity': '招商银行'}]
+
+Text ID: 2e0ddb8301fa1e540e20e7e860291e92
+Events in file 1: []
+Events in file 2: [{'type': '资本充足不足', 'entity': '安徽枞阳农商行'}]
+
+Text ID: 6ef64d47765f617eeb3e35a19b60700f
+Events in file 1: []
+Events in file 2: [{'type': '监管入驻', 'entity': '中国通用技术（集团）控股有限责任公司'}]
+
+Text ID: 52efe8e4db4666ac4c4ef0d8d6c9b30b
+Events in file 1: [{'type': '破产清算', 'entity': '拜腾汽车'}]
+Events in file 2: []
+
+Text ID: b3cffc0620c81f2d0ccf7a228557f0d3
+Events in file 1: [{'type': '内幕交易', 'entity': '齐翔腾达'}, {'type': '内幕交易', 'entity': '淄博齐翔石油化工集团有限公司'}]
+Events in file 2: [{'type': '内幕交易', 'entity': '淄博齐翔石油化工集团有限公司'}]
+
+Text ID: c36f1ea7949d666a32079482a2267e33
+Events in file 1: []
+Events in file 2: [{'type': '员工罢工示威', 'entity': '國泰航空'}]
+
+Text ID: 42200f202e4f210be8a3d6f8a0e97674
+Events in file 1: [{'type': '业务/资产重组', 'entity': '杭州热电'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '日播时尚'}, {'type': '业务/资产重组', 'entity': '杭州热电'}]
+
+Text ID: 36f8026197cc20096b1e97a4499f5afd
+Events in file 1: [{'type': '行业排名下降', 'entity': '中泰证券'}]
+Events in file 2: []
+
+Text ID: 2914867a27ba3a3e46538388b29fb5ec
+Events in file 1: [{'type': '重大债务到期', 'entity': '恒大'}, {'type': '重大债务到期', 'entity': '佳兆业'}, {'type': '重大债务到期', 'entity': '景程'}, {'type': '重大债务到期', 'entity': '绿地'}]
+Events in file 2: [{'type': '重大债务到期', 'entity': '景程'}, {'type': '重大债务到期', 'entity': '绿地'}]
+
+Text ID: ec59bb72e011c624f45a6cedb757a437
+Events in file 1: []
+Events in file 2: [{'type': '欠薪', 'entity': '南宁慧泊停车场服务有限责任公司'}]
+
+Text ID: ac44cbc4d069827634f3bf38b8fc60a5
+Events in file 1: [{'type': '资产冻结', 'entity': '福格尔'}]
+Events in file 2: [{'type': '资产冻结', 'entity': '福格尔'}, {'type': '资产冻结', 'entity': 'onlinenic'}]
+
+Text ID: 3113141c706bdfe7eb8d0fc2bd00091f
+Events in file 1: []
+Events in file 2: [{'type': '延期信息披露', 'entity': '长航凤凰股份有限公司'}]
+
+Text ID: 61b41a81d0798e31e2e34267748c2938
+Events in file 1: []
+Events in file 2: [{'type': '责令改正', 'entity': '辽宁省阜新市中公教育'}]
+
+Text ID: 1f3a0233313b88dcf17521c3771cb783
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': '江西省金融控股集团有限公司'}, {'type': '第一大股东变化', 'entity': '赣州银行'}]
+
+Text ID: 4c36ff83ad9e20221ba282223ae73a8d
+Events in file 1: [{'type': '高层变更', 'entity': '江苏博众精工科技股份有限公司'}]
+Events in file 2: []
+
+Text ID: 6bf47501411686f3fe6cca4f78297207
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': '名臣健康用品股份有限公司'}, {'type': '第一大股东变化', 'entity': '喀什奥术网络科技有限公司'}]
+
+Text ID: 457a3723a29831177e0544b9aab29380
+Events in file 1: [{'type': '非法集资', 'entity': '博蓝共享'}]
+Events in file 2: [{'type': '非法集资', 'entity': '博蓝共享'}, {'type': '盗取隐私信息', 'entity': '趣步'}]
+
+Text ID: 95607dcaeb488f17cde5cd7c9f15402b
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '永辉超市'}, {'type': '经营亏损', 'entity': '大商集团'}]
+
+Text ID: 1553655a696ebf6e177b3fa6fc2293c5
+Events in file 1: [{'type': '行业排名下降', 'entity': '川网传媒'}]
+Events in file 2: []
+
+Text ID: a1af1fc372114b42cf5513e5a68397bc
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': 'ST新城'}, {'type': '企业被问询约谈审查', 'entity': '泰达股份'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '泰达股份'}]
+
+Text ID: 43a8037e37d21d46aef771484b2816d2
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '成都天赐嘉业房地产经纪有限公司'}]
+
+Text ID: 19798441da18d2f531b1be3e1d4b0a82
+Events in file 1: [{'type': '财务信息造假', 'entity': '中华联合财产保险股份有限公司南平中心支公司'}]
+Events in file 2: [{'type': '造假欺诈', 'entity': '中华联合财产保险股份有限公司南平中心支公司'}]
+
+Text ID: 4dd26d25f9b5e3349e5c81f47cb500c4
+Events in file 1: []
+Events in file 2: [{'type': '被列为失信被执行人', 'entity': '浙江广芯微电子'}]
+
+Text ID: d0ef0446f3ed80763c01cd7a22326d5f
+Events in file 1: [{'type': '重大资产损失', 'entity': '中国化学'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '中国化学'}]
+
+Text ID: 897d9cb79205212e5370bf1fc8a19bf9
+Events in file 1: [{'type': '实际控制人涉诉仲裁', 'entity': '中弘控股股份有限公司'}]
+Events in file 2: [{'type': '限制股东权利', 'entity': '中弘控股股份有限公司'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 42200f202e4f210be8a3d6f8a0e97674
+Events in file 1: [{'type': '业务/资产重组', 'entity': '杭州热电'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '日播时尚'}, {'type': '业务/资产重组', 'entity': '杭州热电'}]
+
+Text ID: 90e1ee10fabe7e03fb4f9652616ac7b4
+Events in file 1: []
+Events in file 2: [{'type': '盗取隐私信息', 'entity': '苹果'}]
+
+Text ID: cc95c28c1d87a71eabdf8919d78c2eef
+Events in file 1: [{'type': '盈利能力下降', 'entity': 'st中南'}]
+Events in file 2: [{'type': '资金紧张', 'entity': 'st中南'}]
+
+Text ID: 43870c288d11642dcab647e337379b64
+Events in file 1: [{'type': '被接管', 'entity': '华夏人寿保险股份有限公司'}]
+Events in file 2: [{'type': '被接管', 'entity': '华夏人寿保险股份有限公司'}, {'type': '被接管', 'entity': '华夏人寿保险公司'}]
+
+Text ID: 96d4b61c418eec9e599f7cb7428c7fc7
+Events in file 1: [{'type': '公司停牌', 'entity': '沃尔德'}, {'type': '公司停牌', 'entity': '鑫金泉'}]
+Events in file 2: [{'type': '公司停牌', 'entity': '鑫金泉'}]
+
+Text ID: e09e5b3abe0f6d8534d05ac942fcfe78
+Events in file 1: [{'type': '延期信息披露', 'entity': '临沂城投'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '临沂城投'}]
+
+Text ID: c4c2d3371a79bc020aba8484e0dcfef0
+Events in file 1: [{'type': '实际控制人涉嫌违法', 'entity': '奥维通信'}]
+Events in file 2: [{'type': '偷税漏税', 'entity': '奥维通信'}]
+
+Text ID: e979b6d8df712bf889bc9ec33d624060
+Events in file 1: [{'type': '行业排名下降', 'entity': '山西汾酒'}, {'type': '行业排名下降', 'entity': '怡亚通'}, {'type': '行业排名下降', 'entity': '来伊份'}, {'type': '行业排名下降', 'entity': '海南椰岛'}]
+Events in file 2: [{'type': '行业排名下降', 'entity': '山西汾酒'}, {'type': '行业排名下降', 'entity': '*ST皇台'}, {'type': '行业排名下降', 'entity': '怡亚通'}, {'type': '行业排名下降', 'entity': '来伊份'}, {'type': '行业排名下降', 'entity': '海南椰岛'}]
+
+Text ID: 9dfebe0934ce3689f2c2d0df5f4f9b4c
+Events in file 1: [{'type': '实际控制人变更', 'entity': '庞大集团'}]
+Events in file 2: [{'type': '实际控制人变更', 'entity': '*st庞大'}, {'type': '实际控制人变更', 'entity': '庞大集团'}]
+
+Text ID: 41ba97b63d8e8fe6333ffb30fa686c34
+Events in file 1: [{'type': '第一大股东变化', 'entity': '中泰证券'}]
+Events in file 2: [{'type': '实际控制人变更', 'entity': '中泰证券'}]
+
+Text ID: 95607dcaeb488f17cde5cd7c9f15402b
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '永辉超市'}, {'type': '经营亏损', 'entity': '大商集团'}]
+
+Text ID: 3b762aa28659fe6f1b677e42dce3f19e
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '山西汾酒'}]
+
+Text ID: 2a220aa29eade9e59fb21369aff7ac6a
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '灵丘县经济建设投资有限责任公司'}, {'type': '监管入驻', 'entity': '国盛医药药材有限公司第一药店'}, {'type': '监管入驻', 'entity': '灵丘县首农乡村建设有限公司'}]
+
+Text ID: 75ae68055dfb793baef2d331dfcce3c8
+Events in file 1: [{'type': '高层变更', 'entity': '深圳市洲明科技股份有限公司'}]
+Events in file 2: [{'type': '审计师辞任', 'entity': '深圳市洲明科技股份有限公司'}]
+
+Text ID: eb08ebafbfca4c5d81ed85a0556936be
+Events in file 1: [{'type': '高层变更', 'entity': '石家庄智联传媒有限公司'}]
+Events in file 2: [{'type': '高层变更', 'entity': '亿城房地产开发有限公司'}, {'type': '高层变更', 'entity': '石家庄市韩迪品牌策略顾问有限公司'}, {'type': '高层变更', 'entity': '石家庄智联传媒有限公司'}]
+
+Text ID: df4f8969fbdb1d15fda3d051e1d51f94
+Events in file 1: [{'type': '业务/资产重组', 'entity': '五矿发展'}, {'type': '业务/资产重组', 'entity': '爱心'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '[爱心'}, {'type': '业务/资产重组', 'entity': '五矿发展'}, {'type': '业务/资产重组', 'entity': '爱心'}]
+
+Text ID: bcfd6d5838a1ec5724b4c43bb211d2e3
+Events in file 1: [{'type': '否定意见', 'entity': '康美药业'}, {'type': '保留意见', 'entity': '康美药业'}]
+Events in file 2: [{'type': '否定意见', 'entity': '康美药业'}]
+
+Text ID: 20d94b1220639f036a087674a9f31f78
+Events in file 1: [{'type': '债务违约', 'entity': '贵人鸟'}]
+Events in file 2: [{'type': '债务违约', 'entity': '贵人鸟'}, {'type': '债务违约', 'entity': '贵人鸟ppn001”'}]
+
+Text ID: 5c26b786cf10b22e8dfade58e6a9d934
+Events in file 1: [{'type': '实际控制人涉嫌违法', 'entity': '禾盛新材'}]
+Events in file 2: [{'type': '实际控制人涉诉仲裁', 'entity': '禾盛新材'}]
+
+Text ID: 1f87457dcaa181bb03d37da0c672c9a6
+Events in file 1: [{'type': '资产冻结', 'entity': '新华联'}, {'type': '股权冻结/强制转让', 'entity': '北京银行'}]
+Events in file 2: [{'type': '股权冻结/强制转让', 'entity': '北京银行'}]
+
+Text ID: b227a5a0e650d4d91c77c4ec86a8b3c9
+Events in file 1: [{'type': '资产冻结', 'entity': '辽阳精制铝业'}]
+Events in file 2: [{'type': '股权冻结/强制转让', 'entity': '辽阳精制铝业'}]
+
+Text ID: 70ca2faf008721110f3d306b9c0f8ae7
+Events in file 1: [{'type': '造假欺诈', 'entity': '平安财险'}, {'type': '造假欺诈', 'entity': '中国平安财产保险股份有限公司铜梁支公司'}]
+Events in file 2: [{'type': '造假欺诈', 'entity': '中国平安财产保险股份有限公司铜梁支公司'}]
+
+Text ID: 955d85f615996d919c576964bcc3a2cf
+Events in file 1: [{'type': '资产冻结', 'entity': '海立公司'}]
+Events in file 2: []
+
+Text ID: 1553655a696ebf6e177b3fa6fc2293c5
+Events in file 1: [{'type': '行业排名下降', 'entity': '川网传媒'}]
+Events in file 2: []
+
+Text ID: f20dcac3a94a5d683942bee1766b1e0d
+Events in file 1: [{'type': '实际控制人变更', 'entity': '中科海讯'}, {'type': '第一大股东变化', 'entity': '中科海讯'}]
+Events in file 2: [{'type': '实际控制人变更', 'entity': '中科海讯'}]
+
+Text ID: 99f19d9314ee6a2cb2c29202b5d91d54
+Events in file 1: [{'type': '员工罢工示威', 'entity': '美国通用汽车'}]
+Events in file 2: [{'type': '员工罢工示威', 'entity': '美国通用汽车'}, {'type': '员工罢工示威', 'entity': '通用汽车'}]
+
+Text ID: 1095edaaeb1e8fd2859407129214df58
+Events in file 1: [{'type': '审计师辞任', 'entity': '鑫苑服务'}, {'type': '审计师辞任', 'entity': '大森控股'}, {'type': '审计师辞任', 'entity': '卓尔智联'}]
+Events in file 2: [{'type': '审计师辞任', 'entity': '鑫苑服务'}, {'type': '审计师辞任', 'entity': '大森控股'}, {'type': '审计师辞任', 'entity': '卓尔智联'}, {'type': '审计师辞任', 'entity': '威高国际'}]
+
+Text ID: c82e318b01f684a57b3e5cb910c7ce35
+Events in file 1: [{'type': '重大资产损失', 'entity': '西部证券'}, {'type': '重大资产损失', 'entity': '国元证券'}, {'type': '重大资产损失', 'entity': '光大证券'}]
+Events in file 2: [{'type': '重大资产损失', 'entity': '西部证券'}, {'type': '重大资产损失', 'entity': '光大证券'}]
+
+Text ID: b512cda25cab1610be7d6b0ca30cf639
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '顺丰同城'}]
+
+Text ID: 4132eb9f4f1a58d2b563cc7a74d69704
+Events in file 1: [{'type': '重大安全事故', 'entity': '温州瑞安市永升金属加工有限公司'}]
+Events in file 2: [{'type': '重大安全事故', 'entity': '瑞安市永升金属加工有限公司'}]
+
+Text ID: f40f346fa04272ba6cbcfda66f852e34
+Events in file 1: [{'type': '产品虚假宣传', 'entity': '饿了么'}, {'type': '产品虚假宣传', 'entity': '美团'}]
+Events in file 2: []
+
+Text ID: 5284882279b743c558744e8f68bdf97b
+Events in file 1: [{'type': '债务重组', 'entity': '英利'}, {'type': '高层变更', 'entity': '太平养老'}, {'type': '高层变更', 'entity': '太平资产'}]
+Events in file 2: [{'type': '债务重组', 'entity': '英利'}]
+
+Text ID: 7255d9355d521c2bacd989cc00ac6076
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '拜耳'}]
+
+Text ID: 5e6979d921202f89d2d20e11e937864f
+Events in file 1: [{'type': '破产清算', 'entity': '海航集团'}]
+Events in file 2: [{'type': '破产清算', 'entity': '海航'}, {'type': '破产清算', 'entity': '海航集团'}]
+
+Text ID: d4187aa67cb32609e4870e4a567caa2d
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '光大银行焦作分行'}]
+
+Text ID: 41ba97b63d8e8fe6333ffb30fa686c34
+Events in file 1: [{'type': '第一大股东变化', 'entity': '中泰证券'}]
+Events in file 2: [{'type': '实际控制人变更', 'entity': '中泰证券'}]
+
+Text ID: cabce23688778d41bed5e6ddb5a26064
+Events in file 1: [{'type': '重大债务到期', 'entity': '恒大'}]
+Events in file 2: [{'type': '债务展期', 'entity': '恒大'}]
+
+Text ID: 5f3af25961e14454152afd1a0f8f9c81
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': 'paytm'}]
+
+Text ID: 11209c652359ba91517ad639a02febe2
+Events in file 1: [{'type': '违规催收', 'entity': '中兴银行'}]
+Events in file 2: [{'type': '违规催收', 'entity': '平安普惠'}, {'type': '违规催收', 'entity': '广发银行'}, {'type': '违规催收', 'entity': '中兴银行'}]
+
+Text ID: 5ebb625616195810ab6e3e0e4197e342
+Events in file 1: [{'type': '破产清算', 'entity': '康美'}]
+Events in file 2: [{'type': '重大赔付', 'entity': '康美'}]
+
+Text ID: 666aec6b5589d6c8785bb63bf6ad3688
+Events in file 1: []
+Events in file 2: [{'type': '行业排名下降', 'entity': '凯淳股份'}, {'type': '行业排名下降', 'entity': '国联股份'}, {'type': '行业排名下降', 'entity': 'ST易购'}, {'type': '行业排名下降', 'entity': '华鼎股份'}]
+
+Text ID: 131ac75b2bd487a11fb6d830c39e450e
+Events in file 1: [{'type': '破产清算', 'entity': '天津市天磁科技有限公司'}]
+Events in file 2: [{'type': '破产清算', 'entity': '天津市天磁有限公司'}, {'type': '破产清算', 'entity': '天津市天磁科技有限公司'}]
+
+Text ID: 7f40efdb028623db5fba2acb49098bee
+Events in file 1: [{'type': '重大资产损失', 'entity': '索尼'}]
+Events in file 2: []
+
+Text ID: 5325aea2c5db9d52149450f2d4174224
+Events in file 1: [{'type': '违规催收', 'entity': '捷信'}, {'type': '延期信息披露', 'entity': '巨成钛业'}, {'type': '公司退市', 'entity': '康美'}]
+Events in file 2: [{'type': '违规催收', 'entity': '捷信'}, {'type': '公司退市', 'entity': '康美'}]
+
+Text ID: 90fdc9e786e65b029a35786633faa84e
+Events in file 1: []
+Events in file 2: [{'type': '停产停业', 'entity': '国泰航空'}]
+
+Text ID: efcd70f06f7612b1ba7c5e283e71c3ae
+Events in file 1: [{'type': '退出市场', 'entity': '阿尔特拉'}]
+Events in file 2: []
+
+Text ID: 0606e49e2ff73353cefe28fc35a84331
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '金螳螂'}]
+
+Text ID: 90e1ee10fabe7e03fb4f9652616ac7b4
+Events in file 1: []
+Events in file 2: [{'type': '盗取隐私信息', 'entity': '苹果'}]
+
+Text ID: 791f03ac68dda73c2a0c22abac23fc19
+Events in file 1: [{'type': '破产清算', 'entity': '北汽银翔'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '北汽银翔'}]
+
+Text ID: eb08ebafbfca4c5d81ed85a0556936be
+Events in file 1: [{'type': '高层变更', 'entity': '石家庄智联传媒有限公司'}]
+Events in file 2: [{'type': '高层变更', 'entity': '亿城房地产开发有限公司'}, {'type': '高层变更', 'entity': '石家庄智联传媒有限公司'}]
+
+Text ID: 5ef12ad594ffdb34533b965baa902856
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': '江特电机'}]
+
+Text ID: a344c9fbf39970278ec41dfb0e5def42
+Events in file 1: []
+Events in file 2: [{'type': '被接管', 'entity': '邢钢'}]
+
+Text ID: 3d8e018d4b1ff3e87d7a2a19ddcb6287
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '祥源新材'}]
+
+Text ID: 1dc71a5bea8b1a9a1cd1c0b925cdd0dd
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '招商港口'}]
+
+Text ID: 0606e49e2ff73353cefe28fc35a84331
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '金螳螂'}]
+
+Text ID: 445dab67bfef54cb131e449057d53ba0
+Events in file 1: []
+Events in file 2: [{'type': '重大赔付', 'entity': '三一重能'}]
+
+Text ID: de23297ce992e4c98a347ee86adeee36
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '金字火腿'}]
+
+Text ID: 98535d81551745772a5e46909cdb53fe
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '盒马'}]
+
+Text ID: c7ff073d173bbcc0205ee3360a129db7
+Events in file 1: [{'type': '破产清算', 'entity': '云鸟科技'}]
+Events in file 2: [{'type': '欠薪', 'entity': '云鸟科技'}]
+
+Text ID: 8728eadd6ab4a00d222395f3651c98db
+Events in file 1: [{'type': '内幕交易', 'entity': '汇顶科技'}]
+Events in file 2: []
+
+Text ID: 265f9bd8b316a9a115778926ec9e88b7
+Events in file 1: [{'type': '股票发行失败', 'entity': '华神科技'}]
+Events in file 2: [{'type': '股权融资失败', 'entity': '华神科技'}]
+
+Text ID: 9cd1608cac7bd43d73b77cc540c7945c
+Events in file 1: []
+Events in file 2: [{'type': '网站安全漏洞', 'entity': '京东'}]
+
+Text ID: 7c445d2fdda10af4e700b7e73d95f5cf
+Events in file 1: [{'type': '连续下跌', 'entity': '五粮液'}]
+Events in file 2: []
+
+Text ID: ea941bd196cc827df97ffb8a447b46d5
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '上海海贤'}]
+
+Text ID: 0d3fc1101d45e5743b61216e66729bca
+Events in file 1: [{'type': '停产停业', 'entity': '英豪ktv'}]
+Events in file 2: [{'type': '停产停业', 'entity': '英豪ktv'}, {'type': '停产停业', 'entity': 'ktv'}]
+
+Text ID: cd2a90285388649da9ff94133ca2b15a
+Events in file 1: []
+Events in file 2: [{'type': '欠薪', 'entity': '山东公用控股有限公司'}, {'type': '欠薪', 'entity': '济宁市城市轨道交通有限公司'}]
+
+Text ID: 6ae88e76fc281fd8cefa1024aa2ccff3
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '博深股份'}]
+
+Text ID: 07741512b01a07c498a5b153b6b3e47b
+Events in file 1: []
+Events in file 2: [{'type': '债务违约', 'entity': '阳光信用'}]
+
+Text ID: 3ba28ff98540e5d51c4f1b3481976372
+Events in file 1: [{'type': '外部信用评级下调', 'entity': '江海证券'}]
+Events in file 2: [{'type': '监管评级下调', 'entity': '江海证券'}]
+
+Text ID: bc864b9de30a6a0e1fa556c85e8ce067
+Events in file 1: [{'type': '延期信息披露', 'entity': '安徽天智信息科技集团股份有限公司'}]
+Events in file 2: []
+
+Text ID: f21c1dc5b4c71048dd9574ac8d000ae0
+Events in file 1: []
+Events in file 2: [{'type': '产品虚假宣传', 'entity': '海恩斯莫里斯(上海)商业有限公司'}]
+
+Text ID: 3745a629fc2ce6e48edfcf7ac956ddba
+Events in file 1: [{'type': '经营激进', 'entity': '蜂花'}, {'type': '经营激进', 'entity': '李宁'}, {'type': '经营激进', 'entity': '汇源'}]
+Events in file 2: [{'type': '经营激进', 'entity': '蜂花'}, {'type': '经营激进', 'entity': '李宁'}, {'type': '经营激进', 'entity': '鸿星尔克'}, {'type': '经营激进', 'entity': '汇源'}, {'type': '经营激进', 'entity': '大白兔'}]
+
+Text ID: 566627d3c2c09bdc6510211a5e2c2c94
+Events in file 1: []
+Events in file 2: [{'type': '产品虚假宣传', 'entity': '高途教育'}]
+
+Text ID: 1b8c6b8e18dfee517f641971a0f93b6b
+Events in file 1: []
+Events in file 2: [{'type': '破产清算', 'entity': '重庆三峡水电设备制造有限公司内蒙古硕方水电设备有限公司聚能水电设备制造有限公司东芝水电设备（杭州）有限公司'}]
+
+Text ID: d0e08d401636bcdfda2e3c10819f320e
+Events in file 1: [{'type': '债务违约', 'entity': '中捷集团'}]
+Events in file 2: [{'type': '债务违约', 'entity': '中捷股份'}, {'type': '债务违约', 'entity': '中捷集团'}]
+
+Text ID: 7332c3aac27181f3896ff5e3aac2f3d5
+Events in file 1: []
+Events in file 2: [{'type': '资金紧张', 'entity': '山西汾酒'}, {'type': '澄清辟谣', 'entity': '山西汾酒'}]
+
+Text ID: 6a1cae92423219ecf0d5ab2751255307
+Events in file 1: [{'type': '重大安全事故', 'entity': '特斯拉'}, {'type': '重大安全事故', 'entity': '蔚来'}]
+Events in file 2: [{'type': '重大安全事故', 'entity': '特斯拉'}, {'type': '重大安全事故', 'entity': '蔚来'}, {'type': '重大安全事故', 'entity': '吉利'}]
+
+Text ID: 6ab06949d100d2533c1d2a8762c90c28
+Events in file 1: [{'type': '重大债务到期', 'entity': '恒大'}, {'type': '重大债务到期', 'entity': '佳兆业'}, {'type': '重大债务到期', 'entity': '景程'}, {'type': '重大债务到期', 'entity': '绿地'}]
+Events in file 2: []
+
+Text ID: a24fa95319aec819a548c550fbaa4509
+Events in file 1: []
+Events in file 2: [{'type': '造假欺诈', 'entity': '杭州回客科技有限公司'}]
+
+Text ID: 666aec6b5589d6c8785bb63bf6ad3688
+Events in file 1: []
+Events in file 2: [{'type': '行业排名下降', 'entity': '国联股份'}, {'type': '行业排名下降', 'entity': 'ST易购'}]
+
+Text ID: 05f725d9faa9fb7d4a52fe46babb3657
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '浦发银行南通分行'}]
+
+Text ID: 5f561d8c55a1db5c70a70ca4c55d9d7a
+Events in file 1: [{'type': '重大债务到期', 'entity': '保利发展'}, {'type': '重大债务到期', 'entity': '首创集团'}, {'type': '重大债务到期', 'entity': '佳兆业'}, {'type': '重大债务到期', 'entity': '阳光城'}]
+Events in file 2: [{'type': '重大债务到期', 'entity': '保利发展'}, {'type': '重大债务到期', 'entity': '首创集团'}, {'type': '重大债务到期', 'entity': '阳光城'}]
+
+Text ID: 165d251df75fec1ef7b091a1dbf52220
+Events in file 1: [{'type': '停止接受新业务', 'entity': '长安保险'}]
+Events in file 2: [{'type': '停止批准增设分支机构', 'entity': '长安保险'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 74e7c315d68428189f16ef46616205ce
+Events in file 1: []
+Events in file 2: [{'type': '重大安全事故', 'entity': '天津港股份有限公司'}]
+
+Text ID: 9031325214fc71b3331c6cc8fc5f3a6e
+Events in file 1: [{'type': '债务违约', 'entity': '新力控股集团'}]
+Events in file 2: [{'type': '产品违约/不足额兑付', 'entity': '新力控股集团'}]
+
+Text ID: 83b71ef0eafcf7536f68c523b7c114a7
+Events in file 1: [{'type': '延期信息披露', 'entity': '泛海控股股份有限公司'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '泛海控股股份有限公司'}]
+
+Text ID: 874c5d58272eb36d5e99a862f9341d15
+Events in file 1: [{'type': '重大资产损失', 'entity': '包头华资实业股份有限公司'}]
+Events in file 2: [{'type': '投资亏损', 'entity': '包头华资实业股份有限公司'}]
+
+Text ID: bc8c9c92d99ef248cf7406748e8ef146
+Events in file 1: [{'type': '财务信息造假', 'entity': '西房公司'}]
+Events in file 2: [{'type': '出具虚假证明', 'entity': '西房公司'}]
+
+Text ID: 3e55add90996d725cc258e12a9764982
+Events in file 1: [{'type': '盈利能力下降', 'entity': '长安福特'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '长安福特'}, {'type': '裁员', 'entity': '长安福特'}]
+
+Text ID: eafc724b4d2e4e4d313c3284a7956cab
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': '格灵深瞳'}]
+
+Text ID: b350a9df25572e561485092f529ebf20
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '福达合金'}, {'type': '实际控制人变更', 'entity': '福达合金福达合金'}]
+
+Text ID: f79628ee1507725b8337460571b0f293
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '国泰航空'}]
+Events in file 2: [{'type': '总部被警方调查', 'entity': '国泰航空'}, {'type': '监管入驻', 'entity': '国泰航空'}]
+
+Text ID: 6cd7e8a42b3f25526e5dd4d492dd5b1f
+Events in file 1: [{'type': '公司退市', 'entity': 'st宏业'}]
+Events in file 2: [{'type': '公司退市', 'entity': '0689-st宏业'}]
+
+Text ID: d67a3ab0c0e885aa62a18cb61d6944e0
+Events in file 1: [{'type': '重大债务到期', 'entity': '恒大集团'}, {'type': '重大债务到期', 'entity': '佳兆业集团'}, {'type': '重大债务到期', 'entity': '景程'}, {'type': '重大债务到期', 'entity': '绿地'}]
+Events in file 2: [{'type': '重大债务到期', 'entity': '景程'}]
+
+Text ID: 7ad901a89ccd1f3d0b4e9794c8a89c39
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '清鹤'}]
+
+Text ID: dd1173a354ed51fd09b27d50a4775563
+Events in file 1: [{'type': '高层涉嫌违法', 'entity': '晶澳科技'}]
+Events in file 2: [{'type': '实际控制人涉嫌违法', 'entity': '晶澳科技'}]
+
+Text ID: 4e8ec1ef4c750f00e1a949fee6752497
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '网易游戏'}]
+
+Text ID: c4f77290b754501bb3a2aa9e83fc9bc6
+Events in file 1: [{'type': '停产停业', 'entity': '南海区平洲三山运输有限公司'}]
+Events in file 2: [{'type': '停产停业', 'entity': '平洲三山运输有限公司'}]
+
+Text ID: 574a429a1db87ccf4c7697fee947aafb
+Events in file 1: [{'type': '重大资产损失', 'entity': '精誠資訊'}]
+Events in file 2: []
+
+Text ID: 9e9d08c40465598b684a68a843940878
+Events in file 1: [{'type': '公司退市', 'entity': '北京银行'}]
+Events in file 2: [{'type': '公司退市', 'entity': '北京银行'}, {'type': '违规催收', 'entity': '中信银行'}]
+
+Text ID: 0606e49e2ff73353cefe28fc35a84331
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '金螳螂'}]
+
+Text ID: 8a0d74c40215c3c5e6777dcfe62ad994
+Events in file 1: [{'type': '盈利能力下降', 'entity': '无锡银行'}]
+Events in file 2: [{'type': '资产质量下降', 'entity': '无锡银行'}]
+
+Text ID: 72d4e38b71e2123213129f212c9fce95
+Events in file 1: [{'type': '履行连带担保责任', 'entity': '中投信用担保有限公司'}, {'type': '履行连带担保责任', 'entity': '上海联大房地产有限公司'}]
+Events in file 2: [{'type': '履行连带担保责任', 'entity': '中投信用担保有限公司'}, {'type': '履行连带担保责任', 'entity': '上海联大房地产有限公司'}, {'type': '履行连带担保责任', 'entity': '蒋明'}]
+
+Text ID: 14b65be7c56b4a48c852a9ad7d3093c2
+Events in file 1: []
+Events in file 2: [{'type': '股东利益斗争', 'entity': '伯克希尔哈撒韦'}]
+
+Text ID: 630cbd202843fce965f4cad647d1238b
+Events in file 1: [{'type': '连续下跌', 'entity': '中國神華'}]
+Events in file 2: []
+
+Text ID: 26e1d42124a7757352ebd3fdf9f1d1ff
+Events in file 1: [{'type': '公司注销', 'entity': '赛麟汽车'}]
+Events in file 2: [{'type': '资产冻结', 'entity': '赛麟汽车上海分公司'}]
+
+Text ID: f5f304b7ad92c83e79c930dc713225da
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '南欣豆制品(重庆)有限责任公司'}]
+
+Text ID: c62e81268dc2f017bb70e10ab30881d3
+Events in file 1: [{'type': '裁员', 'entity': '找房'}]
+Events in file 2: [{'type': '欠薪', 'entity': '找房'}]
+
+Text ID: 574a429a1db87ccf4c7697fee947aafb
+Events in file 1: [{'type': '重大资产损失', 'entity': '精誠資訊'}]
+Events in file 2: []
+
+Text ID: 5ed62921a0d21a2bae456a658a38bea5
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '货拉拉'}]
+
+Text ID: 28ac1f9e86f6378e461c054b4573be4f
+Events in file 1: [{'type': '高层变更', 'entity': '当当网'}]
+Events in file 2: [{'type': '股东利益斗争', 'entity': '当当网'}]
+
+Text ID: a8476e4e40783d27672e35ff9c993470
+Events in file 1: [{'type': '股票发行失败', 'entity': '佳云科技'}]
+Events in file 2: [{'type': '股权融资失败', 'entity': '佳云科技'}]
+
+Text ID: 43a8037e37d21d46aef771484b2816d2
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '成都天赐嘉业房地产经纪有限公司'}]
+
+Text ID: 86c836d18e862b705b325924a09fb4b5
+Events in file 1: [{'type': '内幕交易', 'entity': '合康新能科技股份有限公司'}]
+Events in file 2: [{'type': '内幕交易', 'entity': '北京合康新能科技股份有限公司'}]
+
+Text ID: 2ffde177cd001084b14d3a3dd9ec83d7
+Events in file 1: [{'type': '公司退市', 'entity': '乐视网'}, {'type': '公司退市', 'entity': '千山药机'}, {'type': '公司退市', 'entity': '金亚科技'}, {'type': '公司退市', 'entity': 'st保千'}, {'type': '公司退市', 'entity': 'st皇台'}, {'type': '公司退市', 'entity': '德奥'}, {'type': '公司退市', 'entity': '凯迪'}]
+Events in file 2: [{'type': '公司退市', 'entity': '乐视网'}, {'type': '公司退市', 'entity': '千山药机'}, {'type': '公司退市', 'entity': '金亚科技'}, {'type': '公司退市', 'entity': 'st保千'}, {'type': '公司退市', 'entity': 'st皇台'}, {'type': '公司退市', 'entity': 'st德奥'}, {'type': '公司退市', 'entity': 'st龙力'}, {'type': '公司退市', 'entity': 'st凯迪'}, {'type': '公司退市', 'entity': 'st百特'}, {'type': '公司退市', 'entity': 'st毅达'}]
+
+Text ID: d023c8509c9979d2d85c4b0067d1ae67
+Events in file 1: []
+Events in file 2: [{'type': '股票发行失败', 'entity': '凯恩股份'}]
+
+Text ID: e131b7a18cb56a8bfa83d45011b730bf
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': '中自科技'}]
+
+Text ID: 5c9e11ab66a2a19439d46de68ae5219f
+Events in file 1: [{'type': '高层变更', 'entity': '友利银行'}, {'type': '高层变更', 'entity': '友利银行（中国）有限公司'}]
+Events in file 2: [{'type': '高层变更', 'entity': '友利银行（中国）'}, {'type': '高层变更', 'entity': '友利银行（中国）有限公司'}]
+
+Text ID: 28407fc6aecc4fa684d79a3d2b2e3d50
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '360'}]
+
+Text ID: a051504b5bda788e27b36f7bd75f712d
+Events in file 1: [{'type': '停产停业', 'entity': '上海一兆韦德'}]
+Events in file 2: [{'type': '关闭分支机构', 'entity': '上海一兆韦德'}]
+
+Text ID: 377c966f09ba18728dfe3d7ab952d0ff
+Events in file 1: []
+Events in file 2: [{'type': '退出市场', 'entity': '大通银行'}]
+
+Text ID: 74b6280869c82310841fa0384d6b9a5d
+Events in file 1: [{'type': '业务/资产重组', 'entity': '深圳市花样年地产集团有限公司'}]
+Events in file 2: [{'type': '债务重组', 'entity': '花样年地产集团有限公司'}]
+
+Text ID: 073916d0d9abbaf50e59da516645a0c1
+Events in file 1: []
+Events in file 2: [{'type': '审计师辞任', 'entity': '中兰环保'}]
+
+Text ID: 72a77cf4e078bc81111f4c2a3062d435
+Events in file 1: [{'type': '实际控制人涉嫌违法', 'entity': '齐翔腾达'}]
+Events in file 2: []
+
+Text ID: 64272455eca1add59f26cb13b6d389d5
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '广州用能互联网有限公司'}]
+
+Text ID: b7c252f6ea75d44ea2ea872564c85794
+Events in file 1: [{'type': '产品违约/不足额兑付', 'entity': '广东宏辉石油化工股份有限公司'}]
+Events in file 2: [{'type': '产品违约/不足额兑付', 'entity': '凤凰金融'}, {'type': '产品违约/不足额兑付', 'entity': '广东宏辉石油化工股份有限公司'}]
+
+Text ID: 1e4806f50f98bd5bd910bdf5c27bdd03
+Events in file 1: [{'type': '公司注销', 'entity': '北京京东参佰陆拾度电子商务有限公司'}]
+Events in file 2: [{'type': '公司注销', 'entity': '北京京东参佰陆拾度电子商务有限公司'}, {'type': '公司注销', 'entity': '上海骏日网络科技有限公司'}]
+
+Text ID: 795862cf4c960eda28f5914b25e11583
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '旷视南京'}]
+
+Text ID: f8b5c5744e17ce8d3fed6d2a34f3ccf5
+Events in file 1: []
+Events in file 2: [{'type': '限制股东权利', 'entity': '神旺公司'}]
+
+Text ID: bb79d02d2ad103bf3757c3fdc95695d8
+Events in file 1: []
+Events in file 2: [{'type': '资产质量下降', 'entity': '潍坊银行股份有限公司'}, {'type': '资产质量下降', 'entity': '潍坊银行'}]
+
+Text ID: 7eb4bdf36eaf8174dd7483cc6ee27485
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '抖音电商'}]
+
+Text ID: 0606e49e2ff73353cefe28fc35a84331
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '金螳螂'}]
+
+Text ID: 58b8084ff08a321350812a56ebc01ee2
+Events in file 1: [{'type': '盈利能力下降', 'entity': '红星地产'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '红星美凯龙'}]
+
+Text ID: 4238d4ad1fbe9f5a8e86d882e338ba4e
+Events in file 1: [{'type': '更换基金经理', 'entity': '银华基金管理有限公司'}]
+Events in file 2: []
+
+Text ID: af5ebedb9e1d8838cdc32852444e72de
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '梅西百货'}]
+
+Text ID: f29f68533f65c9d0f5e04066547ce189
+Events in file 1: [{'type': '裁员', 'entity': '腾讯'}, {'type': '裁员', 'entity': '阿里'}, {'type': '裁员', 'entity': '唯品会'}, {'type': '裁员', 'entity': '摩拜'}, {'type': '裁员', 'entity': '去哪儿'}, {'type': '裁员', 'entity': '当当网'}, {'type': '裁员', 'entity': '途牛'}, {'type': '裁员', 'entity': '小红书'}, {'type': '裁员', 'entity': '蘑菇街'}, {'type': '裁员', 'entity': '美图'}]
+Events in file 2: [{'type': '裁员', 'entity': '腾讯'}, {'type': '裁员', 'entity': '阿里'}, {'type': '裁员', 'entity': '唯品会'}, {'type': '裁员', 'entity': '摩拜'}, {'type': '裁员', 'entity': '去哪儿'}, {'type': '裁员', 'entity': '当当网'}, {'type': '裁员', 'entity': '便利蜂'}, {'type': '裁员', 'entity': '蘑菇街'}, {'type': '裁员', 'entity': '美图'}]
+
+Text ID: ab2b71d9cdcc169e750f358337e73bc5
+Events in file 1: [{'type': '财务信息造假', 'entity': '康美药业'}]
+Events in file 2: [{'type': '禁入行业', 'entity': '康美药业'}]
+
+Text ID: 89020529e86f6dac204c986e6c27947a
+Events in file 1: []
+Events in file 2: [{'type': '股票发行失败', 'entity': '“天擎天拓'}, {'type': '股票发行失败', 'entity': '“天擎天拓”'}]
+
+Text ID: 3528919fb846d4dbc6e3ac7f7fbac75c
+Events in file 1: []
+Events in file 2: [{'type': '扰乱市场秩序', 'entity': '美光公司'}]
+
+Text ID: 5f52a6208c3742a99e6b13e714601b92
+Events in file 1: [{'type': '重大赔付', 'entity': '康美药业股份有限公司'}]
+Events in file 2: []
+
+Text ID: 86f8f3196fd46f1a2d05d2d37fb6c792
+Events in file 1: []
+Events in file 2: [{'type': '投资亏损', 'entity': '京东方A'}, {'type': '投资亏损', 'entity': '招商银行'}]
+
+Text ID: 4b544bc7d451e109d1905971a3c79708
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '深圳市深汕交易有限公司'}]
+
+Text ID: 45f50fdddd843cb2a0373af862ec083b
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': '万东医疗'}]
+
+Text ID: 80c8b6a9da8ea0e53289e24dd161398a
+Events in file 1: [{'type': '暂停上市', 'entity': '习酒'}, {'type': '暂停上市', 'entity': '国台酒业'}]
+Events in file 2: [{'type': '暂停上市', 'entity': '国台酒业'}]
+
+Text ID: 7dd7061af751373d4dc3df95fb9c7759
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '北京博清科技有限公司'}]
+
+Text ID: 1b112f80f1285b6da45c195d011cfe73
+Events in file 1: []
+Events in file 2: [{'type': '债务展期', 'entity': '泰禾集团'}]
+
+Text ID: 9573f4704093af72afccc00f64029304
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '青大实训'}, {'type': '高层变更', 'entity': '北大青鸟'}]
+
+Text ID: be597a4c10b53d37f5e919f43f8ca455
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '浙江南都电源动力股份有限公司'}, {'type': '实际控制人变更', 'entity': '浙江长兴南都电源有限公司'}]
+
+Text ID: b37030192e74afc1fb9f53a8f3fcc049
+Events in file 1: [{'type': '业务/资产重组', 'entity': '高速集团'}, {'type': '业务/资产重组', 'entity': '齐鲁交通发展公司'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '高速集团'}, {'type': '业务/资产重组', 'entity': '齐鲁交通发展公司'}, {'type': '业务/资产重组', 'entity': '齐鲁高速'}]
+
+Text ID: 40bab0addce1286fe3925d2d59d82b27
+Events in file 1: [{'type': '扰乱市场秩序', 'entity': '字节跳动'}]
+Events in file 2: [{'type': '重大赔付', 'entity': '字节跳动'}]
+
+Text ID: 90cb6659139d4637618b63c6fb2830d3
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '安徽江淮汽车集团股份有限公司'}, {'type': '高层变更', 'entity': '天安人寿'}]
+
+Text ID: db635e893564bd41333992ffa3883acc
+Events in file 1: [{'type': '实际控制人涉诉仲裁', 'entity': '游族网络'}]
+Events in file 2: [{'type': '实际控制人涉诉仲裁', 'entity': '红塔证券'}, {'type': '实际控制人涉诉仲裁', 'entity': '游族网络'}, {'type': '实际控制人涉诉仲裁', 'entity': '红塔证券红塔证券'}]
+
+Text ID: d4a703bd41b049f026f9865242c0144e
+Events in file 1: []
+Events in file 2: [{'type': '限制业务范围', 'entity': '福建凯美特公司'}, {'type': '限制业务范围', 'entity': '长岭凯美特公司'}]
+
+Text ID: a8d289eb3b3068e7a1dc7c399de1c5c4
+Events in file 1: [{'type': '业务/资产重组', 'entity': '日播时尚'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '日播时尚'}, {'type': '业务/资产重组', 'entity': '三元前驱体'}]
+
+Text ID: 948d6e19bc81abf89840039f1e65709e
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '滴滴出行'}]
+Events in file 2: [{'type': '监管入驻', 'entity': '滴滴出行'}, {'type': '企业被问询约谈审查', 'entity': '滴滴出行'}]
+
+Text ID: 92ef2826c7dd37f548b41e104f2c2f2c
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '经纬纺机'}]
+
+Text ID: 0606e49e2ff73353cefe28fc35a84331
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '金螳螂'}]
+
+Text ID: bd24851f7bef1bb1b9c92d0e48d33005
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': 'ff'}]
+
+Text ID: 1dc71a5bea8b1a9a1cd1c0b925cdd0dd
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '招商港口'}]
+
+Text ID: 7c445d2fdda10af4e700b7e73d95f5cf
+Events in file 1: [{'type': '连续下跌', 'entity': '五粮液'}]
+Events in file 2: []
+
+Text ID: 53fbfef0d7d840065ba24290f5002e36
+Events in file 1: [{'type': '资产质量下降', 'entity': '金华银行'}]
+Events in file 2: []
+
+Text ID: 6124f9935e8a784bfc3f7dbd3b0c680e
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '新协航'}, {'type': '经营激进', 'entity': '泛亚物流'}, {'type': '经营激进', 'entity': '飞熊领鲜'}]
+
+Text ID: dc0dec8904044178458ad8ddd0d01ff6
+Events in file 1: [{'type': '产品虚假宣传', 'entity': '上海厚本金融'}]
+Events in file 2: [{'type': '产品虚假宣传', 'entity': '上海厚本金融信息服务有限公司'}]
+
+Text ID: 05d8199cb59e2d16e53d6683729943db
+Events in file 1: [{'type': '股票发行失败', 'entity': '凯尔达'}]
+Events in file 2: []
+
+Text ID: 1dc71a5bea8b1a9a1cd1c0b925cdd0dd
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '招商港口'}]
+
+Text ID: a3044bc4b7200dd87b19a4bca89a89cf
+Events in file 1: [{'type': '债务违约', 'entity': '富国天启'}]
+Events in file 2: [{'type': '产品违约/不足额兑付', 'entity': '富国天启'}]
+
+Text ID: 973d3a4872e1c104fdb30b7824bb6a7d
+Events in file 1: [{'type': '盗取隐私信息', 'entity': '阿里'}]
+Events in file 2: []
+
+Text ID: 987334424f28f8c5360dc4beb1e4f21e
+Events in file 1: [{'type': '重大资产损失', 'entity': '湖南省虹霖投资开发有限公司'}]
+Events in file 2: [{'type': '投资亏损', 'entity': '湖南省虹霖投资开发有限公司'}]
+
+Text ID: bcee6e49bea94e7a53f5f20c3b488f28
+Events in file 1: []
+Events in file 2: [{'type': '警告', 'entity': '星宇'}]
+
+Text ID: 9fd75e63a9629fffe4f4f36dc0b24ac1
+Events in file 1: [{'type': '责令改正', 'entity': '金新化工'}]
+Events in file 2: [{'type': '责令改正', 'entity': '云天化'}, {'type': '责令改正', 'entity': '金新化工'}]
+
+Text ID: 41c3eb6a8f1a780b524d7a9a51321f70
+Events in file 1: [{'type': '实际控制人涉诉仲裁', 'entity': '浙江仁智股份有限公司'}]
+Events in file 2: [{'type': '实际控制人涉诉仲裁', 'entity': '浙江仁智股份有限公司'}, {'type': '实际控制人涉诉仲裁', 'entity': '西藏瀚澧'}]
+
+Text ID: 46082a89a0d379d326e8b4a8feae6b21
+Events in file 1: [{'type': '公司停牌', 'entity': '中信建投'}]
+Events in file 2: [{'type': '公司停牌', 'entity': '中信建投'}, {'type': '公司停牌', 'entity': '中信证券'}]
+
+Text ID: 01b67113df9f72bec031ccc5efe97dff
+Events in file 1: [{'type': '限制股东权利', 'entity': '惠普'}]
+Events in file 2: []
+
+Text ID: 7671d36ebff12f0af2f617f565952d4e
+Events in file 1: [{'type': '债务违约', 'entity': '秋林集团'}]
+Events in file 2: [{'type': '债务违约', 'entity': '秋林集团'}, {'type': '债务违约', 'entity': '*st秋林'}]
+
+Text ID: 5865b3e9363479406023125d84a0f617
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '江山'}]
+
+Text ID: a265ddfbda7b3d086d6a9d340b92ac81
+Events in file 1: [{'type': '高层涉嫌违法', 'entity': '佳平影业'}]
+Events in file 2: [{'type': '高层失联/死亡', 'entity': '佳平影业'}]
+
+Text ID: 95607dcaeb488f17cde5cd7c9f15402b
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '永辉超市'}, {'type': '经营亏损', 'entity': '大商集团'}]
+
+Text ID: 54a4c271f69b24ba8f3b9c1383e499ce
+Events in file 1: [{'type': '投资亏损', 'entity': '申万宏源'}]
+Events in file 2: []
+
+Text ID: 2187d65c4d57a074278f1125c753f4e4
+Events in file 1: [{'type': '造假欺诈', 'entity': '京东'}]
+Events in file 2: [{'type': '造假欺诈', 'entity': '永利八达通'}]
+
+Text ID: 7af11ee0e046a9d83941add12ed51960
+Events in file 1: [{'type': '资金紧张', 'entity': '优客逸家'}, {'type': '资金紧张', 'entity': '友客公寓'}, {'type': '资金紧张', 'entity': '岚悦公寓'}, {'type': '资金紧张', 'entity': '小鹰公寓'}, {'type': '资金紧张', 'entity': '城城找房'}]
+Events in file 2: [{'type': '资金紧张', 'entity': '友客公寓'}, {'type': '资金紧张', 'entity': '岚悦公寓'}, {'type': '资金紧张', 'entity': '小鹰公寓'}, {'type': '资金紧张', 'entity': '城城找房'}]
+
+Text ID: 760a9e4f8d5ed27bfc8dd3664182ba34
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '嘉里物流'}]
+
+Text ID: 3de6867c675e2364007729e575dcc96f
+Events in file 1: [{'type': '破产清算', 'entity': '方正集团'}]
+Events in file 2: []
+
+Text ID: 0a14ffd207e1edcd56e3fd4b180daed5
+Events in file 1: [{'type': '经营激进', 'entity': '百度'}]
+Events in file 2: []
+
+Text ID: 383fe378a2987b72e4cfab375001b315
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '宁德时代'}]
+
+Text ID: 68c26aea71b3efb729ffcf2bc2f5b2f3
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人涉诉仲裁', 'entity': '海伦哲'}]
+
+Text ID: 10e0ebd820fd10734d59ccc363226f27
+Events in file 1: [{'type': '责令改正', 'entity': '中金公司'}]
+Events in file 2: [{'type': '责令改正', 'entity': '中国国际金融股份有限公司'}, {'type': '责令改正', 'entity': '中金公司'}]
+
+Text ID: 6c2f9770cdc06b03505df3046abb9040
+Events in file 1: []
+Events in file 2: [{'type': '重大债务到期', 'entity': '恒大地产集团有限公司'}]
+
+Text ID: 73cd75e48b7568206f0bb4311e586caf
+Events in file 1: [{'type': '高层变更', 'entity': '广东南粤银行股份有限公司'}]
+Events in file 2: [{'type': '第一大股东变化', 'entity': '广东南粤银行股份有限公司'}]
+
+Text ID: ce54c71bac2b8ae61228f39667fd2aee
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '唐山松下产业机器有限公司'}]
+
+Text ID: e431c750cf7222946abcd95187dcf253
+Events in file 1: [{'type': '造假欺诈', 'entity': '杭州回客'}, {'type': '造假欺诈', 'entity': '杭州回客科技公司'}]
+Events in file 2: [{'type': '造假欺诈', 'entity': '杭州回客科技公司'}, {'type': '企业被问询约谈审查', 'entity': '杭州回客科技公司'}]
+
+Text ID: 73d82b47cb6d711113f795f005c9a71b
+Events in file 1: [{'type': '盈利能力下降', 'entity': '高斯贝尔'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '高斯贝尔'}]
+
+Text ID: 10f2e51c537cd059702a8101ad7610b9
+Events in file 1: []
+Events in file 2: [{'type': '警告', 'entity': '蓝光】'}]
+
+Text ID: c09326f882cac80a3661624124c620c6
+Events in file 1: []
+Events in file 2: [{'type': '债务违约', 'entity': '银盛支付'}]
+
+Text ID: 83ab58ac4ac1ab9aefaafc1d1d20da1c
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '鸿星尔克'}]
+
+Text ID: 769e19d2fb324abea1fd9909f4c2114a
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人变更', 'entity': '德利国际'}, {'type': '实际控制人变更', 'entity': '中集天达空港'}]
+
+Text ID: 95607dcaeb488f17cde5cd7c9f15402b
+Events in file 1: []
+Events in file 2: [{'type': '经营亏损', 'entity': '永辉超市'}, {'type': '经营亏损', 'entity': '大商集团'}]
+
+Text ID: c5ff19c50195d1f54495258a401e6859
+Events in file 1: []
+Events in file 2: [{'type': '实际控制人涉嫌违法', 'entity': '雷迪克雷迪克'}]
+
+Text ID: bbcf23a9c36908c5e7d1745f4efe3462
+Events in file 1: [{'type': '资金紧张', 'entity': '恒大集团'}]
+Events in file 2: [{'type': '经营激进', 'entity': '恒大集团'}]
+
+Text ID: bc21516918b3a182cf19a3b69d1c609f
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '汇绿园林'}]
+
+Text ID: 61e2715610b30d26a06e674a283b0310
+Events in file 1: []
+Events in file 2: [{'type': '债务违约', 'entity': '中国华阳经贸集团有限公司'}]
+
+Text ID: 77623adff31212a9e4a7497f7e15b8f8
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '恒康'}]
+
+Text ID: dffae584cff2d7c76645d58cd5750d67
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '亦庄控股'}]
+
+Text ID: 7fcf40a392be7eabc34b737b3d6e3160
+Events in file 1: []
+Events in file 2: [{'type': '破产清算', 'entity': '山西顺丰速运有限公司'}]
+
+Text ID: edd011dc3c87c1b0751ee61b4f55ef75
+Events in file 1: [{'type': '停产停业', 'entity': '邹平铝业有限公司'}]
+Events in file 2: [{'type': '资金紧张', 'entity': '邹平铝业有限公司'}]
+
+Text ID: 4b1a6951ec2f0b6f9bf20e7f80ab0751
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '成都科瑞达科技有限公司'}, {'type': '企业被问询约谈审查', 'entity': '成都普思生物科技股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '中铁隆工程集团有限公司'}]
+
+Text ID: 3c131b60b63b24c76945f713f7e3102d
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '于都云尚文化传媒有限公司'}]
+
+Text ID: 2e9095d98d85419c382550130acc5117
+Events in file 1: []
+Events in file 2: [{'type': '警告', 'entity': '同花顺'}, {'type': '企业被问询约谈审查', 'entity': '同花顺'}]
+
+Text ID: 4bc1703bf8355370e7b2f795a89eeb67
+Events in file 1: [{'type': '公司退市', 'entity': '中毅达'}, {'type': '公司退市', 'entity': '康得新'}, {'type': '公司退市', 'entity': 'st康美'}]
+Events in file 2: [{'type': '公司退市', 'entity': '中毅达'}, {'type': '公司退市', 'entity': 'st康美'}]
+
+Text ID: cd2d68852f49a113d1d08ad959f477f0
+Events in file 1: [{'type': '重大赔付', 'entity': '中华保险'}]
+Events in file 2: []
+
+Text ID: e19754845d18f8330634c2369f731dc2
+Events in file 1: [{'type': '网站安全漏洞', 'entity': 'ea'}, {'type': '债务违约', 'entity': '*st信通'}]
+Events in file 2: [{'type': '网站安全漏洞', 'entity': 'ea'}, {'type': '公司退市', 'entity': '康美'}, {'type': '债务违约', 'entity': '*st信通'}]
+
+Text ID: 41092b9c9a72cc8bcf955b448fb5d270
+Events in file 1: [{'type': '高层变更', 'entity': '时代中国控股'}]
+Events in file 2: [{'type': '更换基金经理', 'entity': '时代中国控股'}]
+
+Text ID: 7c70c0275b24143ab6b896f506821b68
+Events in file 1: [{'type': '债务违约', 'entity': '河南高速路桥公司'}, {'type': '债务违约', 'entity': '高速路桥公司'}]
+Events in file 2: [{'type': '债务违约', 'entity': '河南高速路桥公司'}, {'type': '债务违约', 'entity': '河南高速发展路桥工程有限公司'}, {'type': '债务违约', 'entity': '高速路桥公司'}]
+
+Text ID: eafc724b4d2e4e4d313c3284a7956cab
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': '格灵深瞳'}]
+
+Text ID: 760a9e4f8d5ed27bfc8dd3664182ba34
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '嘉里物流'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 06e6c3a6c461b44147eeeee813f8c6fa
+Events in file 1: []
+Events in file 2: [{'type': '股权冻结/强制转让', 'entity': '董明珠'}]
+
+Text ID: a24fa95319aec819a548c550fbaa4509
+Events in file 1: []
+Events in file 2: [{'type': '造假欺诈', 'entity': '杭州回客科技有限公司'}]
+
+Text ID: f306e5f641dd448358d689916d1a0713
+Events in file 1: [{'type': '责令改正', 'entity': '视觉中国'}]
+Events in file 2: [{'type': '责令改正', 'entity': '视觉中国网站'}, {'type': '企业被问询约谈审查', 'entity': '视觉中国网站'}]
+
+Text ID: 54e9021217caeafc2135a5dfa3f69400
+Events in file 1: [{'type': '业务/资产重组', 'entity': '方正集团'}]
+Events in file 2: [{'type': '业务/资产重组', 'entity': '方正证券'}, {'type': '业务/资产重组', 'entity': '方正集团'}]
+
+Text ID: eb08ebafbfca4c5d81ed85a0556936be
+Events in file 1: [{'type': '高层变更', 'entity': '石家庄智联传媒有限公司'}]
+Events in file 2: [{'type': '高层变更', 'entity': '亿城房地产开发有限公司'}, {'type': '高层变更', 'entity': '石家庄市韩迪品牌策略顾问有限公司'}, {'type': '高层变更', 'entity': '石家庄智联传媒有限公司'}]
+
+Text ID: 738abb8c9c422329d7374f9fdf105f6b
+Events in file 1: []
+Events in file 2: [{'type': '盈利能力下降', 'entity': 'parknational'}]
+
+Text ID: d14c100bc42db9ddfc27915b111e03c5
+Events in file 1: []
+Events in file 2: [{'type': '澄清辟谣', 'entity': '国泰航空'}]
+
+Text ID: 6203eeb56d7abd6db0b58b0b8ec5338b
+Events in file 1: [{'type': '企业被问询约谈审查', 'entity': '腾讯'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '腾讯爱奇艺'}]
+
+Text ID: 1748ab96bd7fda84bf43e92d68b1091b
+Events in file 1: [{'type': '资金紧张', 'entity': '当代置业'}]
+Events in file 2: [{'type': '债务展期', 'entity': '当代置业'}]
+
+Text ID: a5cdb57fbcbf36e7533a2f8e25273e47
+Events in file 1: [{'type': '非法集资', 'entity': '山西振富能源集团'}]
+Events in file 2: [{'type': '非法集资', 'entity': '山西振富能源集团'}, {'type': '产品违约/不足额兑付', 'entity': '中诚信托有限责任公司'}]
+
+Text ID: 6ecc0ee82dd0109a57d362a85e5a829d
+Events in file 1: [{'type': '被列为失信被执行人', 'entity': '上海美特斯邦威服饰股份有限公司'}]
+Events in file 2: [{'type': '限制业务范围', 'entity': '上海美特斯邦威服饰股份有限公司'}]
+
+Text ID: 1a5819c4004d05465c527bafbf72e1d4
+Events in file 1: [{'type': '股权冻结/强制转让', 'entity': '云南城投置业股份有限公司'}]
+Events in file 2: [{'type': '资产冻结', 'entity': '云南城投置业股份有限公司'}]
+
+Text ID: 5291891d59937bed83bb27ab871746a9
+Events in file 1: [{'type': '破产清算', 'entity': '*st康美'}]
+Events in file 2: [{'type': '破产清算', 'entity': '*st康美'}, {'type': '破产清算', 'entity': '广东神农氏企业管理合伙企业(有限合伙)'}]
+
+Text ID: e3a865380617897bf4715d33ad10920e
+Events in file 1: [{'type': '盈利能力下降', 'entity': '轻易贷'}]
+Events in file 2: [{'type': '盈利能力下降', 'entity': '轻易贷总公司'}]
+
+Text ID: 54987cc211ea876b148b894f9e7e42fe
+Events in file 1: []
+Events in file 2: [{'type': '第一大股东变化', 'entity': '达科为'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 5c9f3897d11543b205ad2d7e7c7711bb
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': 'st中天'}]
+
+Text ID: bb684bae6746ff9d39ce82f6526affef
+Events in file 1: [{'type': '非法集资', 'entity': '无锡市翔鑫投资管理有限公司铜陵分公司'}]
+Events in file 2: [{'type': '分支机构被警方调查', 'entity': '无锡市翔鑫投资管理有限'}, {'type': '非法集资', 'entity': '公司铜陵分公司'}]
+
+Text ID: e979b6d8df712bf889bc9ec33d624060
+Events in file 1: [{'type': '行业排名下降', 'entity': '山西汾酒'}, {'type': '行业排名下降', 'entity': '怡亚通'}, {'type': '行业排名下降', 'entity': '来伊份'}, {'type': '行业排名下降', 'entity': '海南椰岛'}]
+Events in file 2: [{'type': '行业排名下降', 'entity': '山西汾酒'}, {'type': '行业排名下降', 'entity': '*ST皇台'}, {'type': '行业排名下降', 'entity': '怡亚通'}, {'type': '行业排名下降', 'entity': '来伊份'}, {'type': '行业排名下降', 'entity': '海南椰岛'}]
+
+Text ID: 5ed62921a0d21a2bae456a658a38bea5
+Events in file 1: []
+Events in file 2: [{'type': '大量投诉', 'entity': '货拉拉'}]
+
+Text ID: 7edd2d561ae6fc853f68de7dd6a66276
+Events in file 1: []
+Events in file 2: [{'type': '债务展期', 'entity': '华冕财富'}]
+
+Text ID: f69c0036b4fca14a41a5f696bcc4131e
+Events in file 1: [{'type': '责令改正', 'entity': '美团'}]
+Events in file 2: []
+
+Text ID: 6a6910291f8447ac596f78556176ca71
+Events in file 1: []
+Events in file 2: [{'type': '扰乱市场秩序', 'entity': '藤县昌源冷冻食品有限公司'}]
+
+Text ID: 75449c376db11bbcf6d95ac75f6667c5
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '中泰证券'}]
+
+Text ID: f6df139a6e5c89d66c213999f37d284d
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '柔宇科技'}]
+
+Text ID: d5ca29175c0c0dcc1b0f0d757220f49d
+Events in file 1: [{'type': '股权冻结/强制转让', 'entity': '河南中孚实业股份有限公司'}]
+Events in file 2: [{'type': '股权冻结/强制转让', 'entity': '*st中孚'}, {'type': '股权冻结/强制转让', 'entity': '河南中孚实业股份有限公司'}]
+
+Text ID: e29c26d3127b055b316018e535ec5fc3
+Events in file 1: [{'type': '更换基金经理', 'entity': '兴全基金'}]
+Events in file 2: [{'type': '更换基金经理', 'entity': '兴全基金'}, {'type': '更换基金经理', 'entity': '兴全趋势基金'}]
+
+Text ID: 61b41a81d0798e31e2e34267748c2938
+Events in file 1: []
+Events in file 2: [{'type': '责令改正', 'entity': '辽宁省阜新市中公教育'}]
+
+Text ID: 3596abe9d1010ce41519ff5183214813
+Events in file 1: [{'type': '第一大股东变化', 'entity': '长荣股份'}, {'type': '第一大股东变化', 'entity': '海德堡'}]
+Events in file 2: [{'type': '第一大股东变化', 'entity': '海德堡'}]
+
+Text ID: 6cf66d8d9c163425139851ff842f6ea9
+Events in file 1: [{'type': '产品违约/不足额兑付', 'entity': '华冕财富'}]
+Events in file 2: []
+
+Text ID: dfffdfd56ada3bd3e7378205399b0594
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '熊乐国际旅行社有限公司'}]
+
+Text ID: 7a297b204c593f7d704aefb453d4abc9
+Events in file 1: [{'type': '外部信用评级下调', 'entity': '金昌市建设投资开发(集团)有限责任公司'}]
+Events in file 2: [{'type': '外部信用评级下调', 'entity': '金昌市建设投资开发(集团)有限责任公司'}, {'type': '外部信用评级下调', 'entity': '金昌建投'}]
+
+Text ID: 61bf91629913aca54eb097d80772508a
+Events in file 1: [{'type': '造假欺诈', 'entity': '滴滴'}]
+Events in file 2: [{'type': '责令改正', 'entity': '滴滴'}]
+
+Text ID: d40a8eb4ce62cca2d8b0381242c0422c
+Events in file 1: [{'type': '违规催收', 'entity': '拍拍贷'}]
+Events in file 2: [{'type': '公司停牌', 'entity': 'st长油'}, {'type': '违规催收', 'entity': '拍拍贷'}]
+
+Text ID: f10ad0fbffa65341b6254ab748aa84e3
+Events in file 1: []
+Events in file 2: [{'type': '资金紧张', 'entity': '华夏幸福'}]
+
+Text ID: 0117ca0c4d8612a2f4e317ba934ecff6
+Events in file 1: []
+Events in file 2: [{'type': '业务/资产重组', 'entity': '邓老凉茶'}]
+
+Text ID: 37d61f796bab8a6b83fb81e52141c23f
+Events in file 1: []
+Events in file 2: [{'type': '经营激进', 'entity': '黄山王光熙松萝茶业股份公司'}]
+
+Text ID: 0acc60307e9901dae755d9fcb92770f4
+Events in file 1: [{'type': '停止接受新业务', 'entity': '君康人寿'}]
+Events in file 2: [{'type': '停止批准增设分支机构', 'entity': '君康人寿'}]
+
+Text ID: 105e720efa84ea61d756203a1e9204d3
+Events in file 1: []
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '广东威武实业有限公司'}, {'type': '企业被问询约谈审查', 'entity': '莱芜区河北普诺森安全装备股份有限公司'}, {'type': '企业被问询约谈审查', 'entity': '广东榕玉五金塑胶有限公司'}, {'type': '企业被问询约谈审查', 'entity': '章丘市福顺源商贸有限公司章丘区北京飞人防护用品有限公司'}, {'type': '企业被问询约谈审查', 'entity': '济南市莱芜亿友物资有限公司莱芜区如东盾安劳保防护用品厂'}]
+
+Text ID: 27fe6b7bdc681420ba61bab4becf2bdf
+Events in file 1: [{'type': '实际控制人涉诉仲裁', 'entity': '四川蓝光发展股份有限公司'}]
+Events in file 2: [{'type': '股权冻结/强制转让', 'entity': '四川蓝光发展股份有限公司'}]
+
+Text ID: d38bf78d674f6ae45c46e02f3efc305d
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '欧地希机电（青岛）有限公司'}]
+
+Text ID: c63f40022bb958143ec6c860b2b39167
+Events in file 1: [{'type': '监管入驻', 'entity': '阿里巴巴'}]
+Events in file 2: [{'type': '企业被问询约谈审查', 'entity': '阿里巴巴'}]
+
+Text ID: d2a46e54f7ae36995976b8d01a09eade
+Events in file 1: [{'type': '公司退市', 'entity': '康得新'}]
+Events in file 2: [{'type': '公司退市', 'entity': '东旭光电'}, {'type': '公司退市', 'entity': '康得新'}]
+
+Text ID: e37cdc6e8b320614bc652a7ec431ddac
+Events in file 1: [{'type': '高层涉嫌违法', 'entity': '长沙银行'}]
+Events in file 2: [{'type': '内幕交易', 'entity': '长沙银行'}, {'type': '高层涉嫌违法', 'entity': '长沙银行'}]
+
+Text ID: 7655e740f50c91a47ef1315ce19d39f5
+Events in file 1: [{'type': '被列为失信被执行人', 'entity': '京汉置业'}]
+Events in file 2: []
+
+Text ID: 12107713468bd27f118baf6cfe8cbe95
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '用桂聘'}]
+
+Text ID: c432447578eeb8faafd3c5bad3edcbdc
+Events in file 1: [{'type': '网站安全漏洞', 'entity': 'google'}]
+Events in file 2: [{'type': '网站安全漏洞', 'entity': 'google'}, {'type': '网站安全漏洞', 'entity': '港傳媒'}]
+
+Text ID: 7ea913478d8bc00f3b6cc2e98353c915
+Events in file 1: []
+Events in file 2: [{'type': '高层变更', 'entity': '深圳市智哥机器人系统有限公司'}]
+
